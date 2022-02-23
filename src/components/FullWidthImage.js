@@ -45,11 +45,11 @@ export default function FullWidthImage(props) {
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
-              maxHeight: height,
+              height: height,
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image
-            aspectratio={3 / 1}
+            // aspectratio={3 / 1}
             // This is a presentational image, so the alt should be an empty string
             alt=""
             formats={["auto", "webp", "avif"]}

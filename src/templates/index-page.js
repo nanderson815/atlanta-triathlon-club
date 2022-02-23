@@ -18,11 +18,17 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => {
+  console.log(image);
   const heroImage = getImage(image) || image;
 
   return (
     <div>
-      <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      <FullWidthImage
+        height={800}
+        img={heroImage}
+        title={title}
+        subheading={subheading}
+      />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -135,7 +141,9 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
             text
