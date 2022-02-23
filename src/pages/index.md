@@ -1,9 +1,10 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Atlanta Triathlon Club
 image: /img/atc-repeating-background_artboard-2-1-.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heroimage: /img/android-chrome-512x512.png
+subheading: "#Powered by Energy Lab "
 mainpitch:
   title: Why Kaldi
   description: >
@@ -17,7 +18,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/meeting-space.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a

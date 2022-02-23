@@ -17,15 +17,16 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  heroimage,
 }) => {
-  console.log(image);
-  const heroImage = getImage(image) || image;
+  const backgroundImage = getImage(image) || image;
 
   return (
     <div>
       <FullWidthImage
         height={800}
-        img={heroImage}
+        img={backgroundImage}
+        frontImage={heroimage}
         title={title}
         subheading={subheading}
       />
@@ -82,6 +83,7 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  heroimage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
@@ -98,6 +100,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
+        heroimage={frontmatter.heroimage}
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
@@ -127,7 +130,12 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+            gatsbyImageData(quality: 100, width: 3000)
+          }
+        }
+        heroimage {
+          childImageSharp {
+            gatsbyImageData(quality: 100, width: 200)
           }
         }
         heading
@@ -141,9 +149,7 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
               }
             }
             text

@@ -1,11 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { GatsbyImage } from "gatsby-plugin-image";
+import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
 export default function FullWidthImage(props) {
   const {
     height = 400,
     img,
+    frontImage,
     title,
     subheading,
     imgPosition = "top left",
@@ -63,7 +65,8 @@ export default function FullWidthImage(props) {
               position: "relative",
               // This centers the other elements inside the hero component
               placeItems: "center",
-              display: "grid",
+              display: "flex",
+              flexDirection: "column",
             }}
           >
             {/* Any content here will be centered in the component */}
@@ -81,6 +84,16 @@ export default function FullWidthImage(props) {
               >
                 {title}
               </h1>
+            )}
+            {frontImage && (
+              <PreviewCompatibleImage
+                imageInfo={{ image: frontImage }}
+                style={{
+                  gridArea: "1/1",
+                  height: 200,
+                }}
+                alt=""
+              />
             )}
             {subheading && (
               <h3
