@@ -1,8 +1,9 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap')
 
 // Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+// Kaldi logo brand color: #ff0000
+$kaldi-red: #ff0000
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
@@ -34,7 +35,26 @@ $medium: 768px
     margin-bottom: 1.5rem
     margin-top: 0
 
+// Font Classes and overrides
+$size-1: 5rem
+$size-2: 4rem
+$size-3: 3rem
+$size-4: 2rem
+
+.pacifico
+  font-family: 'Pacifico', cursive
+
+.primaryText
+  color: $kaldi-red !important
+
 // Helper Classes
+
+.paper
+  background: white
+  border-radius: 24px
+  box-shadow: 0px 4px 25px rgb(0 0 0 / 15%)
+  padding: 1rem
+
 .full-width-image-container
   width: 100vw
   height: 400px

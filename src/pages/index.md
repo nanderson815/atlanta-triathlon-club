@@ -1,21 +1,18 @@
 ---
+heroimage: /img/android-chrome-512x512.png
+heading: Great coffee with a conscience
 templateKey: index-page
 title: Atlanta Triathlon Club
 image: /img/atc-repeating-background_artboard-2-1-.png
-heading: Great coffee with a conscience
-heroimage: /img/android-chrome-512x512.png
+accentimage: /img/topography.png
 subheading: "#Powered by Energy Lab "
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: WELCOME TO ATLANTA TRI CLUB
+  description: "If you’re looking for sprint triathlon training in Atlanta, you’ve
+    come to the right place. Atlanta Tri Club is a community of athletes of all
+    ages and experience levels. Our members train for sprint triathlons through
+    IRONMAN races, and 5ks through marathons.  We have a place for you! "
+  subtitle: Let's work towards your fitness goals together!
 intro:
   blurbs:
     - image: /img/meeting-space.png
@@ -45,12 +42,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Our Services
+  description: How Can we help?
 main:
   heading: Great coffee with no compromises
   description: >
@@ -67,4 +60,8 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---
