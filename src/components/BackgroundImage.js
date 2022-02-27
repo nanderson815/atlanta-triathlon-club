@@ -1,15 +1,22 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { default as BGImage } from "gatsby-background-image";
+import { convertToBgImage } from "gbimage-bridge";
 
 export default function BackgroundImage(props) {
   const { height = 400, img, children } = props;
+
+  let translatedImage;
+
+  if (img.images) {
+    translatedImage = convertToBgImage(img);
+  }
 
   const pageStyle = {
     backgroundRepeat: "repeat",
     backgroundPosition: "top left",
     backgroundSize: 100,
-    height: 800,
+    minHeight: height,
   };
 
   return (
@@ -22,14 +29,22 @@ export default function BackgroundImage(props) {
         }}
       >
         {img?.url ? (
-          <div style={{ backgroundImage: `url(${img})`, height: height }}>
+          <div style={{ backgroundImage: `url(${img})`, minHeight: height }}>
             {children}
           </div>
-        ) : (
+        ) : img?.childImageSharp ? (
           <BGImage
             height={height}
             style={pageStyle}
             fluid={img?.childImageSharp?.fluid}
+          >
+            {children}
+          </BGImage>
+        ) : (
+          <BGImage
+            height={height}
+            style={{ minHeight: height, objectFit: "contain" }}
+            {...translatedImage}
           >
             {children}
           </BGImage>

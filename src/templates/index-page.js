@@ -5,9 +5,10 @@ import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+// import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
+import Button from "../components/Button";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -22,6 +23,8 @@ export const IndexPageTemplate = ({
   const backgroundImage = getImage(image) || image;
   const accentBackgroundImage = getImage(accentimage) || accentimage;
 
+  console.log(intro);
+
   return (
     <div>
       <FullWidthImage
@@ -32,33 +35,62 @@ export const IndexPageTemplate = ({
         subheading={subheading}
       />
       <BackgroundImage height={800} img={accentBackgroundImage}>
-        <div className="container">
+        <div style={{ minHeight: 800 }} className="container center">
           <div className="section">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <div className="content">
-                  <div className="content paper">
-                    <div className="tile">
-                      <h1 className="title has-text-weight-bold is-size-3-mobile is-size-2-tablet">
-                        {mainpitch.title}
-                      </h1>
-                    </div>
-                    <div className="tile pacifico primaryText">
-                      <h1 className="tile pacifico primaryText">
-                        {mainpitch.subtitle}
-                      </h1>
-                    </div>
-                    <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
-                    </div>
-                  </div>
+            <div className="content">
+              <div className="content paper">
+                <div className="tile mb center-text">
+                  <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
+                    {mainpitch.title}
+                  </h1>
                 </div>
+                <div className="mb">
+                  <h1 className="tile pacifico primaryText center-text">
+                    {mainpitch.subtitle}
+                  </h1>
+                </div>
+                <Button
+                  className="is-medium is-fullwidth mb"
+                  href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=40&prodId=109"
+                >
+                  7 DAY FREE TRIAL
+                </Button>
+                <div className="tile mb center-text">
+                  <h3 className="subtitle">{mainpitch.description}</h3>
+                </div>
+                <Link to="/start-here">
+                  <Button className="is-medium is-fullwidth mb">
+                    LEARN MORE
+                  </Button>
+                </Link>
               </div>
             </div>
           </div>
         </div>
       </BackgroundImage>
-      <section className="section section--gradient">
+      <BackgroundImage height={800} img={backgroundImage}>
+        <div style={{ minHeight: 800 }} className="container center">
+          <div className="content">
+            <div className="content">
+              <div className="tile mb center-text">
+                <h1
+                  className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet"
+                  style={{ color: "white" }}
+                >
+                  {intro.heading}
+                </h1>
+              </div>
+              <div className="mb">
+                <h1 className="tile pacifico primaryText center-text">
+                  {intro.description}
+                </h1>
+              </div>
+              <Features gridItems={intro.blurbs} />
+            </div>
+          </div>
+        </div>
+      </BackgroundImage>
+      {/* <section className="section section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">
@@ -97,7 +129,7 @@ export const IndexPageTemplate = ({
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };
@@ -154,6 +186,9 @@ export const pageQuery = graphql`
         image {
           childImageSharp {
             gatsbyImageData(quality: 100, width: 3000)
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
           }
         }
         accentimage {
@@ -183,7 +218,9 @@ export const pageQuery = graphql`
                 gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
               }
             }
-            text
+            title
+            desc
+            link
           }
           heading
           description

@@ -71,16 +71,18 @@ export default function FullWidthImage(props) {
           >
             {/* Any content here will be centered in the component */}
             {title && (
-              <h1
-                className="has-text-weight-bold is-size-3-mobile is-size-1-tablet"
-                style={{
-                  color: "white",
-                  lineHeight: "1",
-                  padding: "0.25em",
-                }}
-              >
-                {title}
-              </h1>
+              <div className="center-text">
+                <h1
+                  className="has-text-weight-bold is-size-3-mobile is-size-1-tablet"
+                  style={{
+                    color: "white",
+                    lineHeight: "1",
+                    padding: "0.25em",
+                  }}
+                >
+                  {title}
+                </h1>
+              </div>
             )}
             {frontImage && (
               <PreviewCompatibleImage
