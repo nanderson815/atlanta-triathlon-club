@@ -24,14 +24,14 @@ export default function FullWidthImage(props) {
       >
         {img?.url ? (
           <img
-            src={img}
-            objectFit={"cover"}
+            src={img.url}
             objectPosition={imgPosition}
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               height: height,
               width: "100%",
+              objectFit: "cover",
             }}
             // You can optionally force an aspect ratio for the generated image
             aspectratio={3 / 1}

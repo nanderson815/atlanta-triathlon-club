@@ -36,10 +36,13 @@ $medium: 768px
     margin-top: 0
 
 // Font Classes and overrides
-$size-1: 5rem
-$size-2: 4rem
-$size-3: 3rem
+$size-1: 4.5rem
+$size-2: 3rem
+$size-3: 2.5rem
 $size-4: 2rem
+$size-5: 1.5rem
+$size-6: 1rem
+$size-7: .5rem
 
 .pacifico
   font-family: 'Pacifico', cursive
@@ -49,6 +52,16 @@ $size-4: 2rem
 
 // Buttons
 $danger: $kaldi-red
+
+.cardButton
+  background: #232a35 !important
+  height: 100%
+  &:hover
+    -webkit-transition: all .2s ease-in
+    transition: all .2s ease-in
+    background: $kaldi-red !important
+    color: white !important
+    cursor: pointer
 
 // Helper Classes
 
@@ -176,7 +189,7 @@ $menu-label-color: $white-ter
   flex-basis: 35%
   margin: 0 1.5em 0 0
 
-@import "~bulma"
+@import "~bulma/bulma.sass"
 
 // responsiveness
 +tablet-only

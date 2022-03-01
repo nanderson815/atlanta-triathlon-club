@@ -9,6 +9,7 @@ import Features from "../components/Features";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
 import Button from "../components/Button";
+import ResultsRoll from "../components/ResultsRoll";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -22,8 +23,6 @@ export const IndexPageTemplate = ({
 }) => {
   const backgroundImage = getImage(image) || image;
   const accentBackgroundImage = getImage(accentimage) || accentimage;
-
-  console.log(intro);
 
   return (
     <div>
@@ -70,66 +69,54 @@ export const IndexPageTemplate = ({
       </BackgroundImage>
       <BackgroundImage height={800} img={backgroundImage}>
         <div style={{ minHeight: 800 }} className="container center">
-          <div className="content">
+          <div className="section">
             <div className="content">
-              <div className="tile mb center-text">
-                <h1
-                  className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet"
-                  style={{ color: "white" }}
-                >
-                  {intro.heading}
-                </h1>
+              <div className="content">
+                <div className="tile mb center-text">
+                  <h1
+                    className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet"
+                    style={{ color: "white" }}
+                  >
+                    {intro.heading}
+                  </h1>
+                </div>
+                <div className="mb">
+                  <h1 className="tile pacifico primaryText center-text">
+                    {intro.description}
+                  </h1>
+                </div>
+                <Features gridItems={intro.blurbs} />
               </div>
-              <div className="mb">
-                <h1 className="tile pacifico primaryText center-text">
-                  {intro.description}
-                </h1>
-              </div>
-              <Features gridItems={intro.blurbs} />
             </div>
           </div>
         </div>
       </BackgroundImage>
-      {/* <section className="section section--gradient">
-        <div className="container">
+      <BackgroundImage height={800} img={accentBackgroundImage}>
+        <div style={{ minHeight: 800 }} className="container center">
           <div className="section">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <div className="content">
-                  <div className="content"></div>
-                  <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {intro.heading}
-                      </h3>
-                      <p>{intro.description}</p>
-                    </div>
-                  </div>
-                  <Features gridItems={intro.blurbs} />
-                  <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/products">
-                        See all products
-                      </Link>
-                    </div>
-                  </div>
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
-                    </h3>
-                    <BlogRoll />
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/blog">
-                        Read more
-                      </Link>
-                    </div>
-                  </div>
+            <div className="content">
+              <div className="content">
+                <div className="tile mb center-text">
+                  <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
+                    LATEST RACE RESULTS
+                  </h1>
                 </div>
+                <div className="mb">
+                  <h5 className="center-text is-size-6-mobile is-size-5-tablet">
+                    If you can run or walk a mile, you’re ready to train for a
+                    sprint triathlon. Don’t believe it? It’s true! At Atlanta
+                    Triathlon Club, we’ve trained all kinds of athletes of all
+                    ages, taught hundreds to swim, and helped thousands of
+                    excited beginners cross their first finish line. Just check
+                    out the latest race results from our members:
+                  </h5>
+                </div>
+                <ResultsRoll />
               </div>
             </div>
           </div>
         </div>
-      </section> */}
+      </BackgroundImage>
     </div>
   );
 };
@@ -215,7 +202,7 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+                gatsbyImageData(quality: 100, layout: CONSTRAINED)
               }
             }
             title
