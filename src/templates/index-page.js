@@ -10,6 +10,7 @@ import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
 import Button from "../components/Button";
 import ResultsRoll from "../components/ResultsRoll";
+import BlogRoll from "../components/BlogRoll";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -117,6 +118,25 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </BackgroundImage>
+      <BackgroundImage height={800} img={backgroundImage}>
+        <div style={{ minHeight: 800 }} className="container center">
+          <div className="section">
+            <div className="content">
+              <div className="content">
+                <div className="tile mb center-text">
+                  <h1
+                    className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet"
+                    style={{ color: "white" }}
+                  >
+                    LATEST ARTICLES
+                  </h1>
+                </div>
+                <BlogRoll />
+              </div>
+            </div>
+          </div>
+        </div>
+      </BackgroundImage>
     </div>
   );
 };
@@ -190,7 +210,6 @@ export const pageQuery = graphql`
             gatsbyImageData(quality: 100, width: 300)
           }
         }
-        heading
         subheading
         mainpitch {
           title
