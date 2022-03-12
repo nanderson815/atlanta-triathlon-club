@@ -1,8 +1,8 @@
 ---
-heroimage: /img/android-chrome-512x512.png
 templateKey: index-page
 title: Atlanta Triathlon Club
-image: /img/atc-repeating-background_artboard-2-1-.png
+image: /img/ATC-repeating-background_Artboard-2.png
+heroimage: /img/android-chrome-512x512.png
 accentimage: /img/topography.png
 subheading: "#Powered by Energy Lab "
 mainpitch:
