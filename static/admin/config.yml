@@ -119,4 +119,87 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/start-here/index.md"
+        label: "Start Here"
+        name: "startHere"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "start-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - { label: "Body", name: "body", widget: markdown }
+          - { label: Image One, name: imageOne, widget: image }
+          - { label: Image Two, name: imageTwo, widget: image }
+          - {
+              label: Blurbs,
+              name: blurbs,
+              widget: list,
+              fields:
+                [
+                  { label: Title, name: title, widget: text },
+                  { label: Description, name: desc, widget: markdown },
+                ],
+            }
+          - {
+              label: "Call to Action",
+              name: "cto",
+              widget: object,
+              fields:
+                [
+                  { label: "Title", name: "title", widget: "string" },
+                  { label: "Body", name: "body", widget: markdown },
+                ],
+            }
+      - file: "src/pages/membership-options/index.md"
+        label: "Membership Options"
+        name: "membership"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "membership-options",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - { label: "Body", name: "body", widget: markdown }
+          - { label: Image One, name: imageOne, widget: image }
+          - { label: Image Two, name: imageTwo, widget: image }
+          - {
+              label: Membership Tiers,
+              name: tiers,
+              widget: list,
+              fields:
+                [
+                  { label: Title, name: title, widget: text },
+                  { label: Price, name: price, widget: text },
+                  { label: Description, name: desc, widget: markdown },
+                ],
+            }
+          - {
+              label: "Call to Action",
+              name: "cto",
+              widget: object,
+              fields:
+                [
+                  { label: "Title", name: "title", widget: "string" },
+                  { label: "Body", name: "body", widget: markdown },
+                ],
+            }
 

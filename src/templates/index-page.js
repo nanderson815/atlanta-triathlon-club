@@ -99,7 +99,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="tile mb center-text">
                   <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
-                    LATEST RACE RESULTS
+                    Latest Race Results
                   </h1>
                 </div>
                 <div className="mb">
@@ -128,7 +128,7 @@ export const IndexPageTemplate = ({
                     className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet"
                     style={{ color: "white" }}
                   >
-                    LATEST ARTICLES
+                    Latest Articles
                   </h1>
                 </div>
                 <BlogRoll />

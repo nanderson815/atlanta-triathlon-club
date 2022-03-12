@@ -14,6 +14,12 @@ $black: #2b2523
 $small: 480px
 $medium: 768px
 
+// fonts
+$paragraph: 1.4rem
+
+p
+  font-size: $paragraph
+
 .navbar
   background-color: #00000000 !important
 
@@ -132,6 +138,23 @@ $danger: $kaldi-red
 // Navbar overrides
 $navbar-item-color: $kaldi-red-invert
 $navbar-item-hover-color: $kaldi-red
+
+$navbar-dropdown-background-color: black
+$navbar-dropdown-item-hover-color: $kaldi-red
+
+.navbar-link:not(.is-arrowless)::after
+  border-color: white !important
+
+.navbar-link
+  &:focus
+    background: black !important
+  &:hover
+    background: black !important
+  @media screen and (max-width: $medium)
+    padding: 0 !important
+
+.mobile-border
+  border: 1px solid white
 
 .navbar-item
   font-size: 24px

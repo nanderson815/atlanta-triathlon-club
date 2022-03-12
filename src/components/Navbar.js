@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOM from "react-dom";
 import { Link } from "gatsby";
 import logo from "../img/logo.png";
 
@@ -9,6 +10,16 @@ const Navbar = class extends React.Component {
       active: false,
       navBarActiveClass: "",
     };
+    this.servicesMenu = React.createRef();
+    this.trainingMenu = React.createRef();
+    this.memberMenu = React.createRef();
+  }
+
+  toggleMobileDropdown(ref) {
+    console.log(ref.current);
+    const node = ReactDOM.findDOMNode(ref.current);
+    node.classList.toggle("is-hidden-touch");
+    node.classList.toggle("mobile-border");
   }
 
   toggleHamburger() {
@@ -70,18 +81,149 @@ const Navbar = class extends React.Component {
             style={this.state.active ? { background: "black", padding: 0 } : {}}
           >
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item" to="/start-here">
+                Start Here
+              </Link>
+              <a
+                className="navbar-item"
+                href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=account"
+              >
+                Join
+              </a>
+
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div
+                  className="navbar-link"
+                  onClick={() => this.toggleMobileDropdown(this.servicesMenu)}
+                  onKeyPress={() =>
+                    this.toggleMobileDropdown(this.servicesMenu)
+                  }
+                  role="menuitem"
+                  tabIndex={0}
+                >
+                  Services
+                </div>
+                <div
+                  className="navbar-dropdown is-hidden-touch"
+                  ref={this.servicesMenu}
+                >
+                  <a
+                    href="http://energylabatl.com/swim-coaching-2/"
+                    className="navbar-item"
+                  >
+                    Swim Coaching
+                  </a>
+                  <a
+                    href="https://energylabatl.com/triathlon-coaching/"
+                    className="navbar-item"
+                  >
+                    Triathlon Coaching
+                  </a>
+                  <Link to="/membership-options" className="navbar-item">
+                    Group Training
+                  </Link>
+                  <a href="https://atltristars.com/" className="navbar-item">
+                    Kids
+                  </a>
+                </div>
+              </div>
+
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div
+                  className="navbar-link"
+                  onClick={() => this.toggleMobileDropdown(this.trainingMenu)}
+                  onKeyPress={() =>
+                    this.toggleMobileDropdown(this.trainingMenu)
+                  }
+                  role="menuitem"
+                  tabIndex={0}
+                >
+                  Training
+                </div>
+                <div
+                  className="navbar-dropdown is-hidden-touch"
+                  ref={this.trainingMenu}
+                >
+                  <Link to="/training-locations" className="navbar-item">
+                    Training Locations
+                  </Link>
+                  <a
+                    href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=account"
+                    className="navbar-item"
+                  >
+                    Class Registration
+                  </a>
+                  <Link to="/blog" className="navbar-item">
+                    Training Tips
+                  </Link>
+                </div>
+              </div>
+
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div
+                  className="navbar-link"
+                  onClick={() => this.toggleMobileDropdown(this.memberMenu)}
+                  onKeyPress={() => this.toggleMobileDropdown(this.memberMenu)}
+                  role="menuitem"
+                  tabIndex={0}
+                >
+                  Member Links
+                </div>
+                <div
+                  className="navbar-dropdown is-hidden-touch"
+                  ref={this.memberMenu}
+                >
+                  <a
+                    href="https://triclubchallenge.com/"
+                    className="navbar-item"
+                  >
+                    ATC Challenge
+                  </a>
+                  <a
+                    href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=account"
+                    className="navbar-item"
+                  >
+                    MindBody
+                  </a>
+                  <a
+                    href="https://www.facebook.com/groups/824144270962214/"
+                    className="navbar-item"
+                  >
+                    Facebook Group
+                  </a>
+                  <a
+                    href="https://www.tapatalk.com/groups/atlantatriclubforum/index.php"
+                    className="navbar-item"
+                  >
+                    Club Forum
+                  </a>
+                  <a
+                    href="https://www.strava.com/clubs/10438"
+                    className="navbar-item"
+                  >
+                    Strava Club
+                  </a>
+                  <Link to="/sponsors" className="navbar-item">
+                    Sponsors
+                  </Link>
+                  <a
+                    href="http://www.ironman.com/triathlon/forms/single-sign-up.aspx"
+                    className="navbar-item"
+                  >
+                    Ironman Triclub
+                  </a>
+                </div>
+              </div>
+
+              {/* <Link className="navbar-item" to="/about">
                 About
-              </Link>
-              <Link className="navbar-item" to="/results">
+              </Link> */}
+              {/* <Link className="navbar-item" to="/results">
                 Results
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
