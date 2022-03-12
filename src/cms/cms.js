@@ -15,5 +15,5 @@ CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
 CMS.registerPreviewTemplate("startHere", StartPagePreview);
 CMS.registerPreviewTemplate("membership", MembershipPagePreview);
-CMS.registerPreviewTemplate("blog", BlogPostPreview);
+CMS.registerPreviewTemplate("features", BlogPostPreview);
 CMS.registerPreviewTemplate("results", BlogPostPreview);

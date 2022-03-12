@@ -18,9 +18,9 @@ public_folder: /img
 #     publicKey: 447953d48939ee18e1b0
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: "features"
+    label: "Features"
+    folder: "src/pages/features"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:

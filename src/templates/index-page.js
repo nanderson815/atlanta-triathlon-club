@@ -128,7 +128,7 @@ export const IndexPageTemplate = ({
                     className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet"
                     style={{ color: "white" }}
                   >
-                    Latest Articles
+                    Latest Features
                   </h1>
                 </div>
                 <BlogRoll />
@@ -192,7 +192,7 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            gatsbyImageData(quality: 100, width: 3000)
+            gatsbyImageData(quality: 90, width: 1800)
             fluid {
               ...GatsbyImageSharpFluid
             }

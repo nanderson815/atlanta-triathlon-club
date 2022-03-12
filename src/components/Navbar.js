@@ -91,7 +91,11 @@ const Navbar = class extends React.Component {
                 Join
               </a>
 
-              <div className="navbar-item has-dropdown is-hoverable">
+              <Link className="navbar-item" to="/features">
+                Features
+              </Link>
+
+              <div className="navbar-item has-dropdown is-hoverable dropDownItem">
                 <div
                   className="navbar-link"
                   onClick={() => this.toggleMobileDropdown(this.servicesMenu)}
@@ -128,7 +132,7 @@ const Navbar = class extends React.Component {
                 </div>
               </div>
 
-              <div className="navbar-item has-dropdown is-hoverable">
+              <div className="navbar-item has-dropdown is-hoverable dropDownItem">
                 <div
                   className="navbar-link"
                   onClick={() => this.toggleMobileDropdown(this.trainingMenu)}
@@ -159,7 +163,7 @@ const Navbar = class extends React.Component {
                 </div>
               </div>
 
-              <div className="navbar-item has-dropdown is-hoverable">
+              <div className="navbar-item has-dropdown is-hoverable dropDownItem">
                 <div
                   className="navbar-link"
                   onClick={() => this.toggleMobileDropdown(this.memberMenu)}
