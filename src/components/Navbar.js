@@ -148,7 +148,7 @@ const Navbar = class extends React.Component {
                   className="navbar-dropdown is-hidden-touch"
                   ref={this.trainingMenu}
                 >
-                  <Link to="/training-locations" className="navbar-item">
+                  <Link to="/#" className="navbar-item">
                     Training Locations
                   </Link>
                   <a
