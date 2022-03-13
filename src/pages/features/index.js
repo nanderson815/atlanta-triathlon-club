@@ -2,6 +2,7 @@ import * as React from "react";
 
 import Layout from "../../components/Layout";
 import BlogRoll from "../../components/BlogRoll";
+import background from "../../img/background.png";
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -10,7 +11,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/ATC-repeating-background_Artboard-2.png')`,
+            backgroundImage: `url(${background})`,
           }}
         >
           <h1

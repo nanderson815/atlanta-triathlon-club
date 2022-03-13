@@ -6,6 +6,7 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import FullWidthImage from "../components/FullWidthImage";
+import background from "../img/background.png";
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({
@@ -20,11 +21,7 @@ export const BlogPostTemplate = ({
 
   return (
     <div>
-      <FullWidthImage
-        height={400}
-        img={{ url: "/img/ATC-repeating-background_Artboard-2.png" }}
-        title={title}
-      />
+      <FullWidthImage height={400} img={{ url: background }} title={title} />
       <section className="section">
         {helmet || ""}
         <div className="container content">

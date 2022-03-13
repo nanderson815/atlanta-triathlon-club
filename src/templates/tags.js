@@ -2,6 +2,8 @@ import * as React from "react";
 import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
+import FullWidthImage from "../components/FullWidthImage";
+import background from "../img/background.png";
 
 class TagRoute extends React.Component {
   render() {
@@ -22,6 +24,11 @@ class TagRoute extends React.Component {
 
     return (
       <Layout>
+        <FullWidthImage
+          height={400}
+          img={{ url: background }}
+          title={tagHeader}
+        />
         <section className="section">
           <Helmet title={`${tag} | ${title}`} />
           <div className="container content">
@@ -30,7 +37,6 @@ class TagRoute extends React.Component {
                 className="column is-10 is-offset-1"
                 style={{ marginBottom: "6rem" }}
               >
-                <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
                 <ul className="taglist">{postLinks}</ul>
                 <p>
                   <Link to="/tags/">Browse all tags</Link>

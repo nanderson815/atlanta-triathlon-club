@@ -3,6 +3,8 @@ import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby";
 import Layout from "../../components/Layout";
+import FullWidthImage from "../../components/FullWidthImage";
+import background from "../../img/background.png";
 
 const TagsPage = ({
   data: {
@@ -13,6 +15,7 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
+    <FullWidthImage height={400} img={{ url: background }} />
     <section className="section">
       <Helmet title={`Tags | ${title}`} />
       <div className="container content">
