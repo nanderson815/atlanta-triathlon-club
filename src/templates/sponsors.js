@@ -36,9 +36,9 @@ export const SponsorsTemplate = ({
                     <a href={link}>
                       <div
                         className="content paper center"
-                        style={{ minHeight: 132 }}
+                        style={{ minHeight: 182 }}
                       >
-                        <PreviewCompatibleImage imageInfo={logo} />
+                        <PreviewCompatibleImage imageInfo={{ image: logo }} />
                       </div>
                     </a>
                   </div>
@@ -90,7 +90,7 @@ export const sponsorsQuery = graphql`
           link
           logo {
             childImageSharp {
-              gatsbyImageData(height: 100)
+              gatsbyImageData(height: 150)
             }
           }
         }
