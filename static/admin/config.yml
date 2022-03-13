@@ -202,4 +202,36 @@ collections:
                   { label: "Body", name: "body", widget: markdown },
                 ],
             }
-
+      - file: "src/pages/sponsors/index.md"
+        label: "Sponsors"
+        name: "sponsors"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "sponsors",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Sponsors,
+              name: sponsors,
+              widget: list,
+              fields:
+                [
+                  { label: Link, name: link, widget: text },
+                  { label: Logo, name: logo, widget: image },
+                ],
+            }
