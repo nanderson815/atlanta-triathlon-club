@@ -9,8 +9,8 @@ import Features from "../components/Features";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
 import Button from "../components/Button";
-import ResultsRoll from "../components/ResultsRoll";
 import BlogRoll from "../components/BlogRoll";
+import TestimonialsRoll from "../components/TestimonialsRoll";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -99,7 +99,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="tile mb center-text">
                   <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
-                    Latest Race Results
+                    Testimonials
                   </h1>
                 </div>
                 <div className="mb">
@@ -109,10 +109,10 @@ export const IndexPageTemplate = ({
                     Triathlon Club, we’ve trained all kinds of athletes of all
                     ages, taught hundreds to swim, and helped thousands of
                     excited beginners cross their first finish line. Just check
-                    out the latest race results from our members:
+                    out the latest Testimonials from our members:
                   </h5>
                 </div>
-                <ResultsRoll />
+                <TestimonialsRoll limit={3} />
               </div>
             </div>
           </div>
@@ -131,7 +131,7 @@ export const IndexPageTemplate = ({
                     Latest Features
                   </h1>
                 </div>
-                <BlogRoll />
+                <BlogRoll limit={2} />
               </div>
             </div>
           </div>

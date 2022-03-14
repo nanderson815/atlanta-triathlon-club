@@ -1,10 +1,11 @@
 ---
-templateKey: race-results
-title: "Atlanta Tri Club Race Results: March"
+templateKey: testimonials
+title: Testimonials
 date: 2022-03-01T02:04:23.189Z
 description: Results for March Race
-featuredimage: /img/download-3.jpg
+featuredimage: /img/card3.jpeg
 ---
+
 #### Publix 5K:
 
 Josh Mumaw\

@@ -18,4 +18,4 @@ CMS.registerPreviewTemplate("startHere", StartPagePreview);
 CMS.registerPreviewTemplate("membership", MembershipPagePreview);
 CMS.registerPreviewTemplate("sponsors", SponsorsPagePreview);
 CMS.registerPreviewTemplate("features", BlogPostPreview);
-CMS.registerPreviewTemplate("results", BlogPostPreview);
+CMS.registerPreviewTemplate("testimonials", BlogPostPreview);

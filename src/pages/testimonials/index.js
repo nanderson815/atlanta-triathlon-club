@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import Layout from "../../components/Layout";
-import ResultsRoll from "../../components/ResultsRoll";
+import TestimonialsRoll from "../../components/TestimonialsRoll";
 import FullWidthImage from "../../components/FullWidthImage";
 import background from "../../img/background.png";
 
@@ -9,14 +9,11 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <FullWidthImage
-          img={{ url: background }}
-          title={"Latest Race Results"}
-        />
+        <FullWidthImage img={{ url: background }} title={"Testimonials"} />
         <section className="section">
           <div className="container">
             <div className="content">
-              <ResultsRoll />
+              <TestimonialsRoll />
             </div>
           </div>
         </section>

@@ -3,15 +3,16 @@ import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
-class ResultsRollTemplate extends React.Component {
+class TestimonialsRollTemplate extends React.Component {
   render() {
-    const { data } = this.props;
+    const { data, limit } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
+    const _posts = limit ? posts.slice(0, limit) : posts;
 
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({ node: post }) => (
+          _posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
@@ -64,7 +65,7 @@ class ResultsRollTemplate extends React.Component {
   }
 }
 
-ResultsRoll.propTypes = {
+TestimonialsRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -72,14 +73,15 @@ ResultsRoll.propTypes = {
   }),
 };
 
-export default function ResultsRoll() {
+export default function TestimonialsRoll(props) {
+  const { limit } = props;
   return (
     <StaticQuery
       query={graphql`
-        query ResultsRollQuery {
+        query TestimonialsRollQuery {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { templateKey: { eq: "race-results" } } }
+            filter: { frontmatter: { templateKey: { eq: "testimonials" } } }
           ) {
             edges {
               node {
@@ -108,7 +110,7 @@ export default function ResultsRoll() {
         }
       `}
       render={(data, count) => (
-        <ResultsRollTemplate data={data} count={count} />
+        <TestimonialsRollTemplate data={data} count={count} limit={limit} />
       )}
     />
   );

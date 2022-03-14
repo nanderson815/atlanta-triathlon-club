@@ -63,7 +63,6 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-  console.log(data);
 
   return (
     <Layout>
@@ -72,7 +71,7 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s | Testimonials">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
@@ -96,7 +95,7 @@ BlogPost.propTypes = {
 export default BlogPost;
 
 export const pageQuery = graphql`
-  query RaceResultsById($id: String!) {
+  query TestimonialsById($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html

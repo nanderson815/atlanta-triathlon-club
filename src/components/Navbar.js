@@ -16,7 +16,6 @@ const Navbar = class extends React.Component {
   }
 
   toggleMobileDropdown(ref) {
-    console.log(ref.current);
     const node = ReactDOM.findDOMNode(ref.current);
     node.classList.toggle("is-hidden-touch");
     node.classList.toggle("mobile-border");

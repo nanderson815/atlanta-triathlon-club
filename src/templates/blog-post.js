@@ -7,6 +7,7 @@ import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import FullWidthImage from "../components/FullWidthImage";
 import background from "../img/background.png";
+import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({
@@ -16,6 +17,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredimage,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -31,6 +33,11 @@ export const BlogPostTemplate = ({
                 {title}
               </h1>
               <p>{description}</p>
+              <PreviewCompatibleImage
+                imageInfo={{
+                  image: featuredimage,
+                }}
+              />
               <PostContent content={content} />
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem` }}>
@@ -62,7 +69,6 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-  console.log(data);
 
   return (
     <Layout>
@@ -70,8 +76,9 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        featuredimage={post.frontmatter.featuredimage}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s | ATC">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
@@ -104,6 +111,11 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            gatsbyImageData(quality: 100)
+          }
+        }
       }
     }
   }

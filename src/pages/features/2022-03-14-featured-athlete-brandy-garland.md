@@ -2497,25 +2497,27 @@
 "2495": t
 "2496": .
 templateKey: blog-post
-title: "Featured athlete Andrea Jackson "
-date: 2022-03-14T23:18:52.558Z
-description: "In honor of Black History Month and our initiative of bringing
-  awareness to Black athletes in Triathlon…We are pleased to present featured
-  athlete, Andrea Jackson. "
-featuredpost: true
-featuredimage: /img/andreajackson.jpg
+title: "Featured athlete Brandy Garland "
+date: 2022-03-14T23:25:29.698Z
+description: "In honor of Women’s History Month and our initiative of bringing
+  awareness to female athletes in Triathlon…Now presenting our featured athlete,
+  Brandy Garland. "
+featuredpost: false
+featuredimage: /img/brandygarland.jpg
 tags:
-  - BlackHistoryMonth
+  - WomensHistoryMonth
   - FeaturedAthlete
 ---
-🌟🌟🌟🌟🌟
+🌟🌟🌟
 
-Hola! My name is Andrea. I joined the Atlanta Triathlon Club in 2020. While I'm newer to ATC, I'm no stranger to swim/bike/run. I became an official triathlon finisher after training with Team in Training and the Portland Triathlon Club for the Pacific Crest Triathlon Distance in Sunriver, OR in 2011.
+Hi ATC!
 
-Since then, I have traveled the country and the world to complete one 140.6 mile distance race, three 70.3 mile distance races (currently training to complete my fourth next month), the 2015 USA Triathlon Foundation Fantasy Camp at the Olympic Training Center in Colorado, Springs, CO, and numerous Olympic and shorter distance races with Athena podium finishes over the years. Every event has been unique in many ways, but there are some elements that remain a common occurrence. In particular, as a Black more specifically Afro-Latina (my father is Black and my mother is Puerto Rican) triathlete, I have gotten used to being one of few or sometimes the only participant (on or off the course) that looks like me. The Triathlete magazine article “Why Aren’t There More Black Triathletes?” (December 16, 2020) provides additional perspective, highlighting access, representation, and inclusion as opportunities for all of us to consider.
+I have been fascinated by triathlons ever since I saw an Ironman race on TV when I was 20, but I really only stumbled into the sport in 2018 when a coworker asked me if I'd ever considered trying one. I told her I'd love to try the sport but I didn't have the gear needed to try one. Her response was to give me everything I needed (bike, helmet, shoes, etc) and then told me there was a women's sprint in 12 weeks. It was plenty of time to train and that I needed to sign up. I couldn't believe it!
 
-Throughout my 10 years+ triathlon journey so far the most negative racial experience related to the sport that I remember, happened shortly before moving to Atlanta, GA. Long story short, derogatory language was yelled at me as I was almost run-off the road while jogging during the day. Participating in sport while brown requires a heightened awareness of environments beyond expected challenges. After that experience and especially since relocating to the South where displays of Confederate flags are triggering, I am on higher alert when jogging or cycling on my own.
+I had 2 steep learning curves to overcome in preparation for race day: clip in pedals and open water swimming. So I spent an afternoon in a parking lot doing circles with my new bike learning that I wouldn't fall over on such skinny tires and practicing clipping in/out (and falling) until I felt comfortable enough to leave the parking lot. Next I spent back to back weekends at the lake crying and hyperventilating while convincing myself open water swimming was no different than pool swimming; that I don't need to see the bottom of the lake to know that it's there; that there isn't anything in the lake big enough to eat me and that the buoy could in fact work as a life saving device long enough for me to scream for help and be rescued.
 
-Truth of the matter, these types of incidents happen throughout and regardless of the sport, which amplifies the relevance of celebrating Black history this month and every month. Lessons from the past remind us that change, albeit slow, is possible. And, provide inspiration to strive for a brighter future.
+Then two weeks before my big race, I took a tumble down some stairs and hurt my ankle pretty badly. Even though I was injured going into my 1st race, I loved every second of it and knew I'd tripped (pun intended) into a sport l loved. It took me no time at all to sign up for my next race and find the Atlanta Tri Club so I could have training buddies and friends in the sport.
 
-“Representation is really important all across the board, just because it gives people that hope that even though things are really hard and it feels like with every step forward, it’s two steps back, if you keep grinding and if you stay passionate, then you can eventually reach that goal.” Angela “Overkill” Hill, first Black American woman to fight in a UFC main event.
+I've been sidelined most of this past year recovering from back surgery. While FOMO has been a constant for me watching everyone else training and racing, being sidelined has given me the chance to learn some amazing lessons: 1) Listening to my body is so important. When it says it needs rest or is hurting, I listen to it now rather than train through injuries because 2) I trust the process. Missing a training day because my body needs something else is actually a part of the process that gets me to the starting line race day and 3) Cheering for and celebrating my friend's races and accomplishments really is the best medicine for FOMO!
+
+And now .... watch out! I've finally been cleared to participate and I've got some patches to earn!!!

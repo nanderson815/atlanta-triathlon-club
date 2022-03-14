@@ -38,9 +38,9 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: "results"
-    label: "Race Results"
-    folder: "src/pages/results"
+  - name: "testimonials"
+    label: "Testimonials"
+    folder: "src/pages/testimonials"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -48,7 +48,7 @@ collections:
           label: "Template Key",
           name: "templateKey",
           widget: "hidden",
-          default: "race-results",
+          default: "testimonials",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
