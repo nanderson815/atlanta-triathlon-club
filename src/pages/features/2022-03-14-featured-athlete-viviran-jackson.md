@@ -6,7 +6,7 @@ description: In honor of Women’s History Month and our initiative of bringing
   awareness to female athletes in Triathlon…Now presenting our featured athlete,
   Viviran Jackson!
 featuredpost: false
-featuredimage: /img/viviranjackson.jpg
+featuredimage: /img/apple-touch-icon.png
 tags:
   - WomensHistoryMonth
   - FeaturedAthlete
