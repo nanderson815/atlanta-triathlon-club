@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: "Atlanta Triathlon Club",
-    description:
-      "Home page of the Atlanta Triathlon Club",
+    description: "Home page of the Atlanta Triathlon Club",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-gatsby-cloud",
     {
       resolve: "gatsby-plugin-sass",
       options: {
