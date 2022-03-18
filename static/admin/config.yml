@@ -235,3 +235,37 @@ collections:
                   { label: Logo, name: logo, widget: image },
                 ],
             }
+      - file: "src/pages/atc-coaches/index.md"
+        label: "ATC Coaches"
+        name: "atc-coaches"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "atc-coaches",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Coaches,
+              name: coaches,
+              widget: list,
+              fields:
+                [
+                  { label: Name, name: name, widget: text },
+                  { label: Image, name: image, widget: image },
+                  { label: About, name: about, widget: markdown },
+                ],
+            }

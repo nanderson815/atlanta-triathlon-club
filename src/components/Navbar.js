@@ -218,6 +218,26 @@ const Navbar = class extends React.Component {
                 </div>
               </div>
 
+              <div className="navbar-item has-dropdown is-hoverable dropDownItem">
+                <div
+                  className="navbar-link"
+                  onClick={() => this.toggleMobileDropdown(this.memberMenu)}
+                  onKeyPress={() => this.toggleMobileDropdown(this.memberMenu)}
+                  role="menuitem"
+                  tabIndex={0}
+                >
+                  Coaches
+                </div>
+                <div
+                  className="navbar-dropdown is-hidden-touch"
+                  ref={this.memberMenu}
+                >
+                  <Link to="/atc-coaches" className="navbar-item">
+                    ATC Coaches
+                  </Link>
+                </div>
+              </div>
+
               {/* <Link className="navbar-item" to="/about">
                 About
               </Link> */}
