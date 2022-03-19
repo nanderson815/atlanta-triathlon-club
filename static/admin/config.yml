@@ -269,3 +269,71 @@ collections:
                   { label: About, name: about, widget: markdown },
                 ],
             }
+      - file: "src/pages/triathlon-coaches/index.md"
+        label: "Energy Lab 1:1 Triathlon Coaches"
+        name: "triathlon-coaches"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "atc-coaches",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Coaches,
+              name: coaches,
+              widget: list,
+              fields:
+                [
+                  { label: Name, name: name, widget: text },
+                  { label: Image, name: image, widget: image },
+                  { label: About, name: about, widget: markdown },
+                ],
+            }
+      - file: "src/pages/swim-coaches/index.md"
+        label: "Energy Lab 1:1 Swim Coaches"
+        name: "swim-coaches"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "atc-coaches",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Coaches,
+              name: coaches,
+              widget: list,
+              fields:
+                [
+                  { label: Name, name: name, widget: text },
+                  { label: Image, name: image, widget: image },
+                  { label: About, name: about, widget: markdown },
+                ],
+            }

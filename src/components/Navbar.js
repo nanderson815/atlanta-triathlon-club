@@ -13,6 +13,7 @@ const Navbar = class extends React.Component {
     this.servicesMenu = React.createRef();
     this.trainingMenu = React.createRef();
     this.memberMenu = React.createRef();
+    this.coachesMenu = React.createRef();
   }
 
   toggleMobileDropdown(ref) {
@@ -109,6 +110,8 @@ const Navbar = class extends React.Component {
                 <div
                   className="navbar-dropdown is-hidden-touch"
                   ref={this.servicesMenu}
+                  onClick={() => this.toggleHamburger()}
+                  onKeyPress={() => this.toggleHamburger()}
                 >
                   <a
                     href="http://energylabatl.com/swim-coaching-2/"
@@ -146,6 +149,8 @@ const Navbar = class extends React.Component {
                 <div
                   className="navbar-dropdown is-hidden-touch"
                   ref={this.trainingMenu}
+                  onClick={() => this.toggleHamburger()}
+                  onKeyPress={() => this.toggleHamburger()}
                 >
                   <Link to="/#" className="navbar-item">
                     Training Locations
@@ -175,6 +180,8 @@ const Navbar = class extends React.Component {
                 <div
                   className="navbar-dropdown is-hidden-touch"
                   ref={this.memberMenu}
+                  onKeyPress={() => this.toggleHamburger()}
+                  onClick={() => this.toggleHamburger()}
                 >
                   <a
                     href="https://triclubchallenge.com/"
@@ -221,8 +228,8 @@ const Navbar = class extends React.Component {
               <div className="navbar-item has-dropdown is-hoverable dropDownItem">
                 <div
                   className="navbar-link"
-                  onClick={() => this.toggleMobileDropdown(this.memberMenu)}
-                  onKeyPress={() => this.toggleMobileDropdown(this.memberMenu)}
+                  onClick={() => this.toggleMobileDropdown(this.coachesMenu)}
+                  onKeyPress={() => this.toggleMobileDropdown(this.coachesMenu)}
                   role="menuitem"
                   tabIndex={0}
                 >
@@ -230,10 +237,18 @@ const Navbar = class extends React.Component {
                 </div>
                 <div
                   className="navbar-dropdown is-hidden-touch"
-                  ref={this.memberMenu}
+                  ref={this.coachesMenu}
+                  onKeyPress={() => this.toggleHamburger()}
+                  onClick={() => this.toggleHamburger()}
                 >
                   <Link to="/atc-coaches" className="navbar-item">
                     ATC Coaches
+                  </Link>
+                  <Link to="/triathlon-coaches" className="navbar-item">
+                    Energy Lab 1:1 Triathlon Coaches
+                  </Link>
+                  <Link to="/swim-coaches" className="navbar-item">
+                    Energy Lab 1:1 Swim Coaches
                   </Link>
                 </div>
               </div>

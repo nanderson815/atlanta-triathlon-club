@@ -20,8 +20,6 @@ export const ATCCoachesTemplate = ({
   const _backgroundImage = getImage(backgroundImage) || backgroundImage;
   const accentBackgroundImage = getImage(accentimage) || accentimage;
 
-  console.log(coaches);
-
   return (
     <div>
       <FullWidthImage
@@ -36,14 +34,25 @@ export const ATCCoachesTemplate = ({
             <div className="content">
               <div className="columns is-multiline">
                 {coaches.map(({ name, image, about }, i) => (
-                  <div className="is-parent column is-4" key={i}>
+                  <div className="is-parent column is-6" key={i}>
                     <div className="paper" style={{ height: "100%" }}>
-                      <PreviewCompatibleImage imageInfo={{ image: image }} />
-                      <p>{name}</p>
-                      <HTMLContent
-                        className="content"
-                        content={convertMarkdownToHTML(about)}
-                      />
+                      <div>
+                        <div className="center">
+                          <PreviewCompatibleImage
+                            imageInfo={{ image: image }}
+                            style={{ height: 350 }}
+                          />
+                        </div>
+                        <div className="tile mb center-text">
+                          <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
+                            {name}
+                          </h1>
+                        </div>
+                        <HTMLContent
+                          className="content"
+                          content={convertMarkdownToHTML(about)}
+                        />
+                      </div>
                     </div>
                   </div>
                 ))}
@@ -95,7 +104,7 @@ export const ATCCoachesQuery = graphql`
           about
           image {
             childImageSharp {
-              gatsbyImageData
+              gatsbyImageData(height: 500)
             }
           }
         }

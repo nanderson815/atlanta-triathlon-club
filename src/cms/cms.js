@@ -22,3 +22,4 @@ CMS.registerPreviewTemplate("features", BlogPostPreview);
 CMS.registerPreviewTemplate("testimonials", BlogPostPreview);
 // Coaches Tempaltes
 CMS.registerPreviewTemplate("atc-coaches", ATCCoachesPagePreview);
+CMS.registerPreviewTemplate("triathlon-coaches", ATCCoachesPagePreview);
