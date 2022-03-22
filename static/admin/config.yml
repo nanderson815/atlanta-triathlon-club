@@ -337,3 +337,37 @@ collections:
                   { label: About, name: about, widget: markdown },
                 ],
             }
+      - file: "src/pages/training-locations/index.md"
+        label: "Training Locations"
+        name: "training-locations"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "training-locations",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Locations,
+              name: locations,
+              widget: list,
+              fields:
+                [
+                  { label: Name, name: name, widget: string },
+                  { label: Address, name: address, widget: string },
+                  { label: Details, name: details, widget: text },
+                ],
+            }
