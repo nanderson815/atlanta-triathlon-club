@@ -7,6 +7,7 @@ import BlogPostPreview from "./preview-templates/BlogPostPreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 import StartPagePreview from "./preview-templates/startPagePreview";
 import MembershipPagePreview from "./preview-templates/membershipPagePreview";
+import TrainingLocationsPagePreview from "./preview-templates/TrainingLocationsPreview";
 import SponsorsPagePreview from "./preview-templates/SponsorsPagePreview";
 import ATCCoachesPagePreview from "./preview-templates/ATCCoachesPagePreview";
 
@@ -20,6 +21,7 @@ CMS.registerPreviewTemplate("membership", MembershipPagePreview);
 CMS.registerPreviewTemplate("sponsors", SponsorsPagePreview);
 CMS.registerPreviewTemplate("features", BlogPostPreview);
 CMS.registerPreviewTemplate("testimonials", BlogPostPreview);
+CMS.registerPreviewTemplate("training-locations", TrainingLocationsPagePreview);
 // Coaches Tempaltes
 CMS.registerPreviewTemplate("atc-coaches", ATCCoachesPagePreview);
 CMS.registerPreviewTemplate("triathlon-coaches", ATCCoachesPagePreview);

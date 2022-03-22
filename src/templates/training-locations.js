@@ -5,9 +5,6 @@ import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
-import { convertMarkdownToHTML } from "../utilities";
-import { HTMLContent } from "../components/Content";
 
 // eslint-disable-next-line
 export const TrainingLocationsTemplate = ({
@@ -44,6 +41,7 @@ export const TrainingLocationsTemplate = ({
                         </div>
                         <iframe
                           // width="450"
+                          title={`map ${name}`}
                           height="300"
                           frameborder="0"
                           style={{ width: "100%" }}
