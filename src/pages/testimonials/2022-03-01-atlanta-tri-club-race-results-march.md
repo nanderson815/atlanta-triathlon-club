@@ -1,6 +1,6 @@
 ---
 templateKey: testimonials
-title: Sample Testimonial
+title: This is a sample testimonial
 date: 2022-03-01T02:04:23.189Z
 description: Short subheader
 featuredimage: /img/card3.jpeg
