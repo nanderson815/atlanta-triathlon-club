@@ -2,7 +2,7 @@
 templateKey: training-locations
 title: Training Locations
 subtitle: Where we train
-backgroundImage: /img/ATC-repeating-background_Artboard-2.png
+backgroundImage: /img/topography.png
 accentimage: /img/topography.png
 locations:
   - name: Big Peach Brookhaven
