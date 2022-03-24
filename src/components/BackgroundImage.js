@@ -8,7 +8,7 @@ export default function BackgroundImage(props) {
 
   let translatedImage;
 
-  if (img.images) {
+  if (img?.images) {
     translatedImage = convertToBgImage(img);
   }
 
