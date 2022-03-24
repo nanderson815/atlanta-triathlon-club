@@ -32,7 +32,4 @@ locations:
   - name: The Gaps - Turner’s Corner
     address: 13870 US-19, Cleveland, GA 30528
     details: Weekend Long Bike
-  - name: test location
-    address: piedmont park
-    details: test!
 ---
