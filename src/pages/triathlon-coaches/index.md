@@ -20,21 +20,6 @@ coaches:
 
 
       Tim has competed in endurance sports since 2006. He brings his 15 years of experience in coaching to inspire, motivate and help others achieve their goals.
-  - name: Rogue Hale
-    image: /img/rogue-hale.jpg
-    about: >-
-      Rogue has been a member of the Atlanta Triathlon Coaching staff since
-      2017.  He is a USAT Level 1 Certified coach and attended Training Peaks
-      University.
-
-
-      Rogue participated in sports his whole life and is always looking for the next challenge. He’s a good swimmer who started competing in high school and stumbled into triathlon while training for the challenging Blue Ridge Breakaway century ride. Since 2012 Rogue’s competed in a variety of races from long distance swimming to 5K fun runs. He’s completed 6 Full Ironman races numerous Half Ironman distances and won the undisputed 2015 USAT Southeast Aquabike Championship!
-
-
-      In 2016, he beat Colon Cancer and completed an epic comeback at Ironman in Mont- Tremblant, Canada only months after treatment. Rogue believes attitude is the most important part of your training, a positive attitude influences performance and can affect your life favorably in all areas.  
-
-
-      Rogue works with athletes of all skill levels, race types and distances.
   - name: Nicole Chittick
     image: /img/nicole-chittick.jpg
     about: >-
@@ -65,6 +50,21 @@ coaches:
 
 
       Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
+  - name: Rogue Hale
+    image: /img/rogue-hale.jpg
+    about: >-
+      Rogue has been a member of the Atlanta Triathlon Coaching staff since
+      2017.  He is a USAT Level 1 Certified coach and attended Training Peaks
+      University.
+
+
+      Rogue participated in sports his whole life and is always looking for the next challenge. He’s a good swimmer who started competing in high school and stumbled into triathlon while training for the challenging Blue Ridge Breakaway century ride. Since 2012 Rogue’s competed in a variety of races from long distance swimming to 5K fun runs. He’s completed 6 Full Ironman races numerous Half Ironman distances and won the undisputed 2015 USAT Southeast Aquabike Championship!
+
+
+      In 2016, he beat Colon Cancer and completed an epic comeback at Ironman in Mont- Tremblant, Canada only months after treatment. Rogue believes attitude is the most important part of your training, a positive attitude influences performance and can affect your life favorably in all areas.  
+
+
+      Rogue works with athletes of all skill levels, race types and distances.
   - name: Sara Scott
     image: /img/sara-scott.png
     about: >-
