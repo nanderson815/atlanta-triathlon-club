@@ -11,6 +11,7 @@ import BackgroundImage from "../components/BackgroundImage";
 import Button from "../components/Button";
 import BlogRoll from "../components/BlogRoll";
 import TestimonialsRoll from "../components/TestimonialsRoll";
+import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -38,31 +39,66 @@ export const IndexPageTemplate = ({
         <div style={{ minHeight: 800 }} className="container center">
           <div className="section">
             <div className="content">
-              <div className="content paper">
-                <div className="tile mb center-text">
-                  <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
-                    {mainpitch.title}
-                  </h1>
+              <div className="columns is-multiline">
+                <div className="column is-6">
+                  <div className="content paper">
+                    <div className="tile mb center-text">
+                      <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
+                        {mainpitch.title}
+                      </h1>
+                    </div>
+                    <div className="mb">
+                      <h1 className="tile pacifico primaryText center-text">
+                        {mainpitch.subtitle}
+                      </h1>
+                    </div>
+                    <Button
+                      className="is-medium is-fullwidth mb"
+                      href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=40&prodId=109"
+                    >
+                      7 DAY FREE TRIAL
+                    </Button>
+                    <div className="tile mb center-text">
+                      <h3 className="subtitle">{mainpitch.description}</h3>
+                    </div>
+                    <Link to="/start-here">
+                      <Button className="is-medium is-fullwidth mb">
+                        LEARN MORE
+                      </Button>
+                    </Link>
+                  </div>
                 </div>
-                <div className="mb">
-                  <h1 className="tile pacifico primaryText center-text">
-                    {mainpitch.subtitle}
-                  </h1>
+                <div className="column is-6">
+                  <div className="content paper">
+                    <div className="tile mb center-text">
+                      <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
+                        {mainpitch.energyLabTitle}
+                      </h1>
+                    </div>
+                    <div className="center mb">
+                      <a href="https://energylabatl.com/">
+                        <PreviewCompatibleImage
+                          imageInfo={{ image: mainpitch.energyLabLogo }}
+                        />
+                      </a>
+                    </div>
+                    <div className="mb">
+                      <h1 className="tile pacifico primaryText center-text">
+                        {mainpitch.energyLabSubtitle}
+                      </h1>
+                    </div>
+                    <div className="tile mb center-text">
+                      <h3 className="subtitle">
+                        {mainpitch.energyLabDescription}
+                      </h3>
+                    </div>
+                    <a href="https://energylabatl.com/">
+                      <Button className="is-medium is-fullwidth mb">
+                        LEARN MORE
+                      </Button>
+                    </a>
+                  </div>
                 </div>
-                <Button
-                  className="is-medium is-fullwidth mb"
-                  href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=40&prodId=109"
-                >
-                  7 DAY FREE TRIAL
-                </Button>
-                <div className="tile mb center-text">
-                  <h3 className="subtitle">{mainpitch.description}</h3>
-                </div>
-                <Link to="/start-here">
-                  <Button className="is-medium is-fullwidth mb">
-                    LEARN MORE
-                  </Button>
-                </Link>
               </div>
             </div>
           </div>
@@ -215,6 +251,14 @@ export const pageQuery = graphql`
           title
           subtitle
           description
+          energyLabTitle
+          energyLabSubtitle
+          energyLabDescription
+          energyLabLogo {
+            childImageSharp {
+              gatsbyImageData(quality: 100, layout: CONSTRAINED)
+            }
+          }
         }
         description
         intro {

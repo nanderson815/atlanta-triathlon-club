@@ -161,9 +161,9 @@ const Navbar = class extends React.Component {
                   >
                     Class Registration
                   </a>
-                  <Link to="/features" className="navbar-item">
+                  {/* <Link to="/features" className="navbar-item">
                     Training Tips
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
 

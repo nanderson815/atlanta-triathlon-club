@@ -12,6 +12,15 @@ mainpitch:
     ages and experience levels. Our members train for sprint triathlons through
     IRONMAN races, and 5ks through marathons.  We have a place for you! "
   subtitle: Let's work towards your fitness goals together!
+  energyLabTitle: Powered By EnergyLab
+  energyLabSubtitle: Training, Coaching, Community, and more!
+  energyLabLogo: /img/energylablogo.png
+  energyLabDescription: Energy Lab helps athletes of all levels learn, train, and
+    perform their best. Our top coaches work as a team using the latest
+    technology and research to optimize your training while keeping things
+    process oriented and positive. We offer endurance sports coaching, swim
+    instruction, and group training classes. If you want to improve yourself
+    while having fun, you’re in the right place!
 intro:
   blurbs:
     - image: /img/card1.jpeg

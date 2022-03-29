@@ -1,8 +1,7 @@
 ---
 templateKey: testimonials
-title: This is a sample testimonial
+title: Jeff
 date: 2022-03-01T02:04:23.189Z
-description: Short subheader
-featuredimage: /img/card3.jpeg
+description: ATHLETE
 ---
-This is where a testimonial would go!
+Tailored programs. Results driven. Defined goals/target races. Well organized. Easy to navigate program what I would call a well thought out on boarding program for new members.

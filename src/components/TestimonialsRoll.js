@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery } from "gatsby";
-import PreviewCompatibleImage from "./PreviewCompatibleImage";
+import { graphql, StaticQuery } from "gatsby";
 
 class TestimonialsRollTemplate extends React.Component {
   render() {
@@ -15,47 +14,25 @@ class TestimonialsRollTemplate extends React.Component {
           _posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
               <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? "is-featured" : ""
-                }`}
+                className={`blog-list-item tile is-child box notification`}
               >
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          width:
-                            post.frontmatter.featuredimage.childImageSharp
-                              .gatsbyImageData.width,
-                          height:
-                            post.frontmatter.featuredimage.childImageSharp
-                              .gatsbyImageData.height,
-                        }}
-                      />
-                    </div>
-                  ) : null}
+                <header className="center">
                   <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-5"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
+                    <div className="title has-text-primary is-size-5 center-text">
+                      <h4>{post.frontmatter.title}</h4>
+                    </div>
                     <span className="subtitle is-size-6 is-block">
-                      {post.frontmatter.date}
+                      {post.frontmatter.description}
                     </span>
                   </p>
                 </header>
                 <p>
                   {post.excerpt}
-                  <br />
+                  {/* <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
                     Keep Reading →
-                  </Link>
+                  </Link> */}
                 </p>
               </article>
             </div>
@@ -80,7 +57,6 @@ export default function TestimonialsRoll(props) {
       query={graphql`
         query TestimonialsRollQuery {
           allMarkdownRemark(
-            sort: { order: DESC, fields: [frontmatter___date] }
             filter: { frontmatter: { templateKey: { eq: "testimonials" } } }
           ) {
             edges {
@@ -92,17 +68,8 @@ export default function TestimonialsRoll(props) {
                 }
                 frontmatter {
                   title
+                  description
                   templateKey
-                  date(formatString: "MMMM DD, YYYY")
-                  featuredimage {
-                    childImageSharp {
-                      gatsbyImageData(
-                        width: 120
-                        quality: 100
-                        layout: CONSTRAINED
-                      )
-                    }
-                  }
                 }
               }
             }
