@@ -10,6 +10,7 @@ import MembershipPagePreview from "./preview-templates/membershipPagePreview";
 import TrainingLocationsPagePreview from "./preview-templates/TrainingLocationsPreview";
 import SponsorsPagePreview from "./preview-templates/SponsorsPagePreview";
 import ATCCoachesPagePreview from "./preview-templates/ATCCoachesPagePreview";
+import R2RPagePreview from "./preview-templates/r2rPagePreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
@@ -17,6 +18,7 @@ CMS.registerMediaLibrary(cloudinary);
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
 CMS.registerPreviewTemplate("startHere", StartPagePreview);
+CMS.registerPreviewTemplate("r2r", R2RPagePreview);
 CMS.registerPreviewTemplate("membership", MembershipPagePreview);
 CMS.registerPreviewTemplate("sponsors", SponsorsPagePreview);
 CMS.registerPreviewTemplate("features", BlogPostPreview);

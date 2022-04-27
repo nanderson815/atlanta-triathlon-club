@@ -152,6 +152,9 @@ const Navbar = class extends React.Component {
                   onClick={() => this.toggleHamburger()}
                   onKeyPress={() => this.toggleHamburger()}
                 >
+                  <Link to="/rookie-2-race" className="navbar-item">
+                    Rookie 2 Race
+                  </Link>
                   <Link to="/training-locations" className="navbar-item">
                     Training Locations
                   </Link>

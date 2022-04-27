@@ -17,14 +17,14 @@ class TestimonialsRollTemplate extends React.Component {
                 className={`blog-list-item tile is-child box notification`}
               >
                 <header className="center">
-                  <p className="post-meta">
+                  <div className="post-meta">
                     <div className="title has-text-primary is-size-5 center-text">
                       <h4>{post.frontmatter.title}</h4>
                     </div>
                     <span className="subtitle is-size-6 is-block">
                       {post.frontmatter.description}
                     </span>
-                  </p>
+                  </div>
                 </header>
                 <p>
                   {post.excerpt}
