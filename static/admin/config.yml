@@ -178,15 +178,15 @@ collections:
                   { label: "Body", name: "body", widget: markdown },
                 ],
             }
-      - file: "src/pages/rookie-2-race/index.md"
-        label: "Rookie 2 Race"
+      - file: "src/pages/small-group-coaching/index.md"
+        label: "Small Group Coaching"
         name: "r2r"
         fields:
           - {
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "rookie-2-race",
+              default: "small-group-coaching",
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Subtitle", name: "subtitle", widget: "string" }

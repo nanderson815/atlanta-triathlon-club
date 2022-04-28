@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { R2RTemplate } from "../../templates/rookie-2-race";
+import { R2RTemplate } from "../../templates/small-group-coaching";
 
 const StartPagePreview = ({ entry, getAsset, widgetFor }) => {
   const data = entry.getIn(["data"]).toJS();
