@@ -8,6 +8,7 @@ export default function FullWidthImage(props) {
     height = 400,
     img,
     frontImage,
+    frontImage2,
     title,
     subheading,
     imgPosition = "top left",
@@ -105,6 +106,15 @@ export default function FullWidthImage(props) {
               >
                 {subheading}
               </h3>
+            )}
+            {frontImage2 && (
+              <PreviewCompatibleImage
+                imageInfo={{ image: frontImage2 }}
+                style={{
+                  gridArea: "1/1",
+                }}
+                alt=""
+              />
             )}
           </div>
         )}

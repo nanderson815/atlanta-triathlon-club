@@ -207,6 +207,130 @@ collections:
                   { label: "Link", name: "link", widget: "string" },
                 ],
             }
+      - file: "src/pages/energylab/index.md"
+        label: "Energy Lab"
+        name: "energylab"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "energylab",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - { label: "Body", name: "body", widget: markdown }
+          - {
+              label: "Button",
+              name: "button",
+              widget: object,
+              fields:
+                [
+                  { label: "Text", name: "text", widget: "string" },
+                  { label: "Link", name: "link", widget: "string" },
+                ],
+            }
+      - file: "src/pages/swim-coaching/index.md"
+        label: "Swim Coaching"
+        name: "swimcoaching"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "energylab",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - { label: "Body", name: "body", widget: markdown }
+          - {
+              label: "Button",
+              name: "button",
+              widget: object,
+              required: false,
+              fields:
+                [
+                  {
+                    label: "Text",
+                    name: "text",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Link",
+                    name: "link",
+                    widget: "string",
+                    required: false,
+                  },
+                ],
+            }
+      - file: "src/pages/triathlon-coaching/index.md"
+        label: "Triathlon Coaching"
+        name: "tricoaching"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "energylab",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - { label: "Body", name: "body", widget: markdown }
+          - {
+              label: "Button",
+              name: "button",
+              widget: object,
+              required: false,
+              fields:
+                [
+                  {
+                    label: "Text",
+                    name: "text",
+                    widget: "string",
+                    required: false,
+                  },
+                  {
+                    label: "Link",
+                    name: "link",
+                    widget: "string",
+                    required: false,
+                  },
+                ],
+            }
       - file: "src/pages/membership-options/index.md"
         label: "Membership Options"
         name: "membership"

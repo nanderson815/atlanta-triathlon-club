@@ -32,6 +32,7 @@ export const IndexPageTemplate = ({
         height={800}
         img={backgroundImage}
         frontImage={heroimage}
+        frontImage2={mainpitch.energyLabLogo}
         title={title}
         subheading={subheading}
       />

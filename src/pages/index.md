@@ -4,7 +4,7 @@ title: Atlanta Triathlon Club
 image: /img/ATC-repeating-background_Artboard-2.png
 heroimage: /img/android-chrome-512x512.png
 accentimage: /img/topography.png
-subheading: "#Powered by Energy Lab "
+subheading: Powered by
 mainpitch:
   title: WELCOME TO ATLANTA TRI CLUB
   description: "If you’re looking for sprint triathlon training in Atlanta, you’ve

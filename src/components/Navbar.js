@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { Link } from "gatsby";
 import logo from "../img/logo.png";
+import elLogo from "../img/elLogo.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -44,12 +45,12 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
+      <div className="container">
+        <nav
+          className="navbar is-transparent"
+          role="navigation"
+          aria-label="main-navigation"
+        >
           <div
             className="navbar-brand"
             style={
@@ -80,7 +81,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
             style={this.state.active ? { background: "black", padding: 0 } : {}}
           >
-            <div className="navbar-end has-text-centered">
+            <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/start-here">
                 Start Here
               </Link>
@@ -113,18 +114,12 @@ const Navbar = class extends React.Component {
                   onClick={() => this.toggleHamburger()}
                   onKeyPress={() => this.toggleHamburger()}
                 >
-                  <a
-                    href="http://energylabatl.com/swim-coaching-2/"
-                    className="navbar-item"
-                  >
+                  <Link to="/swim-coaching" className="navbar-item">
                     Swim Coaching
-                  </a>
-                  <a
-                    href="https://energylabatl.com/triathlon-coaching/"
-                    className="navbar-item"
-                  >
+                  </Link>
+                  <Link to="/triathlon-coaching" className="navbar-item">
                     Triathlon Coaching
-                  </a>
+                  </Link>
                   <Link to="/small-group-coaching" className="navbar-item">
                     Small Group Coaching
                   </Link>
@@ -266,9 +261,19 @@ const Navbar = class extends React.Component {
                 Contact
               </Link> */}
             </div>
+            <div className="navbar-end has-text-centered">
+              <Link to="/energylab" className="navbar-item" title="Logo">
+                <img
+                  src={elLogo}
+                  alt="ATC"
+                  className="logo"
+                  style={{ maxHeight: "3rem" }}
+                />
+              </Link>
+            </div>
           </div>
-        </div>
-      </nav>
+        </nav>
+      </div>
     );
   }
 };

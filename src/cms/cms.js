@@ -11,6 +11,7 @@ import TrainingLocationsPagePreview from "./preview-templates/TrainingLocationsP
 import SponsorsPagePreview from "./preview-templates/SponsorsPagePreview";
 import ATCCoachesPagePreview from "./preview-templates/ATCCoachesPagePreview";
 import R2RPagePreview from "./preview-templates/r2rPagePreview";
+import EnergyLabTemplate from "./preview-templates/EnergyLabPreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
@@ -19,6 +20,11 @@ CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
 CMS.registerPreviewTemplate("startHere", StartPagePreview);
 CMS.registerPreviewTemplate("r2r", R2RPagePreview);
+// use the EL template because its basic
+CMS.registerPreviewTemplate("energylab", EnergyLabTemplate);
+CMS.registerPreviewTemplate("swimcoaching", EnergyLabTemplate);
+CMS.registerPreviewTemplate("tricoaching", EnergyLabTemplate);
+
 CMS.registerPreviewTemplate("membership", MembershipPagePreview);
 CMS.registerPreviewTemplate("sponsors", SponsorsPagePreview);
 CMS.registerPreviewTemplate("features", BlogPostPreview);
