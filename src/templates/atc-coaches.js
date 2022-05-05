@@ -8,6 +8,7 @@ import BackgroundImage from "../components/BackgroundImage";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import { convertMarkdownToHTML } from "../utilities";
 import { HTMLContent } from "../components/Content";
+import CoachModal from "../components/CoachModal";
 
 // eslint-disable-next-line
 export const ATCCoachesTemplate = ({
@@ -48,10 +49,9 @@ export const ATCCoachesTemplate = ({
                             {name}
                           </h1>
                         </div>
-                        <HTMLContent
-                          className="content"
-                          content={convertMarkdownToHTML(about)}
-                        />
+                        <div className="center">
+                          <CoachModal content={about} name={name} />
+                        </div>
                       </div>
                     </div>
                   </div>
