@@ -36,4 +36,6 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://eatfitlifefoods.com
+    logo: /img/flf_logo_2color_horizontal.jpg
 ---
