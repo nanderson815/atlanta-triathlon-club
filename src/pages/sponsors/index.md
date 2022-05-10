@@ -14,4 +14,6 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://www.coreacupunctureatlanta.com
+    logo: /img/core_onecolor_logo.jpg
 ---
