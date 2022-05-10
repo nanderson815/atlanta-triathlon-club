@@ -24,6 +24,8 @@ sponsors:
   - link: https://www.intrepidperformance.com/
     name: Intrepid
     logo: /img/intrepid.png
+  - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
+    link: https://millermorrishomes.kw.com
   - link: https://motionstability.com
     logo: /img/motionstabilty.jpg
   - link: https://www.orangemud.com/
@@ -40,6 +42,4 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
-  - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
-    link: https://millermorrishomes.kw.com
 ---
