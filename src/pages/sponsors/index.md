@@ -13,6 +13,8 @@ sponsors:
     logo: /img/cobaltpm-logo.png
   - link: https://www.coreacupunctureatlanta.com
     logo: /img/core_onecolor_logo.jpg
+  - link: https://eatfitlifefoods.com
+    logo: /img/flf_logo_2color_horizontal.jpg
   - link: https://www.georgiasportschiropractic.com
     logo: /img/gsc_color_3stack.png
   - link: https://hyperice.com
@@ -36,6 +38,4 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
-  - link: https://eatfitlifefoods.com
-    logo: /img/flf_logo_2color_horizontal.jpg
 ---
