@@ -31,7 +31,7 @@ sponsors:
   - link: https://www.orangemud.com/
     logo: /img/om.png
   - link: https://www.papillonwellnessandmassagetherapy.com
-    logo: /img/papillon-1.png
+    logo: /img/papillon-2.png
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
   - logo: /img/combined-logo-2019png.jpg
