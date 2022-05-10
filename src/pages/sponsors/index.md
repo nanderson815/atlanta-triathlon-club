@@ -16,4 +16,6 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://www.bigpeachrunningco.com
+    logo: /img/bprc-r-r-vertical.png
 ---
