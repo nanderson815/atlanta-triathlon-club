@@ -22,6 +22,8 @@ sponsors:
     logo: /img/om.png
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
+  - link: https://www.tribiketransport.com
+    logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
 ---
