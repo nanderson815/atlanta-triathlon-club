@@ -10,8 +10,6 @@ sponsors:
     logo: /img/intrepid.png
   - link: https://www.orangemud.com/
     logo: /img/om.png
-  - link: https://bonkbreaker.com/
-    logo: /img/bonk.png
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
