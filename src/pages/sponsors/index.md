@@ -19,7 +19,7 @@ sponsors:
     name: Intrepid
     logo: /img/intrepid.png
   - link: https://motionstability.com
-    logo: /img/copy-of-motionstabilty-3-2-.jpg
+    logo: /img/motionstabilty.jpg
   - link: https://www.orangemud.com/
     logo: /img/om.png
   - link: https://www.papillonwellnessandmassagetherapy.com
