@@ -42,4 +42,6 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - logo: /img/combined-logo-2019png.jpg
+    link: https://www.precisionpt.org
 ---
