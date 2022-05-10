@@ -22,4 +22,6 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://hyperice.com
+    logo: /img/hyperice_stacked_black.png
 ---
