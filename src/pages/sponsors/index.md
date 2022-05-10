@@ -19,6 +19,8 @@ sponsors:
     logo: /img/gsc_color_3stack.png
   - link: https://hyperice.com
     logo: /img/hyperice_stacked_black.png
+  - link: https://www.insidetracker.com
+    logo: /img/it_horiz_logo_fullcolor.jpg
   - link: https://www.intrepidperformance.com/
     name: Intrepid
     logo: /img/intrepid.png
@@ -38,6 +40,4 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
-  - link: https://www.insidetracker.com
-    logo: /img/it_horiz_logo_fullcolor.jpg
 ---
