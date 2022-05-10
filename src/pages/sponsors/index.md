@@ -40,4 +40,6 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
+    link: https://millermorrishomes.kw.com
 ---
