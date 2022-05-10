@@ -20,6 +20,8 @@ sponsors:
     logo: /img/copy-of-motionstabilty-3-2-.jpg
   - link: https://www.orangemud.com/
     logo: /img/om.png
+  - link: https://www.papillonwellnessandmassagetherapy.com
+    logo: /img/papillon-1.png
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
   - link: https://www.tribiketransport.com
