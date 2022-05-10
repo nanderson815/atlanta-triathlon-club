@@ -1,5 +1,5 @@
 import * as React from "react";
-import { navigate } from "gatsby-link";
+// import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
 
 function encode(data) {
@@ -19,18 +19,18 @@ export default class Index extends React.Component {
   };
 
   handleSubmit = (e) => {
-    e.preventDefault();
-    const form = e.target;
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({
-        "form-name": form.getAttribute("name"),
-        ...this.state,
-      }),
-    })
-      .then(() => navigate(form.getAttribute("action")))
-      .catch((error) => alert(error));
+    // e.preventDefault();
+    // const form = e.target;
+    // fetch("/", {
+    //   method: "POST",
+    //   headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    //   body: encode({
+    //     "form-name": form.getAttribute("name"),
+    //     ...this.state,
+    //   }),
+    // })
+    //   .then(() => navigate(form.getAttribute("action")))
+    //   .catch((error) => alert(error));
   };
 
   render() {

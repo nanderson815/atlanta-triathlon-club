@@ -5,7 +5,7 @@
   "author": "Noah Anderson",
   "dependencies": {
     "bulma": "^0.9.3",
-    "gatsby": "^4.0.0",
+    "gatsby": "^4.13.0",
     "gatsby-background-image": "^1.6.0",
     "gatsby-plugin-gatsby-cloud": "^4.10.0",
     "gatsby-plugin-image": "^2.0.0",

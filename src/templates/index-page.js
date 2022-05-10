@@ -77,11 +77,11 @@ export const IndexPageTemplate = ({
                       </h1>
                     </div>
                     <div className="center mb">
-                      <a href="https://energylabatl.com/">
+                      <Link to="/energylab">
                         <PreviewCompatibleImage
                           imageInfo={{ image: mainpitch.energyLabLogo }}
                         />
-                      </a>
+                      </Link>
                     </div>
                     <div className="mb">
                       <h1 className="tile pacifico primaryText center-text">
@@ -93,11 +93,11 @@ export const IndexPageTemplate = ({
                         {mainpitch.energyLabDescription}
                       </h3>
                     </div>
-                    <a href="https://energylabatl.com/">
+                    <Link to="/energylab">
                       <Button className="is-medium is-fullwidth mb">
                         LEARN MORE
                       </Button>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -149,7 +149,7 @@ export const IndexPageTemplate = ({
                     out the latest Testimonials from our members:
                   </h5>
                 </div>
-                <TestimonialsRoll limit={3} />
+                <TestimonialsRoll limit={10} />
               </div>
             </div>
           </div>
