@@ -34,6 +34,8 @@ sponsors:
     logo: /img/papillon-1.png
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
+  - logo: /img/combined-logo-2019png.jpg
+    link: https://www.precisionpt.org
   - logo: /img/unknown.png
     link: https://www.roadrunnersports.com
   - link: https://www.roka.com/
@@ -42,6 +44,4 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
-  - logo: /img/combined-logo-2019png.jpg
-    link: https://www.precisionpt.org
 ---
