@@ -20,4 +20,6 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://www.georgiasportschiropractic.com
+    logo: /img/gsc_color_3stack.png
 ---
