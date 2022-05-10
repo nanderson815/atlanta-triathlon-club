@@ -5,6 +5,8 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
+  - link: https://www.all3sports.com
+    logo: /img/a3s_logo_newflat_crop_com_removed.jpg
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
   - link: https://www.coreacupunctureatlanta.com
@@ -22,6 +24,8 @@ sponsors:
     logo: /img/om.png
   - link: https://www.papillonwellnessandmassagetherapy.com
     logo: /img/papillon-1.png
+  - link: https://www.podiumms.com
+    logo: /img/podiumlogo_large_jpg.jpg
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
   - link: https://www.tribiketransport.com
