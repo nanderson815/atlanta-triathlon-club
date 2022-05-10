@@ -9,6 +9,8 @@ sponsors:
     logo: /img/a3s_logo_newflat_crop_com_removed.jpg
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
+  - link: https://cobaltatl.com
+    logo: /img/cobaltpm-logo.png
   - link: https://www.coreacupunctureatlanta.com
     logo: /img/core_onecolor_logo.jpg
   - link: https://www.georgiasportschiropractic.com
