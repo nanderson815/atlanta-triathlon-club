@@ -5,6 +5,8 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
+  - link: https://www.bigpeachrunningco.com
+    logo: /img/bprc-r-r-vertical.png
   - link: https://www.coreacupunctureatlanta.com
     logo: /img/core_onecolor_logo.jpg
   - link: https://www.intrepidperformance.com/
@@ -16,6 +18,4 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
-  - link: https://www.bigpeachrunningco.com
-    logo: /img/bprc-r-r-vertical.png
 ---
