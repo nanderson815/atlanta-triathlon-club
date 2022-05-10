@@ -5,6 +5,8 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
+  - link: https://www.coreacupunctureatlanta.com
+    logo: /img/core_onecolor_logo.jpg
   - link: https://www.intrepidperformance.com/
     name: Intrepid
     logo: /img/intrepid.png
@@ -14,6 +16,4 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
-  - link: https://www.coreacupunctureatlanta.com
-    logo: /img/core_onecolor_logo.jpg
 ---
