@@ -38,4 +38,6 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://www.insidetracker.com
+    logo: /img/it_horiz_logo_fullcolor.jpg
 ---
