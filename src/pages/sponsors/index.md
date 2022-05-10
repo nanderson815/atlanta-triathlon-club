@@ -18,4 +18,6 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://motionstability.com
+    logo: /img/copy-of-motionstabilty-3-2-.jpg
 ---
