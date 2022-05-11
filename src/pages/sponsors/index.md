@@ -48,4 +48,6 @@ sponsors:
     logo: /img/zealios_logo_black_26fd7bb9-160e-4083-bd3a-e7309d176fe7_100x.jpg
   - link: https://www.zym.com
     logo: /img/screen_shot_2020-04-17_at_10.23.43_am_clipped_rev_1_410x.png.webp
+  - link: https://www.highland-yoga.com
+    logo: /img/f407f5_5cd4200c24c3400ebd180a5c314c8db7~mv2.png.webp
 ---
