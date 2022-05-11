@@ -35,7 +35,7 @@ sponsors:
     name: Intrepid
     logo: /img/intrepid.png
   - link: https://www.michelobultra.com
-    logo: /img/mul-logo_2020.svg
+    logo: /img/michelob_logo_trimmed.png
   - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
     link: https://millermorrishomes.kw.com
   - link: https://motionstability.com
