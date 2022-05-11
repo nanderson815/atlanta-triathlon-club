@@ -5,6 +5,12 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 coaches:
+  - about: More info coming soon!
+    name: |+
+      Nicole Chittick
+      Asst. GM
+
+    image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
   - name: |-
       Allison Leppke
       Co-Head OWS Coach
@@ -102,10 +108,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - about: More info coming soon!
-    name: |+
-      Nicole Chittick
-      Asst. GM
-
-    image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
 ---
