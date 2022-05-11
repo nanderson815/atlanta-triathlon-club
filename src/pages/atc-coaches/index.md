@@ -38,4 +38,11 @@ coaches:
       Co-Head Run Coach
     about: More info coming soon!
     image: /img/18274873_628254774044855_3046185853537668826_n.jpeg
+  - name: |-
+      Tim Newberg
+      Energy Lab Indoor Cycling Instructor
+      Track Head Coach
+      Run Assistant Coach
+    about: More info coming soon!
+    image: /img/1044731_559981280707745_482795150_n.jpeg
 ---
