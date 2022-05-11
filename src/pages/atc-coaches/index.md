@@ -50,4 +50,9 @@ coaches:
       Steph Stonich
       Assistant Run Coach
     image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Ilana Katz
+      Assistant Run Coach
+    image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
 ---
