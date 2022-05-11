@@ -45,4 +45,9 @@ coaches:
       Run Assistant Coach
     about: More info coming soon!
     image: /img/1044731_559981280707745_482795150_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Steph Stonich
+      Assistant Run Coach
+    image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
 ---
