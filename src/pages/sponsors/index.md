@@ -44,4 +44,6 @@ sponsors:
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
+  - link: https://www.zym.com
+    logo: /img/screen_shot_2020-04-17_at_10.23.43_am_clipped_rev_1_410x.png.webp
 ---
