@@ -60,4 +60,10 @@ coaches:
       Jennifer Myers
       Assistant Run & Bike Coach
     image: /img/14184358_10154433020489547_4921157020456800209_n.jpeg
+  - name: |-
+      Jerome Feuiltault
+      Head Tuesday Night Run Coach
+      Head Thursday Night Bike Hill Repeats Coach
+    about: More info coming soon!
+    image: /img/13775901_506617006208633_4879532389543617675_n.jpeg
 ---
