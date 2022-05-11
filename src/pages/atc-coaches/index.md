@@ -12,5 +12,5 @@ coaches:
     about: More info coming soon!
   - name: Lainie Cassell Co-Head OWS Coach
     image: /img/lainie-cassel.jpg
-    about: Coming Soon!
+    about: More info coming soon!
 ---
