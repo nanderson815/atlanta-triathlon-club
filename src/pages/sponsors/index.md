@@ -9,6 +9,8 @@ sponsors:
     logo: /img/a3s_logo_newflat_crop_com_removed.jpg
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
+  - link: https://go.cityrow.com/en-us/
+    logo: /img/388-3881254_helaine-knapp-founder-of-cityrow-city-row-logo.jpeg
   - link: https://cobaltatl.com
     logo: /img/cobaltpm-logo.png
   - link: https://www.coreacupunctureatlanta.com
@@ -52,6 +54,4 @@ sponsors:
     logo: /img/zealios_logo_black_26fd7bb9-160e-4083-bd3a-e7309d176fe7_100x.jpg
   - link: https://www.zym.com
     logo: /img/screen_shot_2020-04-17_at_10.23.43_am_clipped_rev_1_410x.png.webp
-  - link: https://go.cityrow.com/en-us/
-    logo: /img/388-3881254_helaine-knapp-founder-of-cityrow-city-row-logo.jpeg
 ---
