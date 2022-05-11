@@ -28,4 +28,9 @@ coaches:
       Debbie James
       OWS Assistant Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
+  - name: |-
+      Sheryl Shectman
+      OWS Assistant Coach
+    about: More info coming soon!
+    image: /img/27459059_743530569183941_605898255142205801_n.jpeg
 ---
