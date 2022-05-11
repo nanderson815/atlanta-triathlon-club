@@ -71,4 +71,9 @@ coaches:
       Co-Head Bike Coach
     about: More info coming soon!
     image: /img/270257757_4695855790462837_4918749746309742137_n.jpeg
+  - name: |-
+      Rogue Hale
+      Co-Head Bike Coach
+    about: More info coming soon!
+    image: /img/20663906_672069212996744_7507521997248207998_n.jpeg
 ---
