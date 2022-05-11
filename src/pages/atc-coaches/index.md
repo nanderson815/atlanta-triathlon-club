@@ -86,4 +86,10 @@ coaches:
       George Cone
       Assistant Bike Coach
     image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
+  - name: |-
+      Sara Scott
+      Energy Lab Indoor Cycling Instructor
+      Bike Assistant Coach
+    about: More info coming soon!
+    image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
 ---
