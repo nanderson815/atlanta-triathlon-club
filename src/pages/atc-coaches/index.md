@@ -13,4 +13,9 @@ coaches:
   - name: Lainie Cassell Co-Head OWS Coach
     image: /img/lainie-cassel.jpg
     about: More info coming soon!
+  - name: |-
+      Chris Janke
+      Co-Head OWS Coach
+    about: More info coming soon!
+    image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
 ---
