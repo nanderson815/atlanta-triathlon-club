@@ -24,7 +24,7 @@ sponsors:
   - link: https://www.highland-yoga.com
     logo: /img/f407f5_5cd4200c24c3400ebd180a5c314c8db7~mv2.png.webp
   - link: https://www.hotworx.net
-    logo: /img/5f9f3c9102ba78fd9b0de1ec_hotworx-logo-with-tagline.svg
+    logo: /img/5fb83e48958a51ea57681186_group-1-2.png
   - link: https://hyperice.com
     logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
