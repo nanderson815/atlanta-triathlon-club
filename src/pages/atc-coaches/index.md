@@ -97,4 +97,9 @@ coaches:
       Energy Lab Indoor Cycling Instructor
     about: More info coming soon!
     image: /img/38910088_10156571069352387_6841772929890385920_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Brad Smith
+      Para-Tri Coach
+    image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
 ---
