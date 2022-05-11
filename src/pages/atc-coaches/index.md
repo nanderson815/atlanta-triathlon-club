@@ -108,4 +108,9 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
+  - name: |-
+      Tim Myers
+      GM
+    about: More info coming soon!
+    image: /img/279796403_10224521133089047_8142395031618128364_n.jpeg
 ---
