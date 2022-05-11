@@ -23,4 +23,9 @@ coaches:
       Jaime O'Keeffe
       OWS Assistant Coach
     image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Debbie James
+      OWS Assistant Coach
+    image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
 ---
