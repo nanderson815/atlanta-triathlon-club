@@ -5,6 +5,11 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 coaches:
+  - name: |-
+      Tim Myers
+      GM
+    about: More info coming soon!
+    image: /img/279796403_10224521133089047_8142395031618128364_n.jpeg
   - about: More info coming soon!
     name: |+
       Nicole Chittick
@@ -108,9 +113,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - name: |-
-      Tim Myers
-      GM
-    about: More info coming soon!
-    image: /img/279796403_10224521133089047_8142395031618128364_n.jpeg
 ---
