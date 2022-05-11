@@ -18,4 +18,9 @@ coaches:
       Co-Head OWS Coach
     about: More info coming soon!
     image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Jaime O'Keeffe
+      OWS Assistant Coach
+    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
 ---
