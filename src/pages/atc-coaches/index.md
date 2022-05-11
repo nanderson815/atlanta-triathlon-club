@@ -92,4 +92,9 @@ coaches:
       Bike Assistant Coach
     about: More info coming soon!
     image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
+  - name: |-
+      Jamal Lacour
+      Energy Lab Indoor Cycling Instructor
+    about: More info coming soon!
+    image: /img/38910088_10156571069352387_6841772929890385920_n.jpeg
 ---
