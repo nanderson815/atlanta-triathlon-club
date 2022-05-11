@@ -55,4 +55,9 @@ coaches:
       Ilana Katz
       Assistant Run Coach
     image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Jennifer Myers
+      Assistant Run & Bike Coach
+    image: /img/14184358_10154433020489547_4921157020456800209_n.jpeg
 ---
