@@ -66,4 +66,9 @@ coaches:
       Head Thursday Night Bike Hill Repeats Coach
     about: More info coming soon!
     image: /img/13775901_506617006208633_4879532389543617675_n.jpeg
+  - name: |-
+      Chuck Chittick
+      Co-Head Bike Coach
+    about: More info coming soon!
+    image: /img/270257757_4695855790462837_4918749746309742137_n.jpeg
 ---
