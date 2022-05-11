@@ -33,4 +33,9 @@ coaches:
       OWS Assistant Coach
     about: More info coming soon!
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
+  - name: |-
+      Charles Loflin
+      Co-Head Run Coach
+    about: More info coming soon!
+    image: /img/18274873_628254774044855_3046185853537668826_n.jpeg
 ---
