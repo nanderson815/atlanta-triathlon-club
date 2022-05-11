@@ -76,4 +76,9 @@ coaches:
       Co-Head Bike Coach
     about: More info coming soon!
     image: /img/20663906_672069212996744_7507521997248207998_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Patrick Zinn
+      Assistant Bike Coach
+    image: /img/20626535_1517271578312039_1279770778082822369_o.jpeg
 ---
