@@ -81,4 +81,9 @@ coaches:
       Patrick Zinn
       Assistant Bike Coach
     image: /img/20626535_1517271578312039_1279770778082822369_o.jpeg
+  - about: More info coming soon!
+    name: |-
+      George Cone
+      Assistant Bike Coach
+    image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
 ---
