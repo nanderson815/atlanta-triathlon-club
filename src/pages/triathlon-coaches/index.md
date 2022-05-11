@@ -100,7 +100,7 @@ coaches:
 
       Outside of coaching you will find Ed chasing his two young toddlers around. He is hoping they will soon be jumping on the bike and starting their own endurance journey soon!
   - name: Brad Smith
-    image: /img/216715221_4345625895501778_7599957098907498093_n.jpeg
+    image: /img/18620554_1436765386362659_1795965044818695743_o.jpg
     about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
