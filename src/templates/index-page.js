@@ -149,7 +149,7 @@ export const IndexPageTemplate = ({
                     out the latest Testimonials from our members:
                   </h5>
                 </div>
-                <TestimonialsRoll limit={12} />
+                <TestimonialsRoll scroll={true} />
               </div>
             </div>
           </div>
