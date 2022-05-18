@@ -14,7 +14,6 @@ coaches:
     name: |+
       Nicole Chittick
       Asst. GM
-
     image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
   - name: |-
       Allison Leppke
