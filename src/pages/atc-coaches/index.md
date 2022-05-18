@@ -9,9 +9,9 @@ coaches:
       Tim Myers
       GM
     about: More info coming soon!
-    image: /img/279796403_10224521133089047_8142395031618128364_n.jpeg
+    image: /img/tim.jpeg
   - about: More info coming soon!
-    name: |+
+    name: |
       Nicole Chittick
       Asst. GM
     image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
