@@ -6,8 +6,6 @@ import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
-import { convertMarkdownToHTML } from "../utilities";
-import { HTMLContent } from "../components/Content";
 import CoachModal from "../components/CoachModal";
 
 // eslint-disable-next-line
@@ -41,7 +39,8 @@ export const ATCCoachesTemplate = ({
                         <div className="center">
                           <PreviewCompatibleImage
                             imageInfo={{ image: image }}
-                            style={{ height: 350 }}
+                            style={{ maxHeight: 400 }}
+                            imgPosition="top center"
                           />
                         </div>
                         <div className="tile mb center-text">
