@@ -11,9 +11,6 @@ tags:
   - WomensHistoryMonth
   - FeaturedAthlete
 ---
-
-🌟🌟🌟
-
 Hi ATC!
 
 I have been fascinated by triathlons ever since I saw an Ironman race on TV when I was 20, but I really only stumbled into the sport in 2018 when a coworker asked me if I'd ever considered trying one. I told her I'd love to try the sport but I didn't have the gear needed to try one. Her response was to give me everything I needed (bike, helmet, shoes, etc) and then told me there was a women's sprint in 12 weeks. It was plenty of time to train and that I needed to sign up. I couldn't believe it!
