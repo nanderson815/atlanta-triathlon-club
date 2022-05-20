@@ -11,9 +11,9 @@ tags:
   - BlackHistoryMonth
   - FeaturedAthlete
 ---
-🌟🌟🌟🌟🌟
+Hola! 
 
-Hola! My name is Andrea. I joined the Atlanta Triathlon Club in 2020. While I'm newer to ATC, I'm no stranger to swim/bike/run. I became an official triathlon finisher after training with Team in Training and the Portland Triathlon Club for the Pacific Crest Triathlon Distance in Sunriver, OR in 2011.
+My name is Andrea. I joined the Atlanta Triathlon Club in 2020. While I'm newer to ATC, I'm no stranger to swim/bike/run. I became an official triathlon finisher after training with Team in Training and the Portland Triathlon Club for the Pacific Crest Triathlon Distance in Sunriver, OR in 2011.
 
 Since then, I have traveled the country and the world to complete one 140.6 mile distance race, three 70.3 mile distance races (currently training to complete my fourth next month), the 2015 USA Triathlon Foundation Fantasy Camp at the Olympic Training Center in Colorado, Springs, CO, and numerous Olympic and shorter distance races with Athena podium finishes over the years. Every event has been unique in many ways, but there are some elements that remain a common occurrence. In particular, as a Black more specifically Afro-Latina (my father is Black and my mother is Puerto Rican) triathlete, I have gotten used to being one of few or sometimes the only participant (on or off the course) that looks like me. The Triathlete magazine article “Why Aren’t There More Black Triathletes?” (December 16, 2020) provides additional perspective, highlighting access, representation, and inclusion as opportunities for all of us to consider.
 
