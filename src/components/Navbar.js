@@ -211,8 +211,11 @@ const Navbar = class extends React.Component {
                   >
                     Strava Club
                   </a>
-                  <Link to="/sponsors" className="navbar-item">
-                    Sponsors
+                  <Link to="/product-sponsors" className="navbar-item">
+                    Product Sponsors
+                  </Link>
+                  <Link to="/event-sponsors" className="navbar-item">
+                    Event Sponsors
                   </Link>
                   <a
                     href="http://www.ironman.com/triathlon/forms/single-sign-up.aspx"

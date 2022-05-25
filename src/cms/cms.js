@@ -27,6 +27,7 @@ CMS.registerPreviewTemplate("tricoaching", EnergyLabTemplate);
 
 CMS.registerPreviewTemplate("membership", MembershipPagePreview);
 CMS.registerPreviewTemplate("sponsors", SponsorsPagePreview);
+CMS.registerPreviewTemplate("event-sponsors", SponsorsPagePreview);
 CMS.registerPreviewTemplate("features", BlogPostPreview);
 CMS.registerPreviewTemplate("testimonials", BlogPostPreview);
 CMS.registerPreviewTemplate("training-locations", TrainingLocationsPagePreview);

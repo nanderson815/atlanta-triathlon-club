@@ -1,6 +1,6 @@
 ---
 templateKey: sponsors
-title: Our Sponsors
+title: Product Sponsors
 subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
