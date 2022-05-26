@@ -12,10 +12,10 @@ sponsors:
     logo: /img/c1qtw-cuuaab8py.jpeg
   - link: https://team-magic.com
     logo: /img/unknown.png
+  - link: https://tricolumbusga.com
+    logo: /img/tricolumbusga_clean_logo.png
   - link: https://tri-ptc.com
     logo: /img/tri-ptc-logo-mobile.png
   - link: https://www.tritheparks.com
     logo: /img/image_blueskysportslogo2013smalljpg.jpeg
-  - link: https://tricolumbusga.com
-    logo: /img/tricolumbusga_clean_logo.png
 ---
