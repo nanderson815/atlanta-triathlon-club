@@ -10,4 +10,6 @@ sponsors:
     logo: /img/c1qtw-cuuaab8py.jpeg
   - link: https://tri-ptc.com
     logo: /img/tri-ptc-logo-mobile.png
+  - link: https://www.gamultisports.com/contact/
+    logo: /img/gmp-logo-2020-72dpi.jpeg
 ---
