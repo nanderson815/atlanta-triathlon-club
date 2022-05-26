@@ -4,8 +4,6 @@ title: Event Sponsors
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
-  - logo: /img/android-chrome-192x192.png
-    link: https://www.atlantatriathlonclub.com/
   - link: https://www.gamultisports.com/contact/
     logo: /img/gmp-logo-2020-72dpi.jpeg
   - link: https://peakracingevents.com/contact/
