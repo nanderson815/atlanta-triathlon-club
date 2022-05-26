@@ -8,4 +8,6 @@ sponsors:
     link: https://www.atlantatriathlonclub.com/
   - link: https://peakracingevents.com/contact/
     logo: /img/c1qtw-cuuaab8py.jpeg
+  - link: https://tri-ptc.com
+    logo: /img/tri-ptc-logo-mobile.png
 ---
