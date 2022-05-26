@@ -12,4 +12,8 @@ sponsors:
     logo: /img/tri-ptc-logo-mobile.png
   - link: https://www.gamultisports.com/contact/
     logo: /img/gmp-logo-2020-72dpi.jpeg
+  - link: https://team-magic.com
+    logo: /img/unknown.png
+  - link: https://www.tritheparks.com
+    logo: /img/image_blueskysportslogo2013smalljpg.jpeg
 ---
