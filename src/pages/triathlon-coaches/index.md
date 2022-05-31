@@ -129,20 +129,4 @@ coaches:
 
 
       Steph looks forward to combining her expertise in orthopedic physical therapy, knowledge of biomechanics and running form, experience as an endurance athlete, and triathlon coaching education to optimally train and work with beginner and intermediate triathletes. She plans to incorporate injury prevention and act as a resource for injured athletes as well.
-  - name: Sam Morgan
-    image: /img/sam-morgan.jpg
-    about: >-
-      Coach Sam Morgan has coached triathlon going on 11 years to athletes from
-      5 to 75 and distances from super sprints to a ride across the United
-      States. He's worked with many beginners tackling their first race, as well
-      as elite amateurs who have won overall ironman races. He's coached
-      swimming even longer - 20 years and has worked with ages 3 to 83. Sam is
-      currently coaching triathlon remotely from Sarasota, FL where he also
-      coaches masters and age group level club swimming. 
-
-
-      Sam is a good "numbers" coach who likes to look at workout data before making decisions about future workouts. That doesn't mean he only looks at data though. Sam highly values an athlete who regularly updates their training log with data and comments.
-
-
-      Sam grew up as a distance swimmer and was an honorable mention All-American at Georgia Tech in 04 and 05. In the sport of triathlon Sam finished top 10 overall twice at the age group national championships (Olympic) as well as achieving a 4:17 in his first and only half iron distance race (Macon 09).  Sam went on to race bikes 2010-2014, and then dabbled in strength training 2017-2020. Sam has amassed a large body of knowledge from his own swim and triathlon training, his athletes training, and his athletic pursuits post triathlon.
 ---
