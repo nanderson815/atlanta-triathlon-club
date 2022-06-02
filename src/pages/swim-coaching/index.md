@@ -1,15 +1,14 @@
 ---
-title: Swim Coaching
 templateKey: energylab
+title: Swim Coaching
 backgroundImage: /img/swimcoaching.jpeg
 accentimage: /img/topography.png
 ---
-
 ### We can help you swim faster!
 
-- Identify areas of weakness
-- Obtain personalized feedback
-- Start where you are
+* Identify areas of weakness
+* Obtain personalized feedback
+* Start where you are
 
 Let us help you make the next step in your swimming! Our coaches work with brand new swimmers and experienced swimmers who want to take their swim to the next level.
 
@@ -25,17 +24,17 @@ At Energy Lab, our coaches are experienced in helping swim beginners learn to sw
 
 During the season, April to September, we offer two coached group swim sessions per month. These sessions are available to All Access members and drop-ins.
 
----
+- - -
 
 ## How swim coaching works:
 
-Fill out our [online application](https://goo.gl/forms/NrTJmnJyUMrmSgJq1) so we can match you with one of our swim coaches.
+Fill out our [online application](https://goo.gl/forms/NrTJmnJyUMrmSgJq1) so we can match you with one of our swim coaches. **Note: We are currently not taking on any new applications due to our current schedule and access to pools. Feel free to fill out the application and we will be in touch when our schedule is cleared. Thanks for your patience!** 
 
 The coach will call or email you to determine your needs and best fit.
 
 Together, you’ll coordinate a best date/time for your lesson.
 
----
+- - -
 
 ## More Swimming Resources for You
 
