@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Featured Athlete Sheelah Cochran
+title: Featured athlete Sheelah Cochran
 date: 2022-06-10T14:39:32.956Z
 description: >-
   Now presenting our next Featured ATC Athlete - Sheelah Cochran!
