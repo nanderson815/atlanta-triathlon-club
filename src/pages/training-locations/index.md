@@ -8,6 +8,9 @@ locations:
   - name: Energy Lab
     address: 1167 Zonolite Place Northeast Atlanta 30306
     details: Indoor Cycling
+  - name: "Washington Park Natatorium "
+    address: 102 Ollie St NW, Atlanta, GA 30314
+    details: Weekday Pool
   - name: Big Peach Brookhaven
     address: "705 Town Blvd #340 Atlanta, GA 30319"
     details: Weekend Long Run
