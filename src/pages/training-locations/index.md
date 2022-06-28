@@ -8,13 +8,16 @@ locations:
   - name: Energy Lab
     address: 1167 Zonolite Place Northeast Atlanta 30306
     details: Indoor Cycling
+  - name: Red Top Mountain - Lake Allatoona
+    address: 50 Lodge Rd SE Cartersville, GA 30121
+    details: Weekend Open Water Swim
   - name: "Washington Park Natatorium "
     address: 102 Ollie St NW, Atlanta, GA 30314
     details: Weekday Pool
-  - name: Big Peach Brookhaven
+  - name: Big Peach- Brookhaven
     address: "705 Town Blvd #340 Atlanta, GA 30319"
     details: Weekend Long Run
-  - name: Columns Drive/Cochran Shoals
+  - name: Cochran Shoals - Columns Drive
     address: Chattanoochee River National Recreation Area
     details: Weekend Long Run
   - name: Piedmont Park
@@ -35,7 +38,7 @@ locations:
   - name: Silver Comet - Bike Depot
     details: Weekend Long Bike
     address: 4342 Floyd Road Mableton 30126
-  - name: Road Runner Sports Buckhead
+  - name: Road Runner Sports - Buckhead
     details: Weekday Run
     address: "3756 Roswell Rd NE, Atlanta, GA 30342 "
 ---
