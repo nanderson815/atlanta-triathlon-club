@@ -17,6 +17,12 @@ locations:
   - name: "Washington Park Natatorium "
     address: 102 Ollie St NW, Atlanta, GA 30314
     details: Weekday Pool
+  - name: The Active Oval @ Piedmont Park
+    address: "Active Oval, Atlanta, GA 30309 "
+    details: Weekday Track
+  - address: 2744 Peachtree Rd. NW Atlanta, GA 30305
+    details: Weekday Bike Hill Repeats
+    name: The Cathedral of St. Philip - Arden Road
   - name: Big Peach- Brookhaven
     address: "705 Town Blvd #340 Atlanta, GA 30319"
     details: Weekend Long Run
