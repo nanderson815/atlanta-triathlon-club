@@ -8,6 +8,9 @@ locations:
   - name: Energy Lab
     address: 1167 Zonolite Place Northeast Atlanta 30306
     details: Indoor Cycling
+  - address: 5120 Allatoona Dr. Acworth, GA 30101
+    details: Weekend Open Water Swim & Mock Triathlon
+    name: Dallas Landing Park - Lake Allatoona
   - name: Red Top Mountain - Lake Allatoona
     address: 50 Lodge Rd SE Cartersville, GA 30121
     details: Weekend Open Water Swim
