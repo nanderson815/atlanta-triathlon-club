@@ -121,14 +121,14 @@ const Navbar = class extends React.Component {
                     Triathlon Coaching
                   </Link>
                   <Link to="/small-group-coaching" className="navbar-item">
-                    Small Group Coaching
+                    Small Group
                   </Link>
                   <Link to="/membership-options" className="navbar-item">
                     Group Training
                   </Link>
-                  <a href="https://atltristars.com/" className="navbar-item">
+                  {/* <a href="https://atltristars.com/" className="navbar-item">
                     Kids
-                  </a>
+                  </a> */}
                 </div>
               </div>
 
@@ -218,7 +218,7 @@ const Navbar = class extends React.Component {
                     Event Sponsors
                   </Link>
                   <a
-                    href="http://www.ironman.com/triathlon/forms/single-sign-up.aspx"
+                    href="https://www.ironman.com/triclubs"
                     className="navbar-item"
                   >
                     Ironman Triclub

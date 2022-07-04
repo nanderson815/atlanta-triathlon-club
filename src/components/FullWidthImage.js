@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { GatsbyImage } from "gatsby-plugin-image";
+import { Link } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
 export default function FullWidthImage(props) {
@@ -9,6 +10,7 @@ export default function FullWidthImage(props) {
     img,
     frontImage,
     frontImage2,
+    frontImage2Link,
     title,
     subheading,
     imgPosition = "top left",
@@ -108,13 +110,15 @@ export default function FullWidthImage(props) {
               </h3>
             )}
             {frontImage2 && (
-              <PreviewCompatibleImage
-                imageInfo={{ image: frontImage2 }}
-                style={{
-                  gridArea: "1/1",
-                }}
-                alt=""
-              />
+              <Link to={frontImage2Link}>
+                <PreviewCompatibleImage
+                  imageInfo={{ image: frontImage2 }}
+                  style={{
+                    gridArea: "1/1",
+                  }}
+                  alt=""
+                />
+              </Link>
             )}
           </div>
         )}

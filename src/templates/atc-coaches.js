@@ -20,7 +20,7 @@ export const ATCCoachesTemplate = ({
   const accentBackgroundImage = getImage(accentimage) || accentimage;
 
   return (
-    <div>
+    <div id="coach-container">
       <FullWidthImage
         height={400}
         img={_backgroundImage}
@@ -34,23 +34,21 @@ export const ATCCoachesTemplate = ({
               <div className="columns is-multiline">
                 {coaches.map(({ name, image, about }, i) => (
                   <div className="is-parent column is-6" key={i}>
-                    <div className="paper" style={{ height: "100%" }}>
-                      <div>
-                        <div className="center">
-                          <PreviewCompatibleImage
-                            imageInfo={{ image: image }}
-                            style={{ maxHeight: 400 }}
-                            imgPosition="top center"
-                          />
-                        </div>
-                        <div className="tile mb center-text">
-                          <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
-                            {name}
-                          </h1>
-                        </div>
-                        <div className="center">
-                          <CoachModal content={about} name={name} />
-                        </div>
+                    <div className="paper full-height flex-col">
+                      <div className="center">
+                        <PreviewCompatibleImage
+                          imageInfo={{ image: image }}
+                          style={{ height: 400 }}
+                          imgPosition="top center"
+                        />
+                      </div>
+                      <div className="tile mb center-text">
+                        <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
+                          {name}
+                        </h1>
+                      </div>
+                      <div className="center">
+                        <CoachModal content={about} name={name} />
                       </div>
                     </div>
                   </div>

@@ -25,7 +25,7 @@ We are now accepting applications. Filling out the application is your first st
 
 Let us help you make the next step in your swimming! Our coaches work with brand new swimmers and experienced swimmers who want to take their swim to the next level.
 
-[Learn More](https://energylabatl.com/swim-coaching-2)
+***[Learn More](https://docs.google.com/forms/d/e/1FAIpQLSfG8sM7GW8s1hiPHwWu9uRNx52CHsY6rRzWPwKngRGHGT2GvA/viewform)***
 
 - - -
 

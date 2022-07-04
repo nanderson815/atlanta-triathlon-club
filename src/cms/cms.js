@@ -34,3 +34,4 @@ CMS.registerPreviewTemplate("training-locations", TrainingLocationsPagePreview);
 // Coaches Tempaltes
 CMS.registerPreviewTemplate("atc-coaches", ATCCoachesPagePreview);
 CMS.registerPreviewTemplate("triathlon-coaches", ATCCoachesPagePreview);
+CMS.registerPreviewTemplate("swim-coaches", ATCCoachesPagePreview);

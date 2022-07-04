@@ -39,5 +39,3 @@ Together, you’ll coordinate a best date/time for your lesson.
 ## More Swimming Resources for You
 
 #### [Atlanta Tri Club Swim Training Schedule](https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-7&sView=week&sLoc=0)
-
-#### [How to Tackle the Triathlon Swim](https://energylabatl.com/2019/07/16/how-to-conquer-triathlon-swimming-training/)

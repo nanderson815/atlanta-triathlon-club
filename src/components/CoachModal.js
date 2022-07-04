@@ -8,9 +8,9 @@ const Modal = ({ children, closeModal, modalState, name }) => {
   }
 
   return (
-    <div className="modal is-active">
+    <div className="modal is-active" style={{ overflox: "visible" }}>
       <div className="modal-background" onClick={closeModal} />
-      <div className="modal-card">
+      <div className="modal-card" style={{ maxHeight: 600 }}>
         <header className="modal-card-head">
           <p className="modal-card-title mb-0">{name}</p>
           <button className="delete" onClick={closeModal} />
@@ -33,6 +33,12 @@ export default function CoachModal({ content, name }) {
 
   const toggleModal = () => {
     setModalState(!modalState);
+    const html = document.querySelector("html");
+    if (html.classList.contains("is-clipped")) {
+      document.querySelector("html").classList.remove("is-clipped");
+    } else {
+      document.querySelector("html").classList.add("is-clipped");
+    }
   };
 
   return (

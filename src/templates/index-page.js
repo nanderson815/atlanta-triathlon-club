@@ -33,6 +33,7 @@ export const IndexPageTemplate = ({
         img={backgroundImage}
         frontImage={heroimage}
         frontImage2={mainpitch.energyLabLogo}
+        frontImage2Link="/energylab"
         title={title}
         subheading={subheading}
       />
@@ -42,8 +43,8 @@ export const IndexPageTemplate = ({
             <div className="content">
               <div className="columns is-multiline">
                 <div className="column is-6">
-                  <div className="content paper">
-                    <div className="tile mb center-text">
+                  <div className="content paper full-height flex-col">
+                    <div className="mb center-text">
                       <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
                         {mainpitch.title}
                       </h1>
@@ -59,7 +60,7 @@ export const IndexPageTemplate = ({
                     >
                       7 DAY FREE TRIAL
                     </Button>
-                    <div className="tile mb center-text">
+                    <div className="mb center-text">
                       <h3 className="subtitle">{mainpitch.description}</h3>
                     </div>
                     <Link to="/start-here">
@@ -70,8 +71,8 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="column is-6">
-                  <div className="content paper">
-                    <div className="tile mb center-text">
+                  <div className="content paper full-height flex-col">
+                    <div className="mb center-text">
                       <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
                         {mainpitch.energyLabTitle}
                       </h1>
@@ -88,7 +89,14 @@ export const IndexPageTemplate = ({
                         {mainpitch.energyLabSubtitle}
                       </h1>
                     </div>
-                    <div className="tile mb center-text">
+                    <Button
+                      className="is-medium is-fullwidth mb"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSfG8sM7GW8s1hiPHwWu9uRNx52CHsY6rRzWPwKngRGHGT2GvA/viewform"
+                      target="_blank"
+                    >
+                      1-1 TRAITHLON COACHING
+                    </Button>
+                    <div className="mb center-text">
                       <h3 className="subtitle">
                         {mainpitch.energyLabDescription}
                       </h3>

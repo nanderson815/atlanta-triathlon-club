@@ -116,13 +116,6 @@ const Footer = class extends React.Component {
                   className="has-text-weight-bold is-size-6-mobile is-size-5-tablet"
                   style={{ color: "white" }}
                 >
-                  Our Studio
-                </h3>
-                <p className="mb-0">1167A Zonolite Place NE Atlanta, GA 3036</p>
-                <h3
-                  className="has-text-weight-bold is-size-6-mobile is-size-5-tablet"
-                  style={{ color: "white" }}
-                >
                   Contact Us
                 </h3>
                 <p className="mb-0">678-883-3522</p>
@@ -157,6 +150,13 @@ const Footer = class extends React.Component {
                     />
                   </a>
                 </div>
+                <h3
+                  className="has-text-weight-bold is-size-6-mobile is-size-5-tablet"
+                  style={{ color: "white" }}
+                >
+                  Our Studio
+                </h3>
+                <p className="mb-0">1167A Zonolite Place NE Atlanta, GA 3036</p>
               </div>
             </div>
           </div>

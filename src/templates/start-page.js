@@ -51,11 +51,11 @@ export const StartPageTemplate = ({
                 <div className="tile mb">
                   <PageContent className="content" content={content} />
                 </div>
-                <a href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=info">
+                {/* <a href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=info">
                   <Button className="is-medium is-fullwidth mb">
                     LEARN MORE
                   </Button>
-                </a>
+                </a> */}
                 <br />
                 <br />
                 {blurbs.map(({ title, desc }) => {

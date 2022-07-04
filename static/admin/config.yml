@@ -573,5 +573,26 @@ collections:
                   { label: Name, name: name, widget: string },
                   { label: Address, name: address, widget: string },
                   { label: Details, name: details, widget: text },
+                  {
+                    label: Venue,
+                    name: venue,
+                    widget: select,
+                    options: ["Indoor", "Outdoor"],
+                    multiple: true,
+                  },
+                  {
+                    label: Activity,
+                    name: activity,
+                    widget: select,
+                    options: ["Swim", "Bike", "Run"],
+                    multiple: true,
+                  },
+                  {
+                    label: Time,
+                    name: time,
+                    widget: select,
+                    options: ["Weekday", "Weekend"],
+                    multiple: true,
+                  },
                 ],
             }

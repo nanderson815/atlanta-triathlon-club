@@ -6,7 +6,7 @@ heroimage: /img/android-chrome-512x512.png
 accentimage: /img/topography.png
 subheading: Powered by
 mainpitch:
-  title: WELCOME TO ATLANTA TRI CLUB
+  title: Welcome to Atlanta Tri Club!
   description: "If you’re looking for sprint triathlon training in Atlanta, you’ve
     come to the right place. Atlanta Tri Club is a community of athletes of all
     ages and experience levels. Our members train for sprint triathlons through
@@ -30,11 +30,11 @@ intro:
     - image: /img/card2.jpeg
       title: "#poweredbyenergylab"
       desc: Get personal coaching
-      link: http://energylabatl.com/triathlon-coaching/
+      link: /energylab
     - image: /img/card3.jpeg
       title: "#poweredbyenergylab"
       desc: Swim lessons
-      link: http://energylabatl.com/swim-coaching-2/
+      link: swim-coaching
   heading: Our Services
   description: How Can we help?
 ---
