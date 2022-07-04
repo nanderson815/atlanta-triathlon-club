@@ -19,13 +19,23 @@ Our certified coaches help athletes of all levels from first time sprint finishe
 
 We are now accepting applications. Filling out the application is your first step towards coaching. Afterward, a coach will call you to discuss your goals and find the best fit.
 
+<h2>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScmwBUGWn57GTL8E9yFfI4br5H7BTPfpTDPfQfO19VJ3h6aDw/viewform">
+<center>Apply Now</center>
+</a>
+</h2>
+
 - - -
 
 ## Swim Coaching
 
 Let us help you make the next step in your swimming! Our coaches work with brand new swimmers and experienced swimmers who want to take their swim to the next level.
 
-***[Learn More](https://docs.google.com/forms/d/e/1FAIpQLSfG8sM7GW8s1hiPHwWu9uRNx52CHsY6rRzWPwKngRGHGT2GvA/viewform)***
+<h2>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTiqjb6UxYxHCOE-4P5jo7IvrjfV_5k9UJQdfWW5JdXrwwnw/closedform">
+<center>Apply Now</center>
+</a>
+</h2>
 
 - - -
 

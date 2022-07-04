@@ -22,8 +22,6 @@ locations:
       - Outdoor
     activity:
       - Swim
-      - Bike
-      - Run
     time:
       - Weekend
   - name: Red Top Mountain - Lake Allatoona

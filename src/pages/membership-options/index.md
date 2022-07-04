@@ -87,6 +87,6 @@ From the moment you join, #atclove is a way of life! Experience club socials, ra
 
 The members only forum and facebook group provides access to valuable training information from club experts and allows members to collaborate. All membership options include a one time enrollment fee of $50 and come with special schwag so you can start representing ATC immediately!
 
-Need something else? [Contact us](mailto:info@atlantatriclub.com) for more information, learn about [one on one coaching](http://energylabatl.com/triathlon-coaching/), or purchase a drop-in pack if you’ll be attending classes infrequently. Dropin packs are $20 for one session or $150 for ten sessions.
+Need something else? [Contact us](mailto:info@atlantatriclub.com) for more information, learn about [one on one coaching](https://docs.google.com/forms/d/e/1FAIpQLScmwBUGWn57GTL8E9yFfI4br5H7BTPfpTDPfQfO19VJ3h6aDw/viewform), or purchase a drop-in pack if you’ll be attending classes infrequently. Dropin packs are $20 for one session or $150 for ten sessions.
 
 Want to try us out? [Start a 7 day free trial](https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=0&tabID=3) of the all access membership!

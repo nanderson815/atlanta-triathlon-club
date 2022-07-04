@@ -121,7 +121,7 @@ const Navbar = class extends React.Component {
                     Triathlon Coaching
                   </Link>
                   <Link to="/small-group-coaching" className="navbar-item">
-                    Small Group
+                    Small Group Coaching
                   </Link>
                   <Link to="/membership-options" className="navbar-item">
                     Group Training

@@ -91,10 +91,10 @@ export const IndexPageTemplate = ({
                     </div>
                     <Button
                       className="is-medium is-fullwidth mb"
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSfG8sM7GW8s1hiPHwWu9uRNx52CHsY6rRzWPwKngRGHGT2GvA/viewform"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLScmwBUGWn57GTL8E9yFfI4br5H7BTPfpTDPfQfO19VJ3h6aDw/viewform"
                       target="_blank"
                     >
-                      1-1 TRAITHLON COACHING
+                      1-1 TRIATHLON COACHING
                     </Button>
                     <div className="mb center-text">
                       <h3 className="subtitle">

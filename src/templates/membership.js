@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { getImage } from "gatsby-plugin-image";
@@ -51,11 +51,11 @@ export const MembershipTemplate = ({
                 <div className="tile mb">
                   <PageContent className="content" content={content} />
                 </div>
-                <a href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=info">
+                <Link to="/start-here">
                   <Button className="is-medium is-fullwidth mb">
                     LEARN MORE
                   </Button>
-                </a>
+                </Link>
                 <br />
                 <br />
                 <div className="columns is-multiline">

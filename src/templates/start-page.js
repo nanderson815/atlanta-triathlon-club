@@ -5,7 +5,6 @@ import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { getImage } from "gatsby-plugin-image";
 import BackgroundImage from "../components/BackgroundImage";
-import Button from "../components/Button";
 import FullWidthImage from "../components/FullWidthImage";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import { convertMarkdownToHTML } from "../utilities";
