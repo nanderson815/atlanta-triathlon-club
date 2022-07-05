@@ -30,7 +30,7 @@ intro:
     - image: /img/card2.jpeg
       title: "#poweredbyenergylab"
       desc: Get personal coaching
-      link: /energylab
+      link: /triathlon-coaching
     - image: /img/card3.jpeg
       title: "#poweredbyenergylab"
       desc: Swim lessons
