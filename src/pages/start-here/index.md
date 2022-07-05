@@ -9,12 +9,12 @@ imageTwo: /img/img2.jpeg
 blurbs:
   - title: SWIMMING
     desc: >-
-      We offer five, organized coach- led practices during the week with up to
-      six lanes at a practice. Lanes are organized by ability—newbies and
+      We offer two, organized coach- led practices during the week with up to
+      five lanes at a practice. Lanes are organized by ability—newbies and
       former-college-swimmers welcome.
 
 
-      Just learning to swim? We have a dedicated beginner lane at all sessions for that. All our practices are beginner friendly. And we offer swim lessons through Energy Lab if you need extra one on one attention. Twice per month during summer we offer supported open water sessions.
+      Just learning to swim? We have a dedicated beginner lane at all sessions for that. All our practices are beginner friendly. And we offer swim lessons through Energy Lab if you need extra one on one attention. Twice per month during summer we offer supported open water sessions at Red Top Mountain in Cartersville.
   - title: CYCLING
     desc: >-
       We have plenty of indoor and outdoor riding options. At Energy Lab, our
@@ -24,12 +24,13 @@ blurbs:
       performance testing once per month to help you keep your zones current.
 
 
-      On summer Thursday nights, we ride hill repeats in Buckhead, with optional beer and pizza afterwards at Fellinis. And on the weekends, we have supported long rides at various popular locations in the summer, and Energy Lab studio rides in the winter. New to group rides? You’ll be paired with others going a similar distance and speed so you don’t have to ride alone!
+      On summer Thursday nights, we ride hill repeats in Buckhead, with optional pizza and beer afterwards at Fellinis. And on the weekends, we have supported long rides at various popular locations in the summer, and Energy Lab studio rides in the winter. New to group rides? You’ll be paired with others going a similar distance and speed so you don’t have to ride alone!
   - title: RUNNING
-    desc: We run in Buckhead on Tuesday nights and a seasonal Track workout at
-      Sutton Middle School on Thursday Mornings.  On the weekends, we have
-      supported group runs that rotate locations around Atlanta. You will be
-      paired with others running a similar distance and pace.
+    desc: We run in Buckhead on Tuesday nights and a seasonal Track workout at The
+      Active Oval in Piedmont Park on Thursday Mornings.  On the weekends, we
+      have supported group runs that rotate locations around and outside
+      Atlanta. You will be paired with others running a similar distance and
+      pace.
 cto:
   title: HOW IT WORKS
   body: >-
