@@ -169,7 +169,11 @@ coaches:
       Jerome Feuiltault
       Head Tuesday Night Run Coach
       Head Thursday Night Bike Hill Repeats Coach
-    about: More info coming soon!
+    about: An endurance athlete for over 20 years, Jerome is passionate about the
+      triathlon community and the sport and is dedicated to enhancing the
+      experiences of all who participate. A Canuck by birth, Jerome has been in
+      Atlanta for over 15 years and giving back to this community since joining
+      ATC in 2010.
     image: /img/13775901_506617006208633_4879532389543617675_n.jpeg
   - name: |-
       Chuck Chittick
