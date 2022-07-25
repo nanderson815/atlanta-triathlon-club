@@ -160,11 +160,21 @@ coaches:
       Ilana Katz
       Assistant Run Coach
     image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
-  - about: More info coming soon!
+  - about: >-
+      Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
+
+
+      She initially started biking and running with the group for the camaraderie and the sole goal of staying fit.  Eventually she caught the “tri-bug” completing her first sprint tri in 2016.  Jennifer has since participated as a runner and cyclist in several relay events, including three 70.3 distance races.  Her next big goal is completing her first 70.3 as an age-grouper in 2023. 
+
+
+      Jennifer enjoys supporting her fellow athletes on and off the course.  She is an Acupuncturist, owner of Core Acupuncture health+wellness and specializes in Sport Medicine Acupuncture to better support Athletes of all ages, levels and sports.  
+
+
+      Enjoys good food, traveling, SUP-ing and spending time with favorite pup, Capone
     name: |-
       Jennifer Myers
       Assistant Run & Bike Coach
-    image: /img/14184358_10154433020489547_4921157020456800209_n.jpeg
+    image: /img/img_8783-2.jpeg
   - name: |-
       Jerome Feuiltault
       Head Tuesday Night Run Coach
