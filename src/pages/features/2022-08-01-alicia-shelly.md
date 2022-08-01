@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Featured Athlete Alicia Shelly
+title: Featured athlete Alicia Shelly
 date: 2022-08-01T15:33:50.156Z
 description: Alicia recently completed her first 70.3 in May and is training for
   her first full Ironman in September. A few weeks ago we had a chance to chat
