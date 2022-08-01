@@ -7,10 +7,11 @@ coaches:
   - image: /img/img_1251.jpg
     name: Tim Myers
     about: >-
-      **Tim Myers**
-
-
-      Tim is a Partner, General Manager and Coach of Energy Lab and Atlanta Triathlon Club. His certifications include USA Triathlon Level II Endurance Coaching, USA Triathlon Level II ParaTri Coaching, USA Cycling Level 3 Coaching, TrainingPeaks Level 2 Accredited Coach, Road Runner Club of America Adult Distance Running Coach and CPR, First Aid & AED.
+      Tim is a Partner, General Manager and Coach of Energy Lab and Atlanta
+      Triathlon Club. His certifications include USA Triathlon Level 2 Endurance
+      Coaching, USA Triathlon Level 2 ParaTri Coaching, USA Cycling Level 3
+      Coaching, TrainingPeaks Level 2 Accredited Coach, Road Runner Club of
+      America Adult Distance Running Coach and CPR, First Aid & AED.
 
 
       He is a six time Ironman 70.3 World Championship Qualifier and finisher, five time Ironman All World Athlete and a two time USAT All American. In the 2015 USAT Rankings he was ranked 5th in the SE, and 2nd in the state for his age group. His favorite distance is the Ironman distance, completing thirteen and finishing in the top ten of his age group at the 2015 Ironman Chattanooga.
