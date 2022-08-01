@@ -1,12 +1,13 @@
 ---
 templateKey: blog-post
-title: Alicia Shelly
+title: Featured Athlete Alicia Shelly
 date: 2022-08-01T15:33:50.156Z
-description: Now presenting our next Featured ATC Athlete - Alicia Shelly!
+description: Alicia recently completed her first 70.3 in May and is training for
+  her first full Ironman in September. A few weeks ago we had a chance to chat
+  about her training and racing experience….
 featuredpost: true
 featuredimage: /img/img_1795.jpg
 ---
-Alicia recently completed her first 70.3 in May and is training for her first full Ironman in September. A few weeks ago we had a chance to chat about her training and racing experience….
 Interviewer: How did you get started in triathlon? 
 Alicia:
 I've always wanted to do an Ironman, but I never thought I could - I never thought that this was even a possibility. I had signed up for my first sprint triathlon, and then just didn't go through with it. I got nervous and thought - I can't do this.
