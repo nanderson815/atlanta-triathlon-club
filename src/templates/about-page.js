@@ -3,26 +3,41 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import { getImage } from "gatsby-plugin-image";
+import BackgroundImage from "../components/BackgroundImage";
+import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutPageTemplate = ({
+  title,
+  content,
+  contentComponent,
+  accentimage,
+  backgroundImage,
+}) => {
   const PageContent = contentComponent || Content;
+  const _backgroundImage = getImage(backgroundImage) || backgroundImage;
+  const accentBackgroundImage = getImage(accentimage) || accentimage;
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
+    <div>
+      <FullWidthImage height={400} img={_backgroundImage} title={title} />
+      <BackgroundImage height={800} img={accentBackgroundImage}>
+        <section className="section section--gradient">
+          <div className="container">
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <div className="section">
+                  <div className="content paper">
+                    <PageContent className="content" content={content} />
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-    </section>
+        </section>
+      </BackgroundImage>
+    </div>
   );
 };
 
@@ -38,6 +53,8 @@ const AboutPage = ({ data }) => {
   return (
     <Layout>
       <AboutPageTemplate
+        backgroundImage={post.frontmatter.backgroundImage}
+        accentimage={post.frontmatter.accentimage}
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -58,6 +75,21 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        backgroundImage {
+          childImageSharp {
+            gatsbyImageData(quality: 100, width: 3000)
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        accentimage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

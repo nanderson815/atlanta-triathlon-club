@@ -39,10 +39,10 @@ export const IndexPageTemplate = ({
       />
       <BackgroundImage height={800} img={accentBackgroundImage}>
         <div style={{ minHeight: 800 }} className="container center">
-          <div className="section">
+          <div className="section" style={{ padding: "3rem 0rem" }}>
             <div className="content">
-              <div className="columns is-multiline">
-                <div className="column is-6">
+              <div className="columns">
+                <div className="column">
                   <div className="content paper full-height flex-col">
                     <div className="mb center-text">
                       <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">
@@ -70,7 +70,7 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
-                <div className="column is-6">
+                <div className="column">
                   <div className="content paper full-height flex-col">
                     <div className="mb center-text">
                       <h1 className="title has-text-weight-bold is-size-4-mobile is-size-3-tablet">

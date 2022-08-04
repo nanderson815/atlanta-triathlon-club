@@ -85,6 +85,11 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/start-here">
                 Start Here
               </Link>
+
+              <Link className="navbar-item" to="/about">
+                About
+              </Link>
+
               <a
                 className="navbar-item"
                 href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=account"
