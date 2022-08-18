@@ -6,6 +6,7 @@ import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
+import { Helmet } from "react-helmet";
 
 // eslint-disable-next-line
 export const SponsorsTemplate = ({
@@ -20,6 +21,7 @@ export const SponsorsTemplate = ({
 
   return (
     <div>
+      <Helmet title={`${title} | Atlanta Triathlon Club`} />
       <FullWidthImage
         height={400}
         img={_backgroundImage}

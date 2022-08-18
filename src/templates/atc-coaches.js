@@ -6,6 +6,7 @@ import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
+import { Helmet } from "react-helmet";
 import CoachModal from "../components/CoachModal";
 
 // eslint-disable-next-line
@@ -21,6 +22,7 @@ export const ATCCoachesTemplate = ({
 
   return (
     <div id="coach-container">
+      <Helmet title={`${title} | Atlanta Triathlon Club`} />
       <FullWidthImage
         height={400}
         img={_backgroundImage}

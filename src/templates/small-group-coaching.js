@@ -5,6 +5,7 @@ import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { getImage } from "gatsby-plugin-image";
 import BackgroundImage from "../components/BackgroundImage";
+import { Helmet } from "react-helmet";
 import Button from "../components/Button";
 import FullWidthImage from "../components/FullWidthImage";
 
@@ -24,6 +25,7 @@ export const R2RTemplate = ({
 
   return (
     <div>
+      <Helmet title={`${title} | Atlanta Triathlon Club`} />
       <FullWidthImage height={400} img={_backgroundImage} title={title} />
       <BackgroundImage height={800} img={accentBackgroundImage}>
         <div style={{ minHeight: 800 }} className="container center">

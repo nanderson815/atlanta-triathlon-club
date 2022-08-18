@@ -5,6 +5,8 @@ import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
 import BackgroundImage from "../components/BackgroundImage";
+import { Helmet } from "react-helmet";
+
 
 // eslint-disable-next-line
 export const TrainingLocationsTemplate = ({
@@ -46,6 +48,7 @@ export const TrainingLocationsTemplate = ({
 
   return (
     <div>
+      <Helmet title={`${title} | Atlanta Triathlon Club`} />
       <FullWidthImage
         height={400}
         img={_backgroundImage}

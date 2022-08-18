@@ -7,6 +7,7 @@ import { getImage } from "gatsby-plugin-image";
 import BackgroundImage from "../components/BackgroundImage";
 import Button from "../components/Button";
 import FullWidthImage from "../components/FullWidthImage";
+import { Helmet } from "react-helmet";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import { convertMarkdownToHTML } from "../utilities";
 
@@ -29,6 +30,7 @@ export const MembershipTemplate = ({
 
   return (
     <div>
+      <Helmet title={`${title} | Atlanta Triathlon Club`} />
       <FullWidthImage height={400} img={_backgroundImage} title={title} />
       <BackgroundImage height={800} img={accentBackgroundImage}>
         <div style={{ minHeight: 800 }} className="container center">

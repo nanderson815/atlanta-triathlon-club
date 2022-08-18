@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
+import { Helmet } from "react-helmet";
 import Content, { HTMLContent } from "../components/Content";
 import { getImage } from "gatsby-plugin-image";
 import BackgroundImage from "../components/BackgroundImage";
@@ -24,6 +25,7 @@ export const EnergyLabTemplate = ({
 
   return (
     <div>
+      <Helmet title={`${title} | Atlanta Triathlon Club`} />
       <FullWidthImage
         height={550}
         img={_backgroundImage}
