@@ -34,11 +34,11 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: "is-active",
-            })
+            navBarActiveClass: "is-active",
+          })
           : this.setState({
-              navBarActiveClass: "",
-            });
+            navBarActiveClass: "",
+          });
       }
     );
   }
@@ -159,7 +159,7 @@ const Navbar = class extends React.Component {
                     Training Locations
                   </Link>
                   <a
-                    href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-2&subTab=account"
+                    href="https://clients.mindbodyonline.com/classic/mainclass?studioid=30262&tg=&vt=&lvl=&stype=-7&view=week&trn=0&page=&catid=&prodid=&date=8/22/2022&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1"
                     className="navbar-item"
                   >
                     Class Registration
