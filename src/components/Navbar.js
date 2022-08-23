@@ -159,7 +159,7 @@ const Navbar = class extends React.Component {
                     Training Locations
                   </Link>
                   <a
-                    href="https://clients.mindbodyonline.com/classic/mainclass?fl=true&tabID=7"
+                    href="https://clients.mindbodyonline.com/classic/ws?studioid=30262&stype=-7&sView=week&sLoc=0"
                     className="navbar-item"
                   >
                     Class Registration
