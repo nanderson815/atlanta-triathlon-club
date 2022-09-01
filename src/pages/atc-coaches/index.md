@@ -279,4 +279,17 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
+  - name: |-
+      Krista Glasscock
+      Swim Coach
+    about: Krista has been competing in triathlons for the past 11 years. Growing up
+      she swam competitively and loved cycling. When she moved to Atlanta, she
+      began looking for ways to remain active and triathlons were a great next
+      step. In 2006, she signed up for her first sprint triathlon. Over the
+      years, she continuously takes on new challenges and distances. Krista has
+      completed several Half Ironman's, one full Ironman, a 5k swim, and also
+      enjoys doing endurance cycling rides. She has completed an MS150 and a
+      century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
+      CrossFit Endurance into her training.
+    image: /img/154876750_10160853857463378_4255710727317208386_n.jpeg
 ---
