@@ -134,7 +134,7 @@ coaches:
       enjoys doing endurance cycling rides. She has completed an MS150 and a
       century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
       CrossFit Endurance into her training.
-    image: /img/154876750_10160853857463378_4255710727317208386_n.jpeg
+    image: /img/1383827_10152344297148378_855082378_n.jpeg
   - about: Debbie James has competed in triathlons since 2016.  With the support of
       the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
       and qualified to compete in the 70.3 World Championships in Nice, France
