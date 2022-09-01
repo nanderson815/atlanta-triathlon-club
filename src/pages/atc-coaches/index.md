@@ -50,7 +50,7 @@ coaches:
     image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
   - name: |-
       Allison Leppke
-      Co-Head OWS Coach
+      Co-Head Swim Coach
     image: /img/21762474_10214212254929961_6629904165657778602_o.jpeg
     about: >-
       Allison is one of the head swim coaches. She has been with ATC since 2012
@@ -64,7 +64,7 @@ coaches:
       Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
   - name: |-
       Chris Janke
-      Co-Head OWS Coach
+      Co-Head Swim Coach
     about: >-
       Chris grew up swimming in Florida and has been participating in triathlons
       since 2012.
@@ -81,7 +81,7 @@ coaches:
   - about: More info coming soon!
     name: |-
       Jaime O'Keeffe
-      OWS Assistant Coach
+      Swim Coach
     image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
   - about: Debbie James has competed in triathlons since 2016.  With the support of
       the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
@@ -97,11 +97,11 @@ coaches:
       motto in swimming is, “Work smarter not harder”.
     name: |-
       Debbie James
-      OWS Assistant Coach
+      Swim Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
   - name: |-
       Sheryl Shectman
-      OWS Assistant Coach
+      Swim Coach
     about: >-
       I’m an assistant swim coach for the last several years. I grew up
       swimming; learned to swim before i could walk. I am an Ironman finisher, 4
@@ -160,6 +160,11 @@ coaches:
       Ilana Katz
       Assistant Run Coach
     image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
+  - name: |-
+      Kacy Seynders
+      Assistant Run Coach
+    about: Coming Soon!
+    image: /img/32162688_10209394453738452_182386361750257664_n.jpg
   - about: >-
       Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
 
@@ -274,9 +279,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - name: |-
-      Kacy Seynders
-      Assistant Run Coach
-    about: Coming Soon!
-    image: /img/32162688_10209394453738452_182386361750257664_n.jpg
 ---
