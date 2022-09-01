@@ -52,7 +52,7 @@ coaches:
       Jamal Lacour
       Energy Lab Indoor Cycling Instructor
     about: More info coming soon!
-    image: /img/38910088_10156571069352387_6841772929890385920_n.jpeg
+    image: /img/383105_10150552223034124_250799748_n.jpg
   - name: |-
       Tim Newberg
       Energy Lab Indoor Cycling Instructor
@@ -189,7 +189,7 @@ coaches:
   - name: |-
       Kacy Seynders
       Assistant Run Coach
-    about: Coming Soon!
+    about: More info coming soon!
     image: /img/32162688_10209394453738452_182386361750257664_n.jpg
   - about: >-
       Stephanie Stonich has been an active member of ATC since 2013 and
