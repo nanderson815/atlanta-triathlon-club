@@ -52,7 +52,7 @@ coaches:
       Jamal Lacour
       Energy Lab Indoor Cycling Instructor
     about: More info coming soon!
-    image: /img/77646_10151073474291674_575581941_o.jpg
+    image: /img/38910088_10156571069352387_6841772929890385920_n.jpeg
   - name: |-
       Tim Newberg
       Energy Lab Indoor Cycling Instructor
