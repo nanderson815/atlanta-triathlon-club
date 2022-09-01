@@ -49,19 +49,49 @@ coaches:
       Asst. GM
     image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
   - name: |-
-      Allison Leppke
-      Co-Head Swim Coach
-    image: /img/21762474_10214212254929961_6629904165657778602_o.jpeg
+      Jamal Lacour
+      Energy Lab Indoor Cycling Instructor
+    about: More info coming soon!
+    image: /img/38910088_10156571069352387_6841772929890385920_n.jpeg
+  - name: |-
+      Tim Newberg
+      Energy Lab Indoor Cycling Instructor
+      Track Head Coach
+      Run Assistant Coach
     about: >-
-      Allison is one of the head swim coaches. She has been with ATC since 2012
-      and coached with ATC over 5 years. Allison competed in swimming from age 6
-      through college. After moving to Atlanta she started running and competing
-      in and coaching club water polo. Looking for a new challenge in 2012,
-      Allison started triathlons and loves the training, opportunity to compete,
-      and community. 
+      Tim is a current member of Team USA for USAT Triathlon recently competing
+      in 2016 ITU World Championships for both the Sprint and Olympic distance
+      triathlons. He has raced across every triathlon distance from Sprint and
+      Olympic to half-Ironman (2012 World Championship 70.3) and full Ironman,
+      as well as participated as guide for a visually impaired paratriathlete,
+      including at the 2015 ITU World Championship PT5 division.
 
 
-      Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
+      Tim has been leading spin classes at Energy Lab since 2012 and savors the opportunity to get the most out of each workout. He also thoroughly enjoys coaching cross country and track-and-field at the Atlanta Girls’ School, helping each girl embrace the AGS motto of ‘be your best self’.
+    image: /img/1044731_559981280707745_482795150_n.jpeg
+  - name: |-
+      Sara Scott
+      Energy Lab Indoor Cycling Instructor
+      Bike Assistant Coach
+    about: >-
+      Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
+      helping individuals of all experience levels achieve their goals. Sara
+      grew up playing soccer, tennis and golf, and started running as a way to
+      socialize outside of work when she moved to Fort Worth, Texas after
+      college. It was while on vacation in St Croix, she happened to witness the
+      famous 70.3 race held there, and somehow found the audacity to register
+      for the Chattanooga Olympic triathlon, though not owning a bike or having
+      any idea how to actually train (or even swim). It was a delightful and
+      harrowing experience, which she immediately decided that she would do it
+      again the following year, and soon found herself at an Atlanta Triathlon
+      Club Info Session. 
+
+
+      Sara has completed five Ironman Distance races, including Challenge Roth, and dozens of Half, Olympic and Sprint distance events, and she did return to tackle that St Croix race. As an active member of the Atlanta Triathlon Club, she joined the coaching staff as a leader for outdoor long rides, managed club social events for a couple seasons, and also leads indoor cycling as an instructor at Energy Lab. 
+
+
+      In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
+    image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
   - name: |-
       Chris Janke
       Co-Head Swim Coach
@@ -78,11 +108,33 @@ coaches:
 
       Chris has been coaching with the Atlanta Triathlon Club since 2013.
     image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
-  - about: More info coming soon!
-    name: |-
-      Jaime O'Keeffe
+  - name: |-
+      Allison Leppke
+      Co-Head Swim Coach
+    image: /img/21762474_10214212254929961_6629904165657778602_o.jpeg
+    about: >-
+      Allison is one of the head swim coaches. She has been with ATC since 2012
+      and coached with ATC over 5 years. Allison competed in swimming from age 6
+      through college. After moving to Atlanta she started running and competing
+      in and coaching club water polo. Looking for a new challenge in 2012,
+      Allison started triathlons and loves the training, opportunity to compete,
+      and community. 
+
+
+      Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
+  - name: |-
+      Krista Glasscock
       Swim Coach
-    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
+    about: Krista has been competing in triathlons for the past 11 years. Growing up
+      she swam competitively and loved cycling. When she moved to Atlanta, she
+      began looking for ways to remain active and triathlons were a great next
+      step. In 2006, she signed up for her first sprint triathlon. Over the
+      years, she continuously takes on new challenges and distances. Krista has
+      completed several Half Ironman's, one full Ironman, a 5k swim, and also
+      enjoys doing endurance cycling rides. She has completed an MS150 and a
+      century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
+      CrossFit Endurance into her training.
+    image: /img/154876750_10160853857463378_4255710727317208386_n.jpeg
   - about: Debbie James has competed in triathlons since 2016.  With the support of
       the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
       and qualified to compete in the 70.3 World Championships in Nice, France
@@ -99,6 +151,11 @@ coaches:
       Debbie James
       Swim Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Jaime O'Keeffe
+      Swim Coach
+    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
   - name: |-
       Sheryl Shectman
       Swim Coach
@@ -116,37 +173,6 @@ coaches:
       Co-Head Run Coach
     about: More info coming soon!
     image: /img/18274873_628254774044855_3046185853537668826_n.jpeg
-  - name: |-
-      Tim Newberg
-      Energy Lab Indoor Cycling Instructor
-      Track Head Coach
-      Run Assistant Coach
-    about: >-
-      Tim is a current member of Team USA for USAT Triathlon recently competing
-      in 2016 ITU World Championships for both the Sprint and Olympic distance
-      triathlons. He has raced across every triathlon distance from Sprint and
-      Olympic to half-Ironman (2012 World Championship 70.3) and full Ironman,
-      as well as participated as guide for a visually impaired paratriathlete,
-      including at the 2015 ITU World Championship PT5 division.
-
-
-      Tim has been leading spin classes at Energy Lab since 2012 and savors the opportunity to get the most out of each workout. He also thoroughly enjoys coaching cross country and track-and-field at the Atlanta Girls’ School, helping each girl embrace the AGS motto of ‘be your best self’.
-    image: /img/1044731_559981280707745_482795150_n.jpeg
-  - about: >-
-      Stephanie Stonich has been an active member of ATC since 2013 and
-      previously served as a long run coach for 2 years and most recently has
-      shifted as an Assistant for the Thursday Night Bike Hill Repeats, which
-      has been her favorite work out for the last few years.
-
-
-      Previous to joining ATC, Stephanie had run a few 13.1 and full marathons, however was new to the triathlon community.  Since then she has completed multiple triathlons, including 3 Full Ironman and 4 Ironman 70.3 races.  Her favorite race distance is the Full Ironman and always approaches each race with a fun attitude and a little bling on her race kit, truly taking in the whole experience.  When she hears someone say “ I can’t do that!”, she says “Yes you can, it’s all about the 4 D’s…Desire, Determination, Dedication and Discipline”.
-
-
-       Outside of ATC, Stephanie is a big yogi and has practiced for many years, stating it’s “the best thing you can do for yourself”, often planning many of her vacations so she can practice yoga in different parts of the world.  Professionally, she is the Program Manager for Capital One’s Career Development Center and loves the opportunity to work with associates all over the country.
-    name: |-
-      Steph Stonich
-      Assistant Run Coach
-    image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
       herself. Her portfolio enables her to understand the athletes she works
@@ -165,6 +191,21 @@ coaches:
       Assistant Run Coach
     about: Coming Soon!
     image: /img/32162688_10209394453738452_182386361750257664_n.jpg
+  - about: >-
+      Stephanie Stonich has been an active member of ATC since 2013 and
+      previously served as a long run coach for 2 years and most recently has
+      shifted as an Assistant for the Thursday Night Bike Hill Repeats, which
+      has been her favorite work out for the last few years.
+
+
+      Previous to joining ATC, Stephanie had run a few 13.1 and full marathons, however was new to the triathlon community.  Since then she has completed multiple triathlons, including 3 Full Ironman and 4 Ironman 70.3 races.  Her favorite race distance is the Full Ironman and always approaches each race with a fun attitude and a little bling on her race kit, truly taking in the whole experience.  When she hears someone say “ I can’t do that!”, she says “Yes you can, it’s all about the 4 D’s…Desire, Determination, Dedication and Discipline”.
+
+
+       Outside of ATC, Stephanie is a big yogi and has practiced for many years, stating it’s “the best thing you can do for yourself”, often planning many of her vacations so she can practice yoga in different parts of the world.  Professionally, she is the Program Manager for Capital One’s Career Development Center and loves the opportunity to work with associates all over the country.
+    name: |-
+      Steph Stonich
+      Assistant Run Coach
+    image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
   - about: >-
       Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
 
@@ -219,6 +260,11 @@ coaches:
 
       Rogue works with athletes of all skill levels, race types and distances.
     image: /img/20663906_672069212996744_7507521997248207998_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      George Cone
+      Assistant Bike Coach
+    image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
   - about: >-
       Patrick is a relative newcomer to the sport of Triathlon.  He grew up in
       Maryland swimming competitively from an early age.  He gave it up in high
@@ -232,39 +278,6 @@ coaches:
       Patrick Zinn
       Assistant Bike Coach
     image: /img/20626535_1517271578312039_1279770778082822369_o.jpeg
-  - about: More info coming soon!
-    name: |-
-      George Cone
-      Assistant Bike Coach
-    image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
-  - name: |-
-      Sara Scott
-      Energy Lab Indoor Cycling Instructor
-      Bike Assistant Coach
-    about: >-
-      Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
-      helping individuals of all experience levels achieve their goals. Sara
-      grew up playing soccer, tennis and golf, and started running as a way to
-      socialize outside of work when she moved to Fort Worth, Texas after
-      college. It was while on vacation in St Croix, she happened to witness the
-      famous 70.3 race held there, and somehow found the audacity to register
-      for the Chattanooga Olympic triathlon, though not owning a bike or having
-      any idea how to actually train (or even swim). It was a delightful and
-      harrowing experience, which she immediately decided that she would do it
-      again the following year, and soon found herself at an Atlanta Triathlon
-      Club Info Session. 
-
-
-      Sara has completed five Ironman Distance races, including Challenge Roth, and dozens of Half, Olympic and Sprint distance events, and she did return to tackle that St Croix race. As an active member of the Atlanta Triathlon Club, she joined the coaching staff as a leader for outdoor long rides, managed club social events for a couple seasons, and also leads indoor cycling as an instructor at Energy Lab. 
-
-
-      In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
-    image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
-  - name: |-
-      Jamal Lacour
-      Energy Lab Indoor Cycling Instructor
-    about: More info coming soon!
-    image: /img/38910088_10156571069352387_6841772929890385920_n.jpeg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
@@ -279,17 +292,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - name: |-
-      Krista Glasscock
-      Swim Coach
-    about: Krista has been competing in triathlons for the past 11 years. Growing up
-      she swam competitively and loved cycling. When she moved to Atlanta, she
-      began looking for ways to remain active and triathlons were a great next
-      step. In 2006, she signed up for her first sprint triathlon. Over the
-      years, she continuously takes on new challenges and distances. Krista has
-      completed several Half Ironman's, one full Ironman, a 5k swim, and also
-      enjoys doing endurance cycling rides. She has completed an MS150 and a
-      century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
-      CrossFit Endurance into her training.
-    image: /img/154876750_10160853857463378_4255710727317208386_n.jpeg
 ---
