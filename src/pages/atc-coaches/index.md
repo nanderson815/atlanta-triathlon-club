@@ -274,4 +274,9 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
+  - name: |-
+      Kacy Seynders
+      Assistant Run Coach
+    about: Coming Soon!
+    image: /img/32162688_10209394453738452_182386361750257664_n.jpg
 ---
