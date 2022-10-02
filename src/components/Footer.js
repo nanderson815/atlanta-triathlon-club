@@ -149,6 +149,16 @@ const Footer = class extends React.Component {
                       style={{ width: "1em", height: "1em" }}
                     />
                   </a>
+                  <a
+                    title="youtube"
+                    href="https://www.youtube.com/channel/UCuG4Z4j4PvVOiH5ylMzi5Iw"
+                  >
+                    <img
+                      src={youtube}
+                      alt="youtube"
+                      style={{ width: "1em", height: "1em" }}
+                    />
+                  </a>
                 </div>
                 <h3
                   className="has-text-weight-bold is-size-6-mobile is-size-5-tablet"
