@@ -11,20 +11,14 @@ sponsors:
     logo: /img/base_1colorwhite_vert2016.jpg
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
-  - link: https://go.cityrow.com/en-us/
-    logo: /img/388-3881254_helaine-knapp-founder-of-cityrow-city-row-logo.jpeg
   - link: https://cobaltatl.com
     logo: /img/cobaltpm-logo.png
   - link: https://www.coreacupunctureatlanta.com
     logo: /img/core_onecolor_logo.jpg
-  - link: https://eatfitlifefoods.com
-    logo: /img/flf_logo_2color_horizontal.jpg
   - link: https://www.georgiasportschiropractic.com
     logo: /img/gsc_color_3stack.png
   - link: https://www.highland-yoga.com
     logo: /img/f407f5_5cd4200c24c3400ebd180a5c314c8db7~mv2.png.webp
-  - link: https://www.hotworx.net
-    logo: /img/5fb83e48958a51ea57681186_group-1-2.png
   - link: https://hyperice.com
     logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
