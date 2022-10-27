@@ -22,7 +22,7 @@ sponsors:
   - link: https://hyperice.com
     logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
-    logo: /img/logo.svg
+    logo: /img/cidtfho1_400x400.jpg
   - link: https://www.insidetracker.com
     logo: /img/it_horiz_logo_fullcolor.jpg
   - link: https://www.intrepidperformance.com/
