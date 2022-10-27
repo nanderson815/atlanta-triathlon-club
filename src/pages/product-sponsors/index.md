@@ -18,7 +18,7 @@ sponsors:
   - link: https://www.georgiasportschiropractic.com
     logo: /img/gsc_color_3stack.png
   - link: https://www.highland-yoga.com
-    logo: /img/f407f5_5cd4200c24c3400ebd180a5c314c8db7~mv2.png.webp
+    logo: /img/highland-yoga-logo_edited.jpg.webp
   - link: https://hyperice.com
     logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
