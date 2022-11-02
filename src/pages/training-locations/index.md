@@ -70,7 +70,7 @@ locations:
     time:
       - Weekend
   - name: Cochran Shoals - Columns Drive
-    address: 152 Columns Dr. Marietta, GA 30067
+    address: Columns Drive Recreation Area parking Lot Marietta, GA 30067
     details: Weekend Long Run
     venue:
       - Outdoor
