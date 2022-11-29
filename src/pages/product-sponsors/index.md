@@ -7,8 +7,6 @@ accentimage: /img/topography.png
 sponsors:
   - link: https://www.all3sports.com
     logo: /img/a3s_logo_newflat_crop_com_removed.jpg
-  - link: https://www.baseperformance.com
-    logo: /img/base_1colorwhite_vert2016.jpg
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
   - link: https://cobaltatl.com
@@ -32,8 +30,6 @@ sponsors:
     logo: /img/michelob_logo_trimmed.png
   - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
     link: https://millermorrishomes.kw.com
-  - link: https://motionstability.com
-    logo: /img/motionstabilty.jpg
   - link: http://onforlife.com/welcome-to-on-for-life/
     logo: /img/on_for_life_logo.jpg
   - link: https://www.orangemud.com/
