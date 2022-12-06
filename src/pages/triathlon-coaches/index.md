@@ -172,5 +172,5 @@ coaches:
 
       Joseph is in the process of obtaining his USAT level 1 certification.
     name: "Joseph McLeod\t"
-    image: /img/1044731_559981280707745_482795150_n.jpeg
+    image: /img/img_5929.jpg
 ---
