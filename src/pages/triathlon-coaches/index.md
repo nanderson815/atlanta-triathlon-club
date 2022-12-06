@@ -7,10 +7,12 @@ coaches:
   - image: /img/img_1251.jpg
     name: Tim Myers
     about: >-
-      **Tim Myers**
-
-
-      Tim is a Partner, General Manager and Coach of Energy Lab and Atlanta Triathlon Club. His certifications include USA Triathlon Level II Endurance Coaching, USA Triathlon Level II ParaTri Coaching, USA Cycling Level 3 Coaching, USA Masters Swimming Level 1, TrainingPeaks Level 2 Accredited Coach, Road Runner Club of America Adult Distance Running Coach and CPR, First Aid & AED.
+      Tim is a Partner, General Manager and Coach of Energy Lab and Atlanta
+      Triathlon Club. His certifications include USA Triathlon Level II
+      Endurance Coaching, USA Triathlon Level II ParaTri Coaching, USA Cycling
+      Level 3 Coaching, USA Masters Swimming Level 1, TrainingPeaks Level 2
+      Accredited Coach, Road Runner Club of America Adult Distance Running Coach
+      and CPR, First Aid & AED.
 
 
       He has qualified for the Boston Marathon, a six time Ironman 70.3 World Championship Qualifier and finisher, five time Ironman All World Athlete and a two time USAT All American. In the 2015 USAT Rankings he was ranked 5th in the SE, and 2nd in the state for his age group. His favorite distance is the Ironman distance, completing thirteen and finishing in the top ten of his age group at the 2015 Ironman Chattanooga.
@@ -144,4 +146,31 @@ coaches:
       Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
     name: Stephanie Walker
     image: /img/steph-walker-2.jpeg
+  - about: >-
+      Joseph got his introduction into the sport of triathlon in 2009, the first
+      year the Augusta 70.3 Ironman was held. After completing the race he
+      joined the Atlanta Triathlon Club after seeing them at the race.  Over the
+      next few years he saw his race times improve while training with the group
+      and completed his first Ironman.  In 2014, he began using a triathlon
+      coach and over the next few years saw his times improve even more and
+      began consistently finishing within the top 10% of his age group at
+      Ironman branded races.  A few years ago, after a chat with his coach about
+      training and wanting to possibly coach athletes one day, his coach
+      suggested he start writing his own training plans and he'd review and
+      comment if there was anything that was a red flag.  Using the principals
+      he had learned under his coach and also how his body had responded to
+      various training sessions Joseph was able to achieve 3 top 10 age group
+      finishes at Ironman races along with finishing 17th overall at Ironman
+      Chattanooga in 2022.
+
+
+      Joseph has completed 11 Ironman races, qualified and raced in the 70.3 World championship in 2013 and 2017, and qualified and competed in the Boston and New York City marathon.
+
+
+      Outside of triathlon, Joseph is married to his wife, Lauren, and they have a daughter, Ellie, that they welcomed to the world in March 2022.
+
+
+      Joseph is in the process of obtaining his USAT level 1 certification.
+    name: "Joseph McLeod\t"
+    image: /img/1044731_559981280707745_482795150_n.jpeg
 ---
