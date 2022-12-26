@@ -24,7 +24,7 @@ tiers:
 
       **Set and update your power and pace zones**
   - title: Outdoor Member
-    price: $30
+    price: $35
     desc: |-
       **All outdoor workouts**
 
