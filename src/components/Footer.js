@@ -52,7 +52,7 @@ const Footer = class extends React.Component {
                   </a>
                   <a
                     title="instagram"
-                    href="http://instagram.com/atlantatriclub"
+                    href="https://www.instagram.com/atlantatriathlonclub/"
                   >
                     <img
                       src={instagram}
