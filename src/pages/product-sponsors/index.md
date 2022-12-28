@@ -38,7 +38,7 @@ sponsors:
     logo: /img/papillon-2.png
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
-  - logo: /img/combined-logo-2019png.jpg
+  - logo: /img/2023-precision-logo.jpg
     link: https://www.precisionpt.org
   - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
     link: https://www.roadrunnersports.com
