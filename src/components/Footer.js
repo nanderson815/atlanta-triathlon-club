@@ -30,7 +30,7 @@ const Footer = class extends React.Component {
                   Contact Us
                 </h3>
                 <p className="mb-0">470-588-5282</p>
-                <p className="mb-0">info@atlantatriclub.com</p>
+                <p className="mb-0">info@atlantatriathlon.com</p>
                 <div className="social">
                   <a
                     title="facebook"
