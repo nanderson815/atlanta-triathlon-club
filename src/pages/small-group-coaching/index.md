@@ -1,6 +1,6 @@
 ---
 templateKey: small-group-coaching
-title: Small Group Coaching Program
+title: Rookie to Race Group Coaching Program
 subtitle: Let us help you train for your first or next race!
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
@@ -14,7 +14,7 @@ A coach isn't just for experienced athletes. In fact, beginners are the group mo
 
 Start by applying today so we can learn more about your goals. The price for the membership is a $150/month.
 
-Our next round of four month coaching is underway and started on May 23rd!
+Our next round of four month coaching starts on March 27, 2023!
 
 * ### Cost Effective Coaching Solution
 * ### Weekly Workout with your coach
