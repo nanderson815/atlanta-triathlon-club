@@ -56,7 +56,6 @@ coaches:
       Tim Newberg
       Energy Lab Indoor Cycling Instructor
       Track Head Coach
-      Run Assistant Coach
     about: >-
       Tim is a current member of Team USA for USAT Triathlon recently competing
       in 2016 ITU World Championships for both the Sprint and Olympic distance
@@ -71,7 +70,6 @@ coaches:
   - name: |-
       Sara Scott
       Energy Lab Indoor Cycling Instructor
-      Bike Assistant Coach
     about: >-
       Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
       helping individuals of all experience levels achieve their goals. Sara
@@ -93,7 +91,7 @@ coaches:
     image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
   - name: |-
       Chris Janke
-      Co-Head Swim Coach
+      Swim Coach
     about: >-
       Chris grew up swimming in Florida and has been participating in triathlons
       since 2012.
@@ -107,20 +105,6 @@ coaches:
 
       Chris has been coaching with the Atlanta Triathlon Club since 2013.
     image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
-  - name: |-
-      Allison Leppke
-      Co-Head Swim Coach
-    image: /img/21762474_10214212254929961_6629904165657778602_o.jpeg
-    about: >-
-      Allison is one of the head swim coaches. She has been with ATC since 2012
-      and coached with ATC over 5 years. Allison competed in swimming from age 6
-      through college. After moving to Atlanta she started running and competing
-      in and coaching club water polo. Looking for a new challenge in 2012,
-      Allison started triathlons and loves the training, opportunity to compete,
-      and community. 
-
-
-      Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
   - name: |-
       Krista Glasscock
       Swim Coach
@@ -185,11 +169,6 @@ coaches:
       Ilana Katz
       Assistant Run Coach
     image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
-  - name: |-
-      Kacy Seynders
-      Assistant Run Coach
-    about: More info coming soon!
-    image: /img/32162688_10209394453738452_182386361750257664_n.jpg
   - about: >-
       Stephanie Stonich has been an active member of ATC since 2013 and
       previously served as a long run coach for 2 years and most recently has
