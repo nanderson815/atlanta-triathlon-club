@@ -152,10 +152,10 @@ coaches:
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
   - name: |-
-      Charles Loflin
-      Co-Head Run Coach
+      Stephanie Walker
+      Assistant Run Coach
     about: More info coming soon!
-    image: /img/18274873_628254774044855_3046185853537668826_n.jpeg
+    image: /img/steph-walker-1.jpeg
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
       herself. Her portfolio enables her to understand the athletes she works
