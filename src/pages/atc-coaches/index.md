@@ -154,7 +154,19 @@ coaches:
   - name: |-
       Stephanie Walker
       Assistant Run Coach
-    about: More info coming soon!
+    about: >-
+      Stephanie Walker has always loved swimming, running and cycling. She grew
+      up swimming in Girl Scout camps, riding miles through her home town, and
+      running with many of her track and field friends.
+
+
+      In 2011, she met her husband Scott while he was training for the Chicago Marathon and it inspired her to start long distance running. She went on compete in several half and full marathons, two full Ironman distance races, along with many Olympic distance races.
+
+
+      Since then, her love has grown from training to coaching. Stephanie became a USAT Level 1 Coach, Certified Personal Trainer, and has studied Nutrition Coaching.
+
+
+      Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
     image: /img/steph-walker-1.jpeg
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
