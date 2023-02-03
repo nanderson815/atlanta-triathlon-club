@@ -243,19 +243,11 @@ coaches:
       George Cone
       Assistant Bike Coach
     image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
-  - about: >-
-      Patrick is a relative newcomer to the sport of Triathlon.  He grew up in
-      Maryland swimming competitively from an early age.  He gave it up in high
-      school to play Lacrosse before an absence from sports through his 20's.
-       In his early 30s he took up running, and after a couple of years sought a
-      new challenge in Triathlon.  
-
-
-      In 2014 Patrick bought a road and competed in his first Sprint Triathlon.  Hooked ever since, he has competed in several Sprint and Olympic distances, 2 half ironman races and his first full last summer at Ironman Mont Tremblant.  As a new addition to the coaching team, he is eager to help other athletes reach their goals on the weekend long rides.  You can also catch him on Thursday's at his favorite workout of the week, Buckhead Bike Hill Repeats.
+  - about: More info coming soon!
     name: |-
-      Patrick Zinn
+      Joedy Price
       Assistant Bike Coach
-    image: /img/20626535_1517271578312039_1279770778082822369_o.jpeg
+    image: /img/43011297_2704046649612823_6522878239591890944_n.jpg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
