@@ -10,7 +10,7 @@ blurbs:
   - title: SWIMMING
     desc: >-
       We offer three to four, organized coach- led practices during the week
-      with up to five lanes at a practice. Lanes are organized by
+      with three to five lanes at a practice. Lanes are organized by
       ability—newbies and former-college-swimmers welcome.
 
 
