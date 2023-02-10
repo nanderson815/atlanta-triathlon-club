@@ -22,7 +22,7 @@ At Energy Lab, our coaches are experienced in helping swim beginners learn to sw
 
 ### We can help you tackle open water swimming
 
-During the season, April to September, we offer two coached group swim sessions per month. These sessions are available to All Access and Outdoor members, along with drop-ins.
+During the season, April thru September, we offer two to three coached group swim sessions per month. These sessions are available to All Access and Outdoor members, along with drop-ins.
 
 - - -
 
