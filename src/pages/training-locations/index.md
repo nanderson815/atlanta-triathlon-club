@@ -24,6 +24,15 @@ locations:
       - Swim
     time:
       - Weekend
+  - name: Mary Alice Park - Lake Lanier
+    address: Coming Soon!
+    details: Weekend Open Water Swim & Mock Triathlon
+    venue:
+      - Outdoor
+    activity:
+      - Swim
+    time:
+      - Weekend
   - name: Red Top Mountain - Lake Allatoona
     address: 50 Lodge Rd SE Cartersville, GA 30121
     details: Weekend Open Water Swim
