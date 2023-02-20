@@ -25,7 +25,7 @@ locations:
     time:
       - Weekend
   - name: Mary Alice Park - Lake Lanier
-    address: Coming Soon!
+    address: "1820 Mary Alice Park Road; Cumming, Georgia  30041 "
     details: Weekend Open Water Swim & Mock Triathlon
     venue:
       - Outdoor
