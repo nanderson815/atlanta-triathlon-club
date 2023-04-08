@@ -17,7 +17,7 @@ Start by applying today so we can learn more about your goals. The price for the
 Our next round of four month coaching starts on May 15, 2023!
 
 * ### Cost Effective Coaching Solution
-* ### Weekly Workout with your coach
+* ### Workout with your coach
 * ### Group training schedule via [Trainingpeaks](http://trainingpeaks.com/) 
 * ### Private Facebook Group 
 * ### Individual race prep session with coach
