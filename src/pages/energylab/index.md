@@ -41,4 +41,4 @@ Let us help you make the next step in your swimming! Our coaches work with brand
 
 ## Group Triathlon Training
 
-If you’re looking for sprint triathlon training in Atlanta, you’ve come to the right place. Atlanta Tri Club is a community of athletes of all ages and experience levels. Our members train for sprint triathlons through IRONMAN races, and 5ks through marathons.  We have a place for you! Ï
+If you’re looking for sprint triathlon training in Atlanta, you’ve come to the right place. Atlanta Tri Club is a community of athletes of all ages and experience levels. Our members train for sprint triathlons through IRONMAN races, and 5ks through marathons.  We have a place for you!
