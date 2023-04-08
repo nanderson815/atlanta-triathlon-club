@@ -6,7 +6,7 @@ backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 button:
   text: Apply Now
-  link: https://docs.google.com/forms/d/e/1FAIpQLSfG8sM7GW8s1hiPHwWu9uRNx52CHsY6rRzWPwKngRGHGT2GvA/viewform
+  link: https://docs.google.com/forms/d/e/1FAIpQLScwWCbkG5UVXUVLC3wKMQdMVXkgvknypq17vxmZRHHEF_DnAA/viewform
 ---
 Train for your first—or best—sprint or olympic triathlon.
 
@@ -14,7 +14,7 @@ A coach isn't just for experienced athletes. In fact, beginners are the group mo
 
 Start by applying today so we can learn more about your goals. The price for the membership is a $150/month.
 
-Our next round of four month coaching starts on March 27, 2023!
+Our next round of four month coaching starts on May 15, 2023!
 
 * ### Cost Effective Coaching Solution
 * ### Weekly Workout with your coach
