@@ -1,6 +1,6 @@
 ---
 templateKey: small-group-coaching
-title: Rookie to Race Group Coaching Program
+title: Small Group Coaching Program
 subtitle: Let us help you train for your first or next race!
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
