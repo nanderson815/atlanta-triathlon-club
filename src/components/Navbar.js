@@ -34,11 +34,11 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-            navBarActiveClass: "is-active",
-          })
+              navBarActiveClass: "is-active",
+            })
           : this.setState({
-            navBarActiveClass: "",
-          });
+              navBarActiveClass: "",
+            });
       }
     );
   }
@@ -126,7 +126,7 @@ const Navbar = class extends React.Component {
                     Triathlon Coaching
                   </Link>
                   <Link to="/small-group-coaching" className="navbar-item">
-                    Rookie to Race Group Coaching
+                    Small Group Coaching
                   </Link>
                   <Link to="/membership-options" className="navbar-item">
                     Group Training
