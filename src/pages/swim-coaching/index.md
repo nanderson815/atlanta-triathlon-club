@@ -22,17 +22,33 @@ At Energy Lab, our coaches are experienced in helping swim beginners learn to sw
 
 ### We can help you tackle open water swimming
 
-During the season, April thru September, we offer three coached group swim sessions per month. These sessions are available to All Access and Outdoor members, along with drop-ins.
+During the season, April thru September, we offer two to three coached group swim sessions per month. These sessions are available to All Access and Outdoor members, along with drop-ins.
 
 - - -
 
 ## How swim coaching works:
 
-Fill out our [online application](https://goo.gl/forms/NrTJmnJyUMrmSgJq1) so we can match you with one of our swim coaches. 
+Fill out our [online application](https://goo.gl/forms/NrTJmnJyUMrmSgJq1) so we schedule you with our swim coach. 
 
-The coach will call or email you to determine your needs and best fit.
+The coach will email you to determine your needs.
 
-Together, you’ll coordinate a best date/time for your lesson. 
+Together, you’ll coordinate a best date/time for your lesson.
+
+Sessions are 60' long and include:
+
+Above water and underwater video taping,
+
+• Immediate on-site stroke analysis and video review,
+
+• Hands-on stroke improvement drills,
+
+•  Q&A opportunities,
+
+• Video review and custom swim drills e-mailed within 1-week.
+
+Location: Concourse Athletic Club (8 Concourse Pkwy, Atlanta, GA 30328)
+
+Cost: $150/person/session.    
 
 - - -
 
