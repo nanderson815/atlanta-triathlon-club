@@ -292,4 +292,17 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
+  - name: |-
+      Allison Leppke
+      Assistant Run Coach
+    about: >-
+      Allison has been with ATC since 2012 and coached with ATC over 5 years.
+      Allison competed in swimming from age 6 through college. After moving to
+      Atlanta she started running and competing in and coaching club water polo.
+      Looking for a new challenge in 2012, Allison started triathlons and loves
+      the training, opportunity to compete, and community.
+
+
+      Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
+    image: /img/fullsizerender.jpg
 ---
