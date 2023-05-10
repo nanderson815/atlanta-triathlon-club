@@ -90,22 +90,6 @@ coaches:
       In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
     image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
   - name: |-
-      Chris Janke
-      Swim Coach
-    about: >-
-      Chris grew up swimming in Florida and has been participating in triathlons
-      since 2012.
-
-
-      He as competed in three full distance Ironman races along with multiple half, Olympic and sprint triathlons and is a top 5% swimmer.
-
-
-      In 2016 Chris won his Age Group in the Tri the Parks triathlons series.
-
-
-      Chris has been coaching with the Atlanta Triathlon Club since 2013.
-    image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
-  - name: |-
       Krista Glasscock
       Swim Coach
     about: Krista has been competing in triathlons for the past 11 years. Growing up
@@ -136,6 +120,22 @@ coaches:
 
       *Coach Bev’s education and training credentials include a Juris Doctor degree, a Bachelor of Arts degree in English, and swim coaching, instruction, and officiating certifications/licenses.*
     image: /img/unknown.jpeg
+  - name: |-
+      Chris Janke
+      Swim Coach
+    about: >-
+      Chris grew up swimming in Florida and has been participating in triathlons
+      since 2012.
+
+
+      He as competed in three full distance Ironman races along with multiple half, Olympic and sprint triathlons and is a top 5% swimmer.
+
+
+      In 2016 Chris won his Age Group in the Tri the Parks triathlons series.
+
+
+      Chris has been coaching with the Atlanta Triathlon Club since 2013.
+    image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
   - about: Debbie James has competed in triathlons since 2016.  With the support of
       the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
       and qualified to compete in the 70.3 World Championships in Nice, France
@@ -169,6 +169,32 @@ coaches:
 
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
+  - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
+      Level I triathlon Coach, and has accomplished multiple endurance events
+      herself. Her portfolio enables her to understand the athletes she works
+      with at all levels.  She is dedicated to train athletes in their
+      individual  raining and nutrition goals such as  optimal health, fitness
+      and performance through balanced nutrition, proper sport fueling and
+      hydration, and personalized training plans with ongoing support, within a
+      maintainable healthy lifestyle. Ilana supports  Energy Lab and the Atlanta
+      Triathlon club in all her endeavors.
+    name: |-
+      Ilana Katz
+      Assistant Run Coach
+    image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
+  - name: |-
+      Allison Leppke
+      Assistant Run Coach
+    about: >-
+      Allison has been with ATC since 2012 and coached with ATC over 5 years.
+      Allison competed in swimming from age 6 through college. After moving to
+      Atlanta she started running and competing in and coaching club water polo.
+      Looking for a new challenge in 2012, Allison started triathlons and loves
+      the training, opportunity to compete, and community.
+
+
+      Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
+    image: /img/fullsizerender.jpg
   - name: |-
       Stephanie Walker
       Assistant Run Coach
@@ -186,34 +212,6 @@ coaches:
 
       Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
     image: /img/steph-walker-1.jpeg
-  - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
-      Level I triathlon Coach, and has accomplished multiple endurance events
-      herself. Her portfolio enables her to understand the athletes she works
-      with at all levels.  She is dedicated to train athletes in their
-      individual  raining and nutrition goals such as  optimal health, fitness
-      and performance through balanced nutrition, proper sport fueling and
-      hydration, and personalized training plans with ongoing support, within a
-      maintainable healthy lifestyle. Ilana supports  Energy Lab and the Atlanta
-      Triathlon club in all her endeavors.
-    name: |-
-      Ilana Katz
-      Assistant Run Coach
-    image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
-  - about: >-
-      Stephanie Stonich has been an active member of ATC since 2013 and
-      previously served as a long run coach for 2 years and most recently has
-      shifted as an Assistant for the Thursday Night Bike Hill Repeats, which
-      has been her favorite work out for the last few years.
-
-
-      Previous to joining ATC, Stephanie had run a few 13.1 and full marathons, however was new to the triathlon community.  Since then she has completed multiple triathlons, including 3 Full Ironman and 4 Ironman 70.3 races.  Her favorite race distance is the Full Ironman and always approaches each race with a fun attitude and a little bling on her race kit, truly taking in the whole experience.  When she hears someone say “ I can’t do that!”, she says “Yes you can, it’s all about the 4 D’s…Desire, Determination, Dedication and Discipline”.
-
-
-       Outside of ATC, Stephanie is a big yogi and has practiced for many years, stating it’s “the best thing you can do for yourself”, often planning many of her vacations so she can practice yoga in different parts of the world.  Professionally, she is the Program Manager for Capital One’s Career Development Center and loves the opportunity to work with associates all over the country.
-    name: |-
-      Steph Stonich
-      Assistant Run Coach
-    image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
   - about: >-
       Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
 
@@ -292,17 +290,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - name: |-
-      Allison Leppke
-      Assistant Run Coach
-    about: >-
-      Allison has been with ATC since 2012 and coached with ATC over 5 years.
-      Allison competed in swimming from age 6 through college. After moving to
-      Atlanta she started running and competing in and coaching club water polo.
-      Looking for a new challenge in 2012, Allison started triathlons and loves
-      the training, opportunity to compete, and community.
-
-
-      Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
-    image: /img/fullsizerender.jpg
 ---
