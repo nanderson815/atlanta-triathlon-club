@@ -32,7 +32,7 @@ Fill out our [online application](https://goo.gl/forms/NrTJmnJyUMrmSgJq1) so w
 
 The coach will email you to determine your needs.
 
-Together, you’ll coordinate a best date/time for your lesson.
+Together, you’ll coordinate a best date/time for your lesson. Typically weekday nights or weekends.
 
 Sessions are 60' long and include:
 
