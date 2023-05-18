@@ -169,6 +169,25 @@ coaches:
 
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
+  - name: |-
+      Aaron Fenton
+      Assistant Run Coach
+    about: >-
+      Aaron has a newfound devotion to the world of triathlon. He has been
+      running casually since 2011, but after conquering the half marathon
+      distance in 2020, became hooked on endurance sports. With the support of
+      his wife, Heather, he completed his first 70.3 in 2021. A year later,
+      Aaron conquered his goal and heard the words, “Aaron Fenton, you are an
+      Ironman!” as he crossed the finish line at Ironman Chattanooga. \
+
+      \
+
+      Aaron has done two 70.3’s, a 144.6, many 5k and 10k races, a marathon and multiple half marathons since 2020. \
+
+      \
+
+      From Soccer to Powerlifting in high school, Aaron has always enjoyed pushing himself to physical and mental limits. Recently, Aaron has gotten more involved with helping friends and family members achieve their running goals. Along the way he has developed a passion for helping others in this capacity and looks forward to helping his fellow athletes at ATC get the unique satisfaction of pushing their own limits and pride of accomplishing amazing feats.
+    image: /img/image0.jpg
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
       herself. Her portfolio enables her to understand the athletes she works
@@ -290,23 +309,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - name: |-
-      Aaron Fenton
-      Assistant Run Coach
-    about: >-
-      Aaron has a newfound devotion to the world of triathlon. He has been
-      running casually since 2011, but after conquering the half marathon
-      distance in 2020, became hooked on endurance sports. With the support of
-      his wife, Heather, he completed his first 70.3 in 2021. A year later,
-      Aaron conquered his goal and heard the words, “Aaron Fenton, you are an
-      Ironman!” as he crossed the finish line at Ironman Chattanooga. \
-
-      \
-
-      Aaron has done two 70.3’s, a 144.6, many 5k and 10k races, a marathon and multiple half marathons since 2020. \
-
-      \
-
-      From Soccer to Powerlifting in high school, Aaron has always enjoyed pushing himself to physical and mental limits. Recently, Aaron has gotten more involved with helping friends and family members achieve their running goals. Along the way he has developed a passion for helping others in this capacity and looks forward to helping his fellow athletes at ATC get the unique satisfaction of pushing their own limits and pride of accomplishing amazing feats.
-    image: /img/image0.jpg
 ---
