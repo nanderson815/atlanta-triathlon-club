@@ -213,6 +213,9 @@ coaches:
 
 
       Allison has over 10 years of experience coaching and teaching group and one-on-one swimming. Her focus is helping new triathletes develop confidence and technique in the pool and translating that to a fast and efficient first leg in triathlon. Through coaching, Allison rediscovered the joy of swimming and is inspired by athletes taking on and conquering new challenges.
+
+
+      In 2023 Allison transitioned to run coaching and has enjoyed the move from the pool deck to sharing run miles and connecting with her ATC teammates.
     image: /img/fullsizerender.jpg
   - name: |-
       Stephanie Walker
