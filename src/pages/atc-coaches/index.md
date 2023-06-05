@@ -169,6 +169,21 @@ coaches:
 
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
+  - image: /img/407_m-fpix-3-01085688-digital_highres-5143_129821-18137873-1-.jpg
+    name: |-
+      Nick Brouillette
+      Assistant Run Coach
+    about: >-
+      Nick started in triathlon in 2019 about a year after the birth of his
+      first child with the John Tanner Sprint. He gracefully lost his goggles
+      and cap during the national anthem, had a mild panic attack in the cold
+      water, and fell twice trying to clip-in at the start of the bike. Fast
+      forward three years to 2023 and he's completed three half and one full
+      Ironman races, an ATC sponsored 50k during the pandemic, and numerous
+      sprint/olympic/half marathons.
+
+
+      Nick has two young children (5/2 years old) and a supporting wife at home in Smyrna. He's happy to share his experience on balancing family, work, and a love for endurance sports at an ATC event or Sunday long run!
   - name: |-
       Aaron Fenton
       Assistant Run Coach
