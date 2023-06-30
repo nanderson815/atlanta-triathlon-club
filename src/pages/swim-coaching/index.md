@@ -48,7 +48,7 @@ Above water and underwater video taping,
 
 Location: Concourse Athletic Club (8 Concourse Pkwy, Atlanta, GA 30328)
 
-Cost: $150/person/session.    
+Cost: $165/person/1st session. $125/person/Follow-up sessions   
 
 - - -
 
