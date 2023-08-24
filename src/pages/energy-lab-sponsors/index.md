@@ -1,6 +1,6 @@
 ---
 templateKey: atc-coaches
-title: ATC Sponsors
+title: Energy Lab Sponsors
 subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/download-4.jpg

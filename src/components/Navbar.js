@@ -15,6 +15,7 @@ const Navbar = class extends React.Component {
     this.trainingMenu = React.createRef();
     this.memberMenu = React.createRef();
     this.coachesMenu = React.createRef();
+    this.aboutMenu = React.createRef();
   }
 
   toggleMobileDropdown(ref) {
@@ -86,9 +87,33 @@ const Navbar = class extends React.Component {
                 Start Here
               </Link>
 
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
+              <div className="navbar-item has-dropdown is-hoverable dropDownItem">
+                <div
+                  className="navbar-link"
+                  onClick={() => this.toggleMobileDropdown(this.aboutMenu)}
+                  onKeyPress={() => this.toggleMobileDropdown(this.aboutMenu)}
+                  role="menuitem"
+                  tabIndex={0}
+                >
+                  About
+                </div>
+                <div
+                  className="navbar-dropdown is-hidden-touch"
+                  ref={this.aboutMenu}
+                  onKeyPress={() => this.toggleHamburger()}
+                  onClick={() => this.toggleHamburger()}
+                >
+                  <Link className="navbar-item" to="/about">
+                    Mission Statement
+                  </Link>
+                  <Link to="/atc-sponsors" className="navbar-item">
+                    ATC Sponsors
+                  </Link>
+                  <Link to="/energy-lab-sponsors" className="navbar-item">
+                    Energy Lab Partners
+                  </Link>
+                </div>
+              </div>
 
               <a
                 className="navbar-item"

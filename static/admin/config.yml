@@ -479,6 +479,74 @@ collections:
                   { label: About, name: about, widget: markdown },
                 ],
             }
+      - file: "src/pages/atc-sponsors/index.md"
+        label: "ATC Sponsors"
+        name: "atc-sponsors"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "atc-coaches",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Sponsors,
+              name: coaches,
+              widget: list,
+              fields:
+                [
+                  { label: Name, name: name, widget: text },
+                  { label: Image, name: image, widget: image },
+                  { label: About, name: about, widget: markdown },
+                ],
+            }
+      - file: "src/pages/energy-lab-sponsors/index.md"
+        label: "Energy Lab Sponsors"
+        name: "energy-lab-sponsors"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "atc-coaches",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Background Image",
+              name: "backgroundImage",
+              widget: "image",
+            }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - {
+              label: Sponsors,
+              name: coaches,
+              widget: list,
+              fields:
+                [
+                  { label: Name, name: name, widget: text },
+                  { label: Image, name: image, widget: image },
+                  { label: About, name: about, widget: markdown },
+                ],
+            }
       - file: "src/pages/triathlon-coaches/index.md"
         label: "Energy Lab 1:1 Triathlon Coaches"
         name: "triathlon-coaches"

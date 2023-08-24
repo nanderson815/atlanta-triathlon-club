@@ -12,7 +12,12 @@ const Modal = ({ children, closeModal, modalState, name }) => {
       <div className="modal-background" onClick={closeModal} />
       <div className="modal-card" style={{ maxHeight: 600 }}>
         <header className="modal-card-head">
-          <p className="modal-card-title mb-0">{name}</p>
+          <p
+            className="modal-card-title mb-0"
+            style={{ textWrap: "wrap", width: "90%" }}
+          >
+            {name}
+          </p>
           <button className="delete" onClick={closeModal} />
         </header>
         <section className="modal-card-body">
