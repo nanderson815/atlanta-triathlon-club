@@ -479,9 +479,9 @@ collections:
                   { label: About, name: about, widget: markdown },
                 ],
             }
-      - file: "src/pages/atc-sponsors/index.md"
-        label: "ATC Sponsors"
-        name: "atc-sponsors"
+      - file: "src/pages/atc-partners/index.md"
+        label: "ATC Partners"
+        name: "atc-partners"
         fields:
           - {
               label: "Template Key",
@@ -503,7 +503,7 @@ collections:
             }
           - { label: "Accent Image", name: "accentimage", widget: image }
           - {
-              label: Sponsors,
+              label: Partners,
               name: coaches,
               widget: list,
               fields:
@@ -513,9 +513,9 @@ collections:
                   { label: About, name: about, widget: markdown },
                 ],
             }
-      - file: "src/pages/energy-lab-sponsors/index.md"
-        label: "Energy Lab Sponsors"
-        name: "energy-lab-sponsors"
+      - file: "src/pages/energy-lab-partners/index.md"
+        label: "Energy Lab Partners"
+        name: "energy-lab-partners"
         fields:
           - {
               label: "Template Key",
@@ -537,7 +537,7 @@ collections:
             }
           - { label: "Accent Image", name: "accentimage", widget: image }
           - {
-              label: Sponsors,
+              label: Partners,
               name: coaches,
               widget: list,
               fields:

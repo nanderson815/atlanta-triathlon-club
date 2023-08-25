@@ -35,5 +35,5 @@ CMS.registerPreviewTemplate("training-locations", TrainingLocationsPagePreview);
 CMS.registerPreviewTemplate("atc-coaches", ATCCoachesPagePreview);
 CMS.registerPreviewTemplate("triathlon-coaches", ATCCoachesPagePreview);
 CMS.registerPreviewTemplate("swim-coaches", ATCCoachesPagePreview);
-CMS.registerPreviewTemplate("atc-sponsors", ATCCoachesPagePreview);
-CMS.registerPreviewTemplate("energy-lab-sponsors", ATCCoachesPagePreview);
+CMS.registerPreviewTemplate("atc-partners", ATCCoachesPagePreview);
+CMS.registerPreviewTemplate("energy-lab-partners", ATCCoachesPagePreview);
