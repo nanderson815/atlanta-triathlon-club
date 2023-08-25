@@ -24,3 +24,15 @@ To promote health and fitness in Atlanta through the sport of triathlon, provide
 * 2019 ATC added to ATC Partners, LLC
 
   * Tim Myers
+
+### Energy Lab Partners
+
+* 2012 EL was founded by Energy Lab, LLC
+
+  * Jim Boylan
+  * John Rutledge
+  * Bethany Rutledge
+  * Ted Morris
+* 2019 EL added to Energy Lab Partners, LLC
+
+  * Tim Myers
