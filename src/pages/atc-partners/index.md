@@ -8,4 +8,7 @@ coaches:
   - name: Test
     image: /img/5fb83e48958a51ea57681186_group-1-2.png
     about: This is a test!
+  - name: Jim Boylan
+    image: /img/img_6258-2.jpg
+    about: Coming Soon!
 ---
