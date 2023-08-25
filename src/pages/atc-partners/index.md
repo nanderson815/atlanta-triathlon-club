@@ -10,5 +10,5 @@ coaches:
     about: This is a test!
   - name: Jim Boylan
     image: /img/img_6258-2.jpg
-    about: Coming Soon!
+    about: More info coming soon!
 ---
