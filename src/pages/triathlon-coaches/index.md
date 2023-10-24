@@ -87,32 +87,6 @@ coaches:
 
 
       In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
-  - name: Ed Crossman
-    image: /img/ed-crossman.jpg
-    about: >-
-      Ed grew up playing football and baseball but eventually grew into
-      endurance sports with cycling and triathlon. He has completed multiple
-      short and long distance triathlons as well as gravel bike races. Inspired
-      by his own coaches and teammates Ed became a USAT certified coach and has
-      been actively coaching athletes for 4+ years.
-
-
-      Ed has coached a wide range of athletes ranging from single sport cyclists and runners to triathletes completing all distances. He loves data and finding new ways to analyze it to improve performance over time. Ed was also the General Manager for All3sports. There he learned a lot about the gear needed not only to get started in the sport, but also to progress quickly to hit goals. Keeping up with the changing technology he has worked with and prescribed both cycling and run power based workouts.
-
-
-      Outside of coaching you will find Ed chasing his two young toddlers around. He is hoping they will soon be jumping on the bike and starting their own endurance journey soon!
-  - name: Brad Smith
-    image: /img/18620554_1436765386362659_1795965044818695743_o.jpg
-    about: >-
-      Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
-      in physical education.  He is a USA Triathlon Level 1 certified coach. 
-      Brad started competing in triathlons and duathlons in 2000. 
-
-
-      After suffering a spinal cord injury in 2010, Brad wanted to continue competing in triathlons.  In 2012 he started the Atlanta Triathlon Club – Paratriathlon Program.  The Program was created to give people with physical disabilities an opportunity to train and race with able-bodied athletes.  
-
-
-      Brad has competed in several triathlons in Georgia since 2012.  He has also raced at the Paratriathlon National Championships three times, coming in 3rd place in the PTWC1 Division (wheelchair division) in 2014.  Brad has also raced marathons, including Boston, Chicago, and Los Angeles.
   - name: Steph Cohn
     image: /img/steph-cohn.jpg
     about: >-
