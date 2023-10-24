@@ -42,7 +42,7 @@ sponsors:
     link: https://www.precisionpt.org
   - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
     link: https://www.roadrunnersports.com
-  - logo: /img/triswim_logo.jpg
+  - logo: /img/sbr_logo_318eebf8-2699-4074-a5e1-2809fcf08ab9_x70-2x.png.avif
     link: https://www.sbrsportsinc.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
