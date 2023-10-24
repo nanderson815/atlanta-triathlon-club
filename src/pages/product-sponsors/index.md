@@ -46,6 +46,8 @@ sponsors:
     link: https://www.sbrsportsinc.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
+  - link: https://sur.co
+    logo: /img/sur.png
   - link: https://www.tribiketransport.com
     logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
