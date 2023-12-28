@@ -36,6 +36,8 @@ sponsors:
     logo: /img/om.png
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
+  - link: https://www.precisionhydration.com/us/en/
+    logo: /img/unknown.png
   - logo: /img/2023-precision-logo.jpg
     link: https://www.precisionpt.org
   - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
@@ -46,8 +48,6 @@ sponsors:
     logo: /img/roka.jpeg
   - link: https://sur.co
     logo: /img/sur.png
-  - link: https://www.tribiketransport.com
-    logo: /img/logo-tribike-transport.jpg
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
   - link: https://teamzealios.com
