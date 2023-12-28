@@ -49,7 +49,7 @@ sponsors:
   - link: https://sur.co
     logo: /img/sur.png
   - link: https://themagic5.com
-    logo: /img/themagic5-logo_256x256_928f78dc-ef48-4773-9ee6-cae5ea4ed8aa_125x-2x.webp.png
+    logo: /img/unknown.png
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
   - link: https://teamzealios.com
