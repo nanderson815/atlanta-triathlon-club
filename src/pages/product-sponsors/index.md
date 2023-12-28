@@ -34,8 +34,6 @@ sponsors:
     logo: /img/on_for_life_logo.jpg
   - link: https://www.orangemud.com/
     logo: /img/om.png
-  - link: https://www.papillonwellnessandmassagetherapy.com
-    logo: /img/papillon-2.png
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
   - logo: /img/2023-precision-logo.jpg
