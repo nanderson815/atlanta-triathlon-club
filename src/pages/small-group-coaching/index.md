@@ -8,18 +8,19 @@ button:
   text: Apply Now
   link: https://docs.google.com/forms/d/e/1FAIpQLScwWCbkG5UVXUVLC3wKMQdMVXkgvknypq17vxmZRHHEF_DnAA/viewform
 ---
-Train for your first—or best—sprint or olympic triathlon.
+Train for your first—or best—sprint triathlon.
 
 A coach isn't just for experienced athletes. In fact, beginners are the group most likely to benefit from the guidance of a coach. Join us! This program is designed for athletes newer to triathlon who have never been coached.
 
 Start by applying today so we can learn more about your goals. The price for the membership is a $150/month.
 
-Our next round of four month coaching starts on May 15, 2023!
+This season we will offer two target races. The GA Peach Women's Sprint & The Don Carter Park Sprint. Women starting triathlon will have the opportunity in racing a women’s only sprint.
+
+Our next round of four month coaching starts on TBD!
 
 * ### Cost Effective Coaching Solution
-* ### Workout with your coach
-* ### Group training schedule via [Trainingpeaks](http://trainingpeaks.com/) 
-* ### Private Facebook Group 
+* ### Workout designed by your coach
+* ### Group training schedule via [Trainingpeaks](http://trainingpeaks.com/)  
 * ### Individual race prep session with coach
 * ### Goal planning session with coach 
-* ### All Access Membership
+* ### All Access Membership, including daily sessions with an ATC coach
