@@ -134,24 +134,6 @@ coaches:
       Debbie James
       Swim Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
-  - name: Beverly McLeod Iseghohi, JD Swim Coach
-    about: >-
-      *Coach Bev is certified as a USA Triathlon Level 1 Triathlon Coach, a USA
-      Triathlon Official (LTO Level 1), and a USMS Levels 1 and 2 Swim Coach. As
-      founder of S-BR4-Life, a triathlon and swim training program with a
-      research agenda, Coach Bev leads a team of coaches training short and
-      mid-distance swimmers and triathletes. She conceived of and facilitated a
-      collaboration with research scientists from Morehouse School of Medicine
-      Community Health and Preventive Medicine and the University of Minnesota
-      to develop a research-action agenda focused on community-centered physical
-      activity promotion approaches for African American women.*
-
-
-      *Coach Bev has taught swim lessons to students from beginners to competitors and from young to mature at local swimming pools in Georgia. As a competitor, Coach Bev has participated in short, mid-distance, and long-distance races and achieved podium finishes as a runner, swimmer, and triathlete in the United States and in South Africa. In 2013, she was invited to participate in the USA Triathlon National Championships.*
-
-
-      *Coach Bev’s education and training credentials include a Juris Doctor degree, a Bachelor of Arts degree in English, and swim coaching, instruction, and officiating certifications/licenses.*
-    image: /img/unknown.jpeg
   - about: More info coming soon!
     name: |-
       Jaime O'Keeffe
