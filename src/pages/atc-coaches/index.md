@@ -69,7 +69,7 @@ coaches:
     image: /img/1044731_559981280707745_482795150_n.jpeg
   - name: |-
       Sara Scott
-      Energy Lab Indoor Cycling Instructor
+      Energy Lab Indoor Cycling Instructor Assistant Bike Coach
     about: >-
       Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
       helping individuals of all experience levels achieve their goals. Sara
@@ -102,24 +102,6 @@ coaches:
       century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
       CrossFit Endurance into her training.
     image: /img/1383827_10152344297148378_855082378_n.jpeg
-  - name: Beverly McLeod Iseghohi, JD Swim Coach
-    about: >-
-      *Coach Bev is certified as a USA Triathlon Level 1 Triathlon Coach, a USA
-      Triathlon Official (LTO Level 1), and a USMS Levels 1 and 2 Swim Coach. As
-      founder of S-BR4-Life, a triathlon and swim training program with a
-      research agenda, Coach Bev leads a team of coaches training short and
-      mid-distance swimmers and triathletes. She conceived of and facilitated a
-      collaboration with research scientists from Morehouse School of Medicine
-      Community Health and Preventive Medicine and the University of Minnesota
-      to develop a research-action agenda focused on community-centered physical
-      activity promotion approaches for African American women.*
-
-
-      *Coach Bev has taught swim lessons to students from beginners to competitors and from young to mature at local swimming pools in Georgia. As a competitor, Coach Bev has participated in short, mid-distance, and long-distance races and achieved podium finishes as a runner, swimmer, and triathlete in the United States and in South Africa. In 2013, she was invited to participate in the USA Triathlon National Championships.*
-
-
-      *Coach Bev’s education and training credentials include a Juris Doctor degree, a Bachelor of Arts degree in English, and swim coaching, instruction, and officiating certifications/licenses.*
-    image: /img/unknown.jpeg
   - name: |-
       Chris Janke
       Swim Coach
@@ -152,6 +134,24 @@ coaches:
       Debbie James
       Swim Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
+  - name: Beverly McLeod Iseghohi, JD Swim Coach
+    about: >-
+      *Coach Bev is certified as a USA Triathlon Level 1 Triathlon Coach, a USA
+      Triathlon Official (LTO Level 1), and a USMS Levels 1 and 2 Swim Coach. As
+      founder of S-BR4-Life, a triathlon and swim training program with a
+      research agenda, Coach Bev leads a team of coaches training short and
+      mid-distance swimmers and triathletes. She conceived of and facilitated a
+      collaboration with research scientists from Morehouse School of Medicine
+      Community Health and Preventive Medicine and the University of Minnesota
+      to develop a research-action agenda focused on community-centered physical
+      activity promotion approaches for African American women.*
+
+
+      *Coach Bev has taught swim lessons to students from beginners to competitors and from young to mature at local swimming pools in Georgia. As a competitor, Coach Bev has participated in short, mid-distance, and long-distance races and achieved podium finishes as a runner, swimmer, and triathlete in the United States and in South Africa. In 2013, she was invited to participate in the USA Triathlon National Championships.*
+
+
+      *Coach Bev’s education and training credentials include a Juris Doctor degree, a Bachelor of Arts degree in English, and swim coaching, instruction, and officiating certifications/licenses.*
+    image: /img/unknown.jpeg
   - about: More info coming soon!
     name: |-
       Jaime O'Keeffe
@@ -169,6 +169,11 @@ coaches:
 
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Joedy Price
+      Co-Head Run Coach
+    image: /img/43011297_2704046649612823_6522878239591890944_n.jpg
   - image: /img/407_m-fpix-3-01085688-digital_highres-5143_129821-18137873-1-.jpg
     name: |-
       Nick Brouillette
@@ -184,25 +189,6 @@ coaches:
 
 
       Nick has two young children (5/2 years old) and a supporting wife at home in Smyrna. He's happy to share his experience on balancing family, work, and a love for endurance sports at an ATC event or Sunday long run!
-  - name: |-
-      Aaron Fenton
-      Assistant Run Coach
-    about: >-
-      Aaron has a newfound devotion to the world of triathlon. He has been
-      running casually since 2011, but after conquering the half marathon
-      distance in 2020, became hooked on endurance sports. With the support of
-      his wife, Heather, he completed his first 70.3 in 2021. A year later,
-      Aaron conquered his goal and heard the words, “Aaron Fenton, you are an
-      Ironman!” as he crossed the finish line at Ironman Chattanooga. \
-
-      \
-
-      Aaron has done two 70.3’s, a 144.6, many 5k and 10k races, a marathon and multiple half marathons since 2020. \
-
-      \
-
-      From Soccer to Powerlifting in high school, Aaron has always enjoyed pushing himself to physical and mental limits. Recently, Aaron has gotten more involved with helping friends and family members achieve their running goals. Along the way he has developed a passion for helping others in this capacity and looks forward to helping his fellow athletes at ATC get the unique satisfaction of pushing their own limits and pride of accomplishing amazing feats.
-    image: /img/image0.jpg
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
       herself. Her portfolio enables her to understand the athletes she works
@@ -234,7 +220,7 @@ coaches:
     image: /img/fullsizerender.jpg
   - name: |-
       Stephanie Walker
-      Assistant Run Coach
+      Assistant Run & OWS Coach
     about: >-
       Stephanie Walker has always loved swimming, running and cycling. She grew
       up swimming in Girl Scout camps, riding miles through her home town, and
@@ -249,21 +235,6 @@ coaches:
 
       Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
     image: /img/steph-walker-1.jpeg
-  - about: >-
-      Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
-
-
-      She initially started biking and running with the group for the camaraderie and the sole goal of staying fit.  Eventually she caught the “tri-bug” completing her first sprint tri in 2016.  Jennifer has since participated as a runner and cyclist in several relay events, including three 70.3 distance races.  Her next big goal is completing her first 70.3 as an age-grouper in 2023. 
-
-
-      Jennifer enjoys supporting her fellow athletes on and off the course.  She is an Acupuncturist, owner of Core Acupuncture health+wellness and specializes in Sport Medicine Acupuncture to better support Athletes of all ages, levels and sports.  
-
-
-      Enjoys good food, traveling, SUP-ing and spending time with favorite pup, Capone
-    name: |-
-      Jennifer Myers
-      Assistant Run & Bike Coach
-    image: /img/img_8783-2.jpeg
   - name: |-
       Jerome Feuiltault
       Head Tuesday Night Run Coach
@@ -308,11 +279,21 @@ coaches:
       George Cone
       Assistant Bike Coach
     image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
-  - about: More info coming soon!
+  - about: >-
+      Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
+
+
+      She initially started biking and running with the group for the camaraderie and the sole goal of staying fit.  Eventually she caught the “tri-bug” completing her first sprint tri in 2016.  Jennifer has since participated as a runner and cyclist in several relay events, including three 70.3 distance races.  Her next big goal is completing her first 70.3 as an age-grouper in 2023. 
+
+
+      Jennifer enjoys supporting her fellow athletes on and off the course.  She is an Acupuncturist, owner of Core Acupuncture health+wellness and specializes in Sport Medicine Acupuncture to better support Athletes of all ages, levels and sports.  
+
+
+      Enjoys good food, traveling, SUP-ing and spending time with favorite pup, Capone
     name: |-
-      Joedy Price
+      Jennifer Myers
       Assistant Bike Coach
-    image: /img/43011297_2704046649612823_6522878239591890944_n.jpg
+    image: /img/img_8783-2.jpeg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
