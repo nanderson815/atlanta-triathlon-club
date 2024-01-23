@@ -245,6 +245,21 @@ coaches:
       Atlanta for over 15 years and giving back to this community since joining
       ATC in 2010.
     image: /img/13775901_506617006208633_4879532389543617675_n.jpeg
+  - about: >-
+      Stephanie Stonich has been an active member of ATC since 2013 and
+      previously served as a long run coach for 2 years and most recently has
+      shifted as an Assistant for the Thursday Night Bike Hill Repeats, which
+      has been her favorite work out for the last few years.
+
+
+      Previous to joining ATC, Stephanie had run a few 13.1 and full marathons, however was new to the triathlon community.  Since then she has completed multiple triathlons, including 3 Full Ironman and 4 Ironman 70.3 races.  Her favorite race distance is the Full Ironman and always approaches each race with a fun attitude and a little bling on her race kit, truly taking in the whole experience.  When she hears someone say “ I can’t do that!”, she says “Yes you can, it’s all about the 4 D’s…Desire, Determination, Dedication and Discipline”.
+
+
+      Outside of ATC, Stephanie is a big yogi and has practiced for many years, stating it’s “the best thing you can do for yourself”, often planning many of her vacations so she can practice yoga in different parts of the world.  Professionally, she is the Program Manager for Capital One’s Career Development Center and loves the opportunity to work with associates all over the country.
+    name: |-
+      Steph Stonich
+      Co-Head Wednesday Night Bike Coach
+    image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
   - name: |-
       Chuck Chittick
       Co-Head Bike Coach
@@ -280,7 +295,7 @@ coaches:
       Assistant Bike Coach
     image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
   - about: >-
-      Jennifer Myers is a coach for the ATC Group Long Bikes and Long Runs.  
+      Jennifer Myers is a coach for the ATC Group Long Bikes.  
 
 
       She initially started biking and running with the group for the camaraderie and the sole goal of staying fit.  Eventually she caught the “tri-bug” completing her first sprint tri in 2016.  Jennifer has since participated as a runner and cyclist in several relay events, including three 70.3 distance races.  Her next big goal is completing her first 70.3 as an age-grouper in 2023. 
