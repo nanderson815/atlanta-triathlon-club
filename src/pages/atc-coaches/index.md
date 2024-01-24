@@ -151,6 +151,26 @@ coaches:
 
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
+  - name: |-
+      Rosie Belden
+      OWS Assistant Coach
+    about: >-
+      Rosemary 'Rosie' Belden has been a water enthusiast since she was young.
+      She grew up water skiing with her grandparents on Lake Austin and swimming
+      in the ocean at her home in San Diego. She participated in Junior
+      Lifeguards from 9-15 years old where she learned ocean and beach safety,
+      basic first-aid, and environmental awareness. She competed in swimming and
+      waterpolo in high school and was offered a scholarship to play water polo
+      in college, although she turned it down to attend UC Berkeley for
+      academics. In college she participated in intramural water polo and life
+      guarded for some extra spending money. 
+
+
+      In 2016, Rosie participated in her first Sprint Triathlon in Bass Lake, CA and was hooked. That same year, she completed her first Olympic Triathlon in partnership with Team in Training and went on to complete several Olympic distance Triathlons in the Pacific Ocean. 
+
+
+      In 2022, Rosie moved to Atlanta, joined ATC and completed her first 70.3 in Wilmington, NC. As you might be able to tell she loves the triathlon sport and is passionate about helping others love the swim portion of the race as much as she does.
+    image: /img/img_9534.jpg
   - about: More info coming soon!
     name: |-
       Joedy Price
