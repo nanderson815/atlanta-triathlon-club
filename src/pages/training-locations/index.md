@@ -24,15 +24,6 @@ locations:
       - Swim
     time:
       - Weekend
-  - name: Mary Alice Park - Lake Lanier
-    address: "1820 Mary Alice Park Road Cumming, Georgia 30041 "
-    details: Weekend Open Water Swim & Mock Triathlon
-    venue:
-      - Outdoor
-    activity:
-      - Swim
-    time:
-      - Weekend
   - name: Red Top Mountain - Lake Allatoona
     address: 50 Lodge Rd SE Cartersville, GA 30121
     details: Weekend Open Water Swim
@@ -80,13 +71,15 @@ locations:
       - Weekday
   - name: Big Peach- Brookhaven
     address: "705 Town Blvd #340 Atlanta, GA 30319"
-    details: Weekend Long Run
+    details: Weekend Long Run & Weekend Bike
     venue:
       - Outdoor
     activity:
       - Run
+      - Bike
     time:
       - Weekend
+      - Weekday
   - name: Cochran Shoals - Columns Drive
     address: Columns Drive Recreation Area parking Lot Marietta, GA 30067
     details: Weekend Long Run
@@ -123,15 +116,6 @@ locations:
       - Bike
     venue:
       - Outdoor
-  - name: Cochran Mill Park - Silk Sheets
-    address: 6875 Cochran Mill Rd Palmetto, GA 30268
-    details: Weekend Long Bike
-    time:
-      - Weekend
-    activity:
-      - Bike
-    venue:
-      - Outdoor
   - name: The Gaps - Turner’s Corner
     address: 13870 US-19, Cleveland, GA 30528
     details: Weekend Long Bike
@@ -142,12 +126,13 @@ locations:
     venue:
       - Outdoor
   - name: Silver Comet - Bike Depot
-    details: Weekend Long Bike
+    details: Weekend Long Bike & Long Run
     address: 4342 Floyd Road Mableton 30126
     time:
       - Weekend
     activity:
       - Bike
+      - Run
     venue:
       - Outdoor
   - name: Road Runner Sports - Buckhead
