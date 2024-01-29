@@ -71,7 +71,7 @@ locations:
       - Weekday
   - name: Big Peach- Brookhaven
     address: "705 Town Blvd #340 Atlanta, GA 30319"
-    details: Weekend Long Run & Weekend Bike
+    details: Weekend Long Run & Weekday Bike
     venue:
       - Outdoor
     activity:
