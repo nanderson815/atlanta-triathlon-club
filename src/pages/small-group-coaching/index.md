@@ -6,7 +6,7 @@ backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 button:
   text: Apply Now
-  link: https://docs.google.com/forms/d/e/1FAIpQLScwWCbkG5UVXUVLC3wKMQdMVXkgvknypq17vxmZRHHEF_DnAA/viewform
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfG8sM7GW8s1hiPHwWu9uRNx52CHsY6rRzWPwKngRGHGT2GvA/viewform
 ---
 Train for your first—or best—sprint triathlon.
 
