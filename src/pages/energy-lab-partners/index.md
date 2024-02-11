@@ -10,7 +10,7 @@ coaches:
     about: More info coming soon!
   - name: Ted Morris
     about: More info coming soon!
-    image: /img/img_6259-2.jpg
+    image: /img/320372268_2032833893593445_2437836375931456786_n.jpg
   - name: Tim Myers
     about: More info coming soon!
     image: /img/10996029_10205634512855345_1441094233979101612_n.jpg
