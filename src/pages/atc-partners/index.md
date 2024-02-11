@@ -13,7 +13,7 @@ coaches:
     about: More info coming soon!
   - name: Tim Myers
     about: More info coming soon!
-    image: /img/10996029_10205634512855345_1441094233979101612_n.jpg
+    image: /img/411970077_2280659918804324_2104049887764528006_n.jpg
   - name: John Rutledge
     about: More info coming soon!
     image: /img/img_6256-2.jpg
