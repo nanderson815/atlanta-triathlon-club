@@ -16,7 +16,7 @@ Start by applying today so we can learn more about your goals. The price for the
 
 This season we will offer two target races. The GA Peach Women's Sprint & The Don Carter Park Sprint. Women starting triathlon will have the opportunity in racing a women’s only sprint.
 
-Our next round of four month coaching starts on TBD!
+Our next round of four month coaching starts on April 1, 2024!
 
 * ### Cost Effective Coaching Solution
 * ### Workout designed by your coach
