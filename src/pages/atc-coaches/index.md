@@ -276,6 +276,20 @@ coaches:
       Steph Stonich
       Co-Head Wednesday Night Bike Coach
     image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
+  - name: |
+      Steve Simonsen
+      Co-Head Wednesday Night Bike Coach
+      Assistant Bike Coach
+    image: /img/2017-02-01-green-gobbler-race-pic.jpg
+    about: >-
+      Steve has been competing in triathlons and bicycling races for over 10
+      years. He's raced on- and off-road triathlons up to the 70.3 distance, and
+      in bike events including road, TT, gravel, and mountain bike races. Steve
+      is fascinated by the technological side of cycling and is forever
+      tinkering with his bikes to eke out any additional advantage.
+
+
+      Steve has been part of ATC for five years, and is steadfast in believing Thursday Night Hill Repeats are the best workout out there. Outside of ATC Steve is a dad to two teens, husband, and a helluva engineer.
   - name: |-
       Chuck Chittick
       Co-Head Bike Coach
