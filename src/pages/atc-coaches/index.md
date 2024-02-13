@@ -185,6 +185,18 @@ coaches:
 
       In 2022, Rosie moved to Atlanta, joined ATC and completed her first 70.3 in Wilmington, NC. As you might be able to tell she loves the triathlon sport and is passionate about helping others love the swim portion of the race as much as she does.
     image: /img/img_9534.jpg
+  - name: |-
+      Emily Saugstad
+      OWS Assistant Coach
+    image: /img/emily-saugstad.jpg
+    about: >-
+      Emily is an assistant coach for the ATC Open Water Swims.  
+
+
+      Emily is originally from Indiana and has been swimming since the age of 5. She swam NCAA D1 at Xavier University in Cincinnati. After graduating in 2020, she made her way to Atlanta for her first job. After watching the 2020 olympics for triathlon she was interested in the sport and started running and biking. She did her first sprint triathlon in 2021 at Rock n’ Roll in Macon and was hooked ever since! Since then she has completed sprint and olympic distance triathlons, 5k swims, and her first marathon. 
+
+
+      Emily is a full-time swim coach for Chattahoochee Gold swim team in Cumming. She is passionate about making people stronger swimmers and helping them gain confidence.
   - about: More info coming soon!
     name: |-
       Joedy Price
