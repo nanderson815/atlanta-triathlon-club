@@ -351,6 +351,21 @@ coaches:
       Jennifer Myers
       Assistant Bike Coach
     image: /img/img_8783-2.jpeg
+  - name: |-
+      Brandy Garland
+      Assistant Bike Coach Energy Lab Indoor Cycling Assistant
+    image: /img/img_1260.jpeg
+    about: >-
+      Brandy grew up playing soccer competitively for the Olympic Development
+      Team, Oklahoma State and Mississippi State Universities.  After hanging up
+      her soccer cleats, she spent the next several years trying different
+      recreational sports.  When she saw an Ironman race on TV, she was
+      intrigued. A year later a co-worker asked if she’d ever considered
+      triathlons and gave her a bike. That was all the motivation she needed to
+      dip her toes in the water.  It was love at first race!
+
+
+      As soon as she finished her first sprint race, she knew she needed community to learn from and joined ATC in 2018. Over the ensuing years she’s completed sprint, Olympic and 70.3 distance races as well as 1 marathon. Her preferred race is Olympic distance. Although finding her on the roll call for races these days is challenging since she mostly prefers cheering and encouraging others.
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
