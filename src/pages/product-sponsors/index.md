@@ -39,7 +39,7 @@ sponsors:
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
   - link: https://www.precisionhydration.com/us/en/
-    logo: /img/unknown.png
+    logo: /img/pfh-sig.png
   - logo: /img/2023-precision-logo.jpg
     link: https://www.precisionpt.org
   - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
