@@ -30,6 +30,8 @@ sponsors:
     logo: /img/michelob_logo_trimmed.png
   - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
     link: https://millermorrishomes.kw.com
+  - logo: /img/copy-of-motionstabilty-3-1-1-.jpg
+    link: https://motionstability.com
   - link: http://onforlife.com/welcome-to-on-for-life/
     logo: /img/on_for_life_logo.jpg
   - link: https://www.orangemud.com/
