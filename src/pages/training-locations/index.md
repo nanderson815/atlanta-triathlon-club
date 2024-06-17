@@ -33,15 +33,6 @@ locations:
       - Swim
     time:
       - Weekend
-  - name: Concourse Athletic Club
-    address: 8 Concourse Pkwy, Atlanta, GA 30328
-    details: Weekday Pool
-    venue:
-      - Outdoor
-    activity:
-      - Swim
-    time:
-      - Weekday
   - name: "Washington Park Natatorium "
     address: 102 Ollie St NW, Atlanta, GA 30314
     details: Weekday Pool
