@@ -107,6 +107,15 @@ locations:
       - Run
     time:
       - Weekend
+  - name: Westside Park
+    venue:
+      - Outdoor
+    activity:
+      - Run
+    time:
+      - Weekend
+    details: Weekend Long Run
+    address: 1660 Johnson Rd NW, Atlanta, GA 30318
   - address: 100 Busch Drive Northeast Cartersville 30121
     name: Cartersville - Bud Plant
     details: Weekend Long Bike
