@@ -107,8 +107,8 @@ locations:
       - Weekend
     details: Weekend Long Run
     address: 1660 Johnson Rd NW, Atlanta, GA 30318
-  - address: 100 Busch Drive Northeast Cartersville 30121
-    name: Cartersville - Bud Plant
+  - address: 465 Simpson Rd NE, White, GA 30184
+    name: Sosebee Cycling Park
     details: Weekend Long Bike
     time:
       - Weekend
