@@ -21,8 +21,6 @@ sponsors:
     logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
     logo: /img/cidtfho1_400x400.jpg
-  - link: https://www.insidetracker.com
-    logo: /img/it_horiz_logo_fullcolor.jpg
   - link: https://www.intrepidperformance.com/
     name: Intrepid
     logo: /img/intrepid.png
@@ -48,10 +46,6 @@ sponsors:
     link: https://www.sbrsportsinc.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
-  - link: https://sur.co
-    logo: /img/sur.png
-  - link: https://themagic5.com
-    logo: /img/themagic5_myshopify_com_logo.png
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
   - link: https://teamzealios.com
