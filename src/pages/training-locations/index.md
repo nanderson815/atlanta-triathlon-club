@@ -15,9 +15,9 @@ locations:
     time:
       - Weekday
       - Weekend
-  - address: 5120 Allatoona Dr. Acworth, GA 30101
-    details: Weekend Open Water Swim & Mock Triathlon
-    name: Dallas Landing Park - Lake Allatoona
+  - address: 1820 Mary Alice Park Road; Cumming, Georgia  30041
+    details: Weekend Open Water Swim, Transition & Mock Triathlon
+    name: Mary Alice Park - Lake Lanier
     venue:
       - Outdoor
     activity:
