@@ -52,41 +52,6 @@ coaches:
 
 
       Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
-  - name: Rogue Hale
-    image: /img/rogue-hale.jpg
-    about: >-
-      Rogue has been a member of the Atlanta Triathlon Coaching staff since
-      2017.  He is a USAT Level 1 Certified coach and attended Training Peaks
-      University.
-
-
-      Rogue participated in sports his whole life and is always looking for the next challenge. He’s a good swimmer who started competing in high school and stumbled into triathlon while training for the challenging Blue Ridge Breakaway century ride. Since 2012 Rogue’s competed in a variety of races from long distance swimming to 5K fun runs. He’s completed 6 Full Ironman races numerous Half Ironman distances and won the undisputed 2015 USAT Southeast Aquabike Championship!
-
-
-      In 2016, he beat Colon Cancer and completed an epic comeback at Ironman in Mont- Tremblant, Canada only months after treatment. Rogue believes attitude is the most important part of your training, a positive attitude influences performance and can affect your life favorably in all areas.  
-
-
-      Rogue works with athletes of all skill levels, race types and distances.
-  - name: Sara Scott
-    image: /img/sara-scott.png
-    about: >-
-      Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
-      helping individuals of all experience levels achieve their goals. Sara
-      grew up playing soccer, tennis and golf, and started running as a way to
-      socialize outside of work when she moved to Fort Worth, Texas after
-      college. It was while on vacation in St Croix, she happened to witness the
-      famous 70.3 race held there, and somehow found the audacity to register
-      for the Chattanooga Olympic triathlon, though not owning a bike or having
-      any idea how to actually train (or even swim). It was a delightful and
-      harrowing experience, which she immediately decided that she would do it
-      again the following year, and soon found herself at an Atlanta Triathlon
-      Club Info Session. 
-
-
-      Sara has completed five Ironman Distance races, including Challenge Roth, and dozens of Half, Olympic and Sprint distance events, and she did return to tackle that St Croix race. As an active member of the Atlanta Triathlon Club, she joined the coaching staff as a leader for outdoor long rides, managed club social events for a couple seasons, and also leads indoor cycling as an instructor at Energy Lab. 
-
-
-      In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
   - name: Steph Cohn
     image: /img/steph-cohn.jpg
     about: >-
@@ -120,31 +85,4 @@ coaches:
       Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
     name: Stephanie Walker
     image: /img/steph-walker-2.jpeg
-  - about: >-
-      Joseph got his introduction into the sport of triathlon in 2009, the first
-      year the Augusta 70.3 Ironman was held. After completing the race he
-      joined the Atlanta Triathlon Club after seeing them at the race.  Over the
-      next few years he saw his race times improve while training with the group
-      and completed his first Ironman.  In 2014, he began using a triathlon
-      coach and over the next few years saw his times improve even more and
-      began consistently finishing within the top 10% of his age group at
-      Ironman branded races.  A few years ago, after a chat with his coach about
-      training and wanting to possibly coach athletes one day, his coach
-      suggested he start writing his own training plans and he'd review and
-      comment if there was anything that was a red flag.  Using the principals
-      he had learned under his coach and also how his body had responded to
-      various training sessions Joseph was able to achieve 3 top 10 age group
-      finishes at Ironman races along with finishing 17th overall at Ironman
-      Chattanooga in 2022.
-
-
-      Joseph has completed 11 Ironman races, qualified and raced in the 70.3 World championship in 2013 and 2017, and qualified and competed in the Boston and New York City marathon.
-
-
-      Outside of triathlon, Joseph is married to his wife, Lauren, and they have a daughter, Ellie, that they welcomed to the world in March 2022.
-
-
-      Joseph is in the process of obtaining his USAT level 1 certification.
-    name: "Joseph McLeod\t"
-    image: /img/img_5929.jpg
 ---
