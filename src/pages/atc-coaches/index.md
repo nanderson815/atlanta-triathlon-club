@@ -66,7 +66,7 @@ coaches:
     image: /img/1044731_559981280707745_482795150_n.jpeg
   - name: |-
       Sara Scott
-      Energy Lab Indoor Cycling Instructor Assistant Bike Coach
+      Energy Lab Indoor Cycling Instructor 
     about: >-
       Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
       helping individuals of all experience levels achieve their goals. Sara
@@ -99,22 +99,6 @@ coaches:
       century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
       CrossFit Endurance into her training.
     image: /img/1383827_10152344297148378_855082378_n.jpeg
-  - name: |-
-      Chris Janke
-      Swim Coach
-    about: >-
-      Chris grew up swimming in Florida and has been participating in triathlons
-      since 2012.
-
-
-      He as competed in three full distance Ironman races along with multiple half, Olympic and sprint triathlons and is a top 5% swimmer.
-
-
-      In 2016 Chris won his Age Group in the Tri the Parks triathlons series.
-
-
-      Chris has been coaching with the Atlanta Triathlon Club since 2013.
-    image: /img/13245388_1337922972888162_7150865187353608181_n.jpeg
   - about: Debbie James has competed in triathlons since 2016.  With the support of
       the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
       and qualified to compete in the 70.3 World Championships in Nice, France
@@ -129,16 +113,16 @@ coaches:
       motto in swimming is, “Work smarter not harder”.
     name: |-
       Debbie James
-      Swim Coach
+      OWS Assistant Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
   - about: More info coming soon!
     name: |-
       Jaime O'Keeffe
-      Swim Coach
+      OWS Assistant Coach
     image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
   - name: |-
       Mary Mudge
-      Swim Coach
+      Head Swim Coach
     about: >-
       Mary is a former college swimmer turned triathlete. She has been swimming
       competitively since she was 6 years old and had the opportunity to swim at
@@ -153,6 +137,7 @@ coaches:
   - name: |-
       Sheryl Shectman
       Swim Coach
+      Co-Head OWS Coach
     about: >-
       I’m an assistant swim coach for the last several years. I grew up
       swimming; learned to swim before i could walk. I am an Ironman finisher, 4
@@ -164,7 +149,7 @@ coaches:
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
   - name: |-
       Rosie Belden
-      OWS Assistant Coach
+      Co-Head OWS Coach
     about: >-
       Rosemary 'Rosie' Belden has been a water enthusiast since she was young.
       She grew up water skiing with her grandparents on Lake Austin and swimming
@@ -184,7 +169,7 @@ coaches:
     image: /img/img_9534.jpg
   - name: |-
       Emily Saugstad
-      OWS Assistant Coach
+      Co-Head OWS Coach
     image: /img/emily-saugstad.jpg
     about: >-
       Emily is an assistant coach for the ATC Open Water Swims.  
@@ -199,21 +184,11 @@ coaches:
       Joedy Price
       Co-Head Run Coach
     image: /img/43011297_2704046649612823_6522878239591890944_n.jpg
-  - image: /img/407_m-fpix-3-01085688-digital_highres-5143_129821-18137873-1-.jpg
+  - image: /img/315157804_10223680018532496_6428341028030063803_n.jpg
     name: |-
-      Nick Brouillette
-      Assistant Run Coach
-    about: >-
-      Nick started in triathlon in 2019 about a year after the birth of his
-      first child with the John Tanner Sprint. He gracefully lost his goggles
-      and cap during the national anthem, had a mild panic attack in the cold
-      water, and fell twice trying to clip-in at the start of the bike. Fast
-      forward three years to 2023 and he's completed three half and one full
-      Ironman races, an ATC sponsored 50k during the pandemic, and numerous
-      sprint/olympic/half marathons.
-
-
-      Nick has two young children (5/2 years old) and a supporting wife at home in Smyrna. He's happy to share his experience on balancing family, work, and a love for endurance sports at an ATC event or Sunday long run!
+      Garrett Cashwell
+      Co-Head Run Coach
+    about: Coming Soon!
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
       herself. Her portfolio enables her to understand the athletes she works
@@ -245,7 +220,7 @@ coaches:
     image: /img/fullsizerender.jpg
   - name: |-
       Stephanie Walker
-      Assistant Run & OWS Coach
+      OWS Assistant Coach
     about: >-
       Stephanie Walker has always loved swimming, running and cycling. She grew
       up swimming in Girl Scout camps, riding miles through her home town, and
