@@ -6,6 +6,8 @@ accentimage: /img/topography.png
 sponsors:
   - link: https://runsignup.com/Race/GA/Atlanta/MilesForBethany5k
     logo: /img/logo-jpeg-02.jpg
+  - logo: /img/kpf-logo-vertical-2c.png
+    link: https://www.kylepeasefoundation.org/#intro
   - link: https://www.gamultisports.com/contact/
     logo: /img/gmp-logo-2020-72dpi.jpeg
   - link: https://www.magicsportsusa.com
