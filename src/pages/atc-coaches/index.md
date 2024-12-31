@@ -24,13 +24,10 @@ coaches:
       Tim has competed in endurance sports since 2006. He brings his 16 years of experience in coaching to inspire, motivate and help others achieve their goals.
     image: /img/tim.jpeg
   - about: >-
-      Nicole is the Assistant General Manager of the Atlanta Triathlon
-      Club/EnergyLab. She is also a One on One Coach with EnergyLab and holds
-      USAT Level 1 Certification, USMS Level 1 and Level 2 Certification and
-      RRCA Level 1 Certification. Within the Atlanta Tri Club she enjoys her
-      additional positions as New Member Coordinator, Connector Group Lead and
-      Green Group Bike Coach in addition to group coaching wherever needed in
-      all three sport disciplines.
+      Nicole is an assistant Coach of the Atlanta Triathlon Club. She is also a
+      One on One Coach with EnergyLab and holds USAT Level 1 Certification, USMS
+      Level 1 and Level 2 Certification and RRCA Level 1 Certification. She
+      enjoys her positions wherever needed in all three sport disciplines. 
 
 
       She has participated in and trained for all triathlon distances, including the newer sport of SwimRun. She has been involved in triathlon and Atlanta Tri Club since 2014. Her favorite distance so far is the Half Ironman distance. She loves the intense training schedule of long course racing and filling every free moment with triathlon related events.
@@ -45,7 +42,7 @@ coaches:
       Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
     name: |
       Nicole Chittick
-      Asst. GM
+      OWS, Bike, Run Assistant Coach
     image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
   - name: |-
       Jamal Lacour
