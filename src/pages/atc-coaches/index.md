@@ -87,40 +87,6 @@ coaches:
       In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
     image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
   - name: |-
-      Krista Glasscock
-      Swim Coach
-    about: Krista has been competing in triathlons for the past 11 years. Growing up
-      she swam competitively and loved cycling. When she moved to Atlanta, she
-      began looking for ways to remain active and triathlons were a great next
-      step. In 2006, she signed up for her first sprint triathlon. Over the
-      years, she continuously takes on new challenges and distances. Krista has
-      completed several Half Ironman's, one full Ironman, a 5k swim, and also
-      enjoys doing endurance cycling rides. She has completed an MS150 and a
-      century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
-      CrossFit Endurance into her training.
-    image: /img/1383827_10152344297148378_855082378_n.jpeg
-  - about: Debbie James has competed in triathlons since 2016.  With the support of
-      the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
-      and qualified to compete in the 70.3 World Championships in Nice, France
-      in 2019.   She has been swimming competitively year-round since the age of
-      five, representing her club team at the national level, as well as being
-      named a Scholastic All American. Debbie then had the opportunity to attend
-      the University of Georgia and compete on their Division I National
-      Championship Swimming and Diving team. There she was a 4-time Varsity
-      letter winner and was honored as a SEC Scholar Athlete. As part of the ATC
-      swim coaching staff, Debbie enjoys being on deck to help other triathletes
-      embrace their inner swimmer and learn to love being in the water. Her
-      motto in swimming is, “Work smarter not harder”.
-    name: |-
-      Debbie James
-      OWS Assistant Coach
-    image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
-  - about: More info coming soon!
-    name: |-
-      Jaime O'Keeffe
-      OWS Assistant Coach
-    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
-  - name: |-
       Mary Mudge
       Head Swim Coach
     about: >-
@@ -134,6 +100,19 @@ coaches:
 
       Mary has coached all ages and abilities from true beginners to college athletes and will bring her years of experience in the pool to each practice by helping with form, pacing and triathlon specific swim tips and tricks. She hopes to create fun, motivating and productive sessions and is excited to bring her love for the sport of swimming to her fellow triathletes in ATC in her role as one of the head swim coaches at Washington Park.
     image: /img/img_0188.jpeg
+  - name: |-
+      Krista Glasscock
+      Swim Coach
+    about: Krista has been competing in triathlons for the past 11 years. Growing up
+      she swam competitively and loved cycling. When she moved to Atlanta, she
+      began looking for ways to remain active and triathlons were a great next
+      step. In 2006, she signed up for her first sprint triathlon. Over the
+      years, she continuously takes on new challenges and distances. Krista has
+      completed several Half Ironman's, one full Ironman, a 5k swim, and also
+      enjoys doing endurance cycling rides. She has completed an MS150 and a
+      century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
+      CrossFit Endurance into her training.
+    image: /img/1383827_10152344297148378_855082378_n.jpeg
   - name: |-
       Sheryl Shectman
       Swim Coach
@@ -179,6 +158,44 @@ coaches:
 
 
       Emily is a full-time swim coach for Chattahoochee Gold swim team in Cumming. She is passionate about making people stronger swimmers and helping them gain confidence.
+  - about: Debbie James has competed in triathlons since 2016.  With the support of
+      the Atlanta Triathlon Club she has finished five 70.3s, one full ironman,
+      and qualified to compete in the 70.3 World Championships in Nice, France
+      in 2019.   She has been swimming competitively year-round since the age of
+      five, representing her club team at the national level, as well as being
+      named a Scholastic All American. Debbie then had the opportunity to attend
+      the University of Georgia and compete on their Division I National
+      Championship Swimming and Diving team. There she was a 4-time Varsity
+      letter winner and was honored as a SEC Scholar Athlete. As part of the ATC
+      swim coaching staff, Debbie enjoys being on deck to help other triathletes
+      embrace their inner swimmer and learn to love being in the water. Her
+      motto in swimming is, “Work smarter not harder”.
+    name: |-
+      Debbie James
+      OWS Assistant Coach
+    image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Jaime O'Keeffe
+      OWS Assistant Coach
+    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
+  - name: |-
+      Stephanie Walker
+      OWS Assistant Coach
+    about: >-
+      Stephanie Walker has always loved swimming, running and cycling. She grew
+      up swimming in Girl Scout camps, riding miles through her home town, and
+      running with many of her track and field friends.
+
+
+      In 2011, she met her husband Scott while he was training for the Chicago Marathon and it inspired her to start long distance running. She went on compete in several half and full marathons, two full Ironman distance races, along with many Olympic distance races.
+
+
+      Since then, her love has grown from training to coaching. Stephanie became a USAT Level 1 Coach, Certified Personal Trainer, and has studied Nutrition Coaching.
+
+
+      Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
+    image: /img/steph-walker-1.jpeg
   - about: More info coming soon!
     name: |-
       Joedy Price
@@ -218,23 +235,6 @@ coaches:
 
       In 2023 Allison transitioned to run coaching and has enjoyed the move from the pool deck to sharing run miles and connecting with her ATC teammates.
     image: /img/fullsizerender.jpg
-  - name: |-
-      Stephanie Walker
-      OWS Assistant Coach
-    about: >-
-      Stephanie Walker has always loved swimming, running and cycling. She grew
-      up swimming in Girl Scout camps, riding miles through her home town, and
-      running with many of her track and field friends.
-
-
-      In 2011, she met her husband Scott while he was training for the Chicago Marathon and it inspired her to start long distance running. She went on compete in several half and full marathons, two full Ironman distance races, along with many Olympic distance races.
-
-
-      Since then, her love has grown from training to coaching. Stephanie became a USAT Level 1 Coach, Certified Personal Trainer, and has studied Nutrition Coaching.
-
-
-      Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
-    image: /img/steph-walker-1.jpeg
   - name: |-
       Jerome Feuiltault
       Head Tuesday Night Run Coach
@@ -279,18 +279,6 @@ coaches:
 
       Steve has been part of ATC for five years, and is steadfast in believing Thursday Night Hill Repeats are the best workout out there. Outside of ATC Steve is a dad to two teens, husband, and a helluva engineer.
   - name: |-
-      Chuck Chittick
-      Assistant Bike Coach
-    about: >-
-      After joining a gym to get fit, Chuck became interested in Mountain Biking
-      . He quickly progressed to road cycling and then eventually to triathlon.
-       After joining ATC, Chuck completed many century rides and recently
-      finished Ironman Chattanooga. 
-
-
-      Favorite Tri distance: Half Iron
-    image: /img/270257757_4695855790462837_4918749746309742137_n.jpeg
-  - name: |-
       Rogue Hale
       Co-Head Bike Coach
     about: >-
@@ -307,6 +295,33 @@ coaches:
 
       Rogue works with athletes of all skill levels, race types and distances.
     image: /img/20663906_672069212996744_7507521997248207998_n.jpeg
+  - name: |-
+      Brandy Garland
+      Co-Head Bike Coach Energy Lab Indoor Cycling Instructor
+    image: /img/img_1260.jpeg
+    about: >-
+      Brandy grew up playing soccer competitively for the Olympic Development
+      Team, Oklahoma State and Mississippi State Universities.  After hanging up
+      her soccer cleats, she spent the next several years trying different
+      recreational sports.  When she saw an Ironman race on TV, she was
+      intrigued. A year later a co-worker asked if she’d ever considered
+      triathlons and gave her a bike. That was all the motivation she needed to
+      dip her toes in the water.  It was love at first race!
+
+
+      As soon as she finished her first sprint race, she knew she needed community to learn from and joined ATC in 2018. Over the ensuing years she’s completed sprint, Olympic and 70.3 distance races as well as 1 marathon. Her preferred race is Olympic distance. Although finding her on the roll call for races these days is challenging since she mostly prefers cheering and encouraging others.
+  - name: |-
+      Chuck Chittick
+      Assistant Bike Coach
+    about: >-
+      After joining a gym to get fit, Chuck became interested in Mountain Biking
+      . He quickly progressed to road cycling and then eventually to triathlon.
+       After joining ATC, Chuck completed many century rides and recently
+      finished Ironman Chattanooga. 
+
+
+      Favorite Tri distance: Half Iron
+    image: /img/270257757_4695855790462837_4918749746309742137_n.jpeg
   - about: More info coming soon!
     name: |-
       George Cone
@@ -327,21 +342,6 @@ coaches:
       Jennifer Myers
       Assistant Bike Coach
     image: /img/img_8783-2.jpeg
-  - name: |-
-      Brandy Garland
-      Co-Head Bike Coach Energy Lab Indoor Cycling Instructor
-    image: /img/img_1260.jpeg
-    about: >-
-      Brandy grew up playing soccer competitively for the Olympic Development
-      Team, Oklahoma State and Mississippi State Universities.  After hanging up
-      her soccer cleats, she spent the next several years trying different
-      recreational sports.  When she saw an Ironman race on TV, she was
-      intrigued. A year later a co-worker asked if she’d ever considered
-      triathlons and gave her a bike. That was all the motivation she needed to
-      dip her toes in the water.  It was love at first race!
-
-
-      As soon as she finished her first sprint race, she knew she needed community to learn from and joined ATC in 2018. Over the ensuing years she’s completed sprint, Olympic and 70.3 distance races as well as 1 marathon. Her preferred race is Olympic distance. Although finding her on the roll call for races these days is challenging since she mostly prefers cheering and encouraging others.
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
