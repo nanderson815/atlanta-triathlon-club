@@ -16,7 +16,7 @@ Let us help you make the next step in your swimming! Our coaches work with brand
 
 Interested in learning to swim for triathlon? Unless you swam in high school or college, get expert eyes on your stroke before you start training.
 
-At Energy Lab, our coaches are experienced in helping swim beginners learn to swim for triathlon!
+At ATC, our coaches are experienced in helping swim beginners learn to swim for triathlon!
 
 ![](https://energylabatl.com/2017/wp-content/uploads/2017/05/18556977_10154766414597746_971767310805515168_n.jpg)
 
@@ -48,7 +48,7 @@ Above water and underwater video taping,
 
 • Video review and custom swim drills e-mailed within 1-week.
 
-Location: Concourse Athletic Club (8 Concourse Pkwy, Atlanta, GA 30328)
+Location: N/A
 
 Cost: $165/person/1st session. $125/person/Follow-up sessions   
 
