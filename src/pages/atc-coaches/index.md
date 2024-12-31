@@ -52,7 +52,7 @@ coaches:
   - name: |-
       Tim Newberg
       Energy Lab Indoor Cycling Instructor
-      Track Head Coach
+      Head Track Coach
     about: >-
       Tim is a current member of Team USA for USAT Triathlon recently competing
       in 2016 ITU World Championships for both the Sprint and Olympic distance
@@ -271,23 +271,27 @@ coaches:
       ATC in 2010.
     image: /img/13775901_506617006208633_4879532389543617675_n.jpeg
   - about: >-
-      Stephanie Stonich has been an active member of ATC since 2013 and
-      previously served as a long run coach for 2 years and most recently has
-      shifted as an Assistant for the Thursday Night Bike Hill Repeats, which
-      has been her favorite work out for the last few years.
+      Lucy has been a member of ATC since 2021 and will embark on her first year
+      of coaching in 2025. Growing up in an active family, Lucy has been
+      involved in sports from a young age. Her journey into running began in
+      2018 after graduating college, when she couldn’t afford a gym membership.
+      What started as a cheap way to stay fit quickly turned into a passion.
+      Despite initially struggling to run for more than 10 minutes, she signed
+      up for her first 5k and never looked back!
 
 
-      Previous to joining ATC, Stephanie had run a few 13.1 and full marathons, however was new to the triathlon community.  Since then she has completed multiple triathlons, including 3 Full Ironman and 4 Ironman 70.3 races.  Her favorite race distance is the Full Ironman and always approaches each race with a fun attitude and a little bling on her race kit, truly taking in the whole experience.  When she hears someone say “ I can’t do that!”, she says “Yes you can, it’s all about the 4 D’s…Desire, Determination, Dedication and Discipline”.
+      Joining the club in 2021, Lucy was immediately captivated by the challenging and exhilarating nature of triathlons. Since then, she has completed two 70.3 Ironman races and numerous road races, ranging from 5k to full marathons.
 
 
-      Outside of ATC, Stephanie is a big yogi and has practiced for many years, stating it’s “the best thing you can do for yourself”, often planning many of her vacations so she can practice yoga in different parts of the world.  Professionally, she is the Program Manager for Capital One’s Career Development Center and loves the opportunity to work with associates all over the country.
+      As someone who took up running as an adult, Lucy takes pride in helping others who are also starting from scratch. She loves witnessing athletes discover their competitive spirit and push themselves to achieve their full potential. Lucy believes that while crossing the finish line is an individual accomplishment, the journey to get there is a collective effort. She enjoys running along the Chattahoochee in her free time and is always eager to share her journey from a non-runner to an endurance athlete with others!
     name: |-
-      Steph Stonich
-      Co-Head Wednesday Night Bike Coach
-    image: /img/14022191_10105881099990320_7499564261273503786_n.jpeg
+      Lucy Olliff
+      Co-Head Tuesday Night Run Coach
+      Co-Head Track Coach
+    image: /img/lucy-atc-pic-.jpeg
   - name: |
       Steve Simonsen
-      Co-Head Wednesday Night Bike Coach
+      Co-Head Thursday Night Bike Hill Repeats Coach
       Assistant Bike Coach
     image: /img/2017-02-01-green-gobbler-race-pic.jpg
     about: >-
@@ -301,7 +305,7 @@ coaches:
       Steve has been part of ATC for five years, and is steadfast in believing Thursday Night Hill Repeats are the best workout out there. Outside of ATC Steve is a dad to two teens, husband, and a helluva engineer.
   - name: |-
       Chuck Chittick
-      Co-Head Bike Coach
+      Assistant Bike Coach
     about: >-
       After joining a gym to get fit, Chuck became interested in Mountain Biking
       . He quickly progressed to road cycling and then eventually to triathlon.
@@ -350,7 +354,7 @@ coaches:
     image: /img/img_8783-2.jpeg
   - name: |-
       Brandy Garland
-      Assistant Bike Coach Energy Lab Indoor Cycling Assistant
+      Co-Head Bike Coach Energy Lab Indoor Cycling Instructor
     image: /img/img_1260.jpeg
     about: >-
       Brandy grew up playing soccer competitively for the Olympic Development
