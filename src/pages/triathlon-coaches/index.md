@@ -25,30 +25,19 @@ coaches:
   - name: Nicole Chittick
     image: /img/nicole-chittick.jpg
     about: >-
-      Nicole is the Assistant General Manager of the Atlanta Triathlon
-      Club/EnergyLab. She is also a One on One Coach with EnergyLab and holds
-      USAT Level 1 Certification, USMS Level 1 and Level 2 Certification and
-      RRCA Level 1 Certification. Within the Atlanta Tri Club she enjoys her
-      additional positions as New Member Coordinator, Connector Group Lead and
-      Green Group Bike Coach in addition to group coaching wherever needed in
-      all three sport disciplines.
-
-
+      Nicole is an assistant Coach of the Atlanta Triathlon Club. She is also a
+      One on One Coach with EnergyLab and holds USAT Level 1 Certification, USMS
+      Level 1 and Level 2 Certification and RRCA Level 1 Certification. She
+      enjoys her positions wherever needed in all three sport disciplines. 
 
 
       She has participated in and trained for all triathlon distances, including the newer sport of SwimRun. She has been involved in triathlon and Atlanta Tri Club since 2014. Her favorite distance so far is the Half Ironman distance. She loves the intense training schedule of long course racing and filling every free moment with triathlon related events.
 
 
-
-
       Nicole is especially adept at lending her coaching approach to adult beginner triathletes. As an adult onset athlete herself, she has a unique and effective vision of the adult learning process and the ability to help the coached athlete break down past performance barriers and enjoy the triathlon experience.
 
 
-
-
       She has also participated in all distances of road and trail running since 2011, including many half and full marathons and most recently the UltraMarathon distance of 50k. SpaceCoast Marathon, the Atlanta Marathon, the Disney Dopey Challenge (a multi day, multi race event), the Rock and Roll Savannah Marathon, Warrior Dash, Firebreather, Publix Half Marathon, Hotlanta Half Marathon, Alien Half Marathon,JG Half Marathon, Thrill in the Hills Half Marathon and Red Top Rumble 11.5 mile are just a few of her favorites.
-
-
 
 
       Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
