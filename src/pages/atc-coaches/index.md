@@ -205,7 +205,22 @@ coaches:
     name: |-
       Garrett Cashwell
       Co-Head Run Coach
-    about: Coming Soon!
+    about: >-
+      Garrett has been a proud member of the Atlanta Triathlon Club since 2020
+      and is thrilled to join the coaching team as a long-run coach for the 2025
+      season.\
+
+      \
+
+      Garrett’s passion for running began early, both as part of team sports and as a solo pursuit. Inspired by a rewarding senior year in high school cross country, he embraced the challenge of long-distance running, completing his first marathon at Callaway Gardens on his 18th birthday. Since then, he has fully immersed himself in the sport, not only as his personal passion but also as a way to connect with the broader running community.\
+
+      \
+
+      Garrett has set ambitious goals, including completing all World Marathon Majors (2/7+), running a marathon in every U.S. state (10/50), and tackling a marathon on every continent (2/7). He looks forward to sharing his love for the sport, travel and race stories, and running experience with Atlanta Triathlon Club members, both new and seasoned.\
+
+      \
+
+      When not running (or occasionally swimming and cycling), Garrett enjoys spending quality time with his wife, Amanda, exploring new destinations—whether for marathons or relaxing getaways—and hosting game nights with friends.
   - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
       Level I triathlon Coach, and has accomplished multiple endurance events
       herself. Her portfolio enables her to understand the athletes she works
