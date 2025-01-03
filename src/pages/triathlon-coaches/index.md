@@ -41,24 +41,6 @@ coaches:
 
 
       Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
-  - name: Steph Cohn
-    image: /img/steph-cohn.jpg
-    about: >-
-      Stephanie Cohn is a certified USAT Level I triathlon coach, competitive
-      runner and triathlete, and physical therapist. She received her triathlon
-      coaching certification in 2020 and started coaching through her physical
-      therapy clinic, Motion Stability Physical Therapy, in Atlanta. There, she
-      gained experience with beginner triathletes competing in short distance
-      races. 
-
-
-      Steph has been competing in triathlons and running events of various distances for 10 years. She considers running her best event and that of which she is most knowledgeable. Until college, she only ran to stay in shape for competitive volleyball and softball. Steph always knew she was different when she actually preferred the “punishment” known as running over actually playing the sport! She continued to recreationally swim, bike, and run in college, then completed her first sprint triathlon in 2012 upon moving to Atlanta for physical therapy school. After getting bored with solo training, she finally joined the Atlanta Triathlon Club in 2016 and has been a member since then. Eventually, she drank the kool aid and signed up for her first full Ironman triathlon, leading her to join the Energy Lab team in 2018. 
-
-
-      Steph received her Bachelor of Science degree in exercise science from Florida State University in 2011, and went on to earn her Doctorate in Physical Therapy from Emory University in 2015. She started her career at Benchmark Physical Therapy in Lawrenceville, Georgia in 2015 while also completing her residency in orthopedics in 2017. She then served as the clinic director for two years at Benchmark’s Stone Mountain, Georgia location. In 2019, Steph earned her specialty in orthopedic physical therapy and began practicing at Motion Stability. She enjoys being able to work with patients one-on-one, and has a special interest in endurance athletes. She also treats basic post-operative, chronic pain, non-sports injury, and vestibular conditions. 
-
-
-      Steph looks forward to combining her expertise in orthopedic physical therapy, knowledge of biomechanics and running form, experience as an endurance athlete, and triathlon coaching education to optimally train and work with beginner and intermediate triathletes. She plans to incorporate injury prevention and act as a resource for injured athletes as well.
   - about: >-
       Stephanie Walker has always loved swimming, running and cycling. She grew
       up swimming in Girl Scout camps, riding miles through her home town, and
