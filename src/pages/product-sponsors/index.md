@@ -5,8 +5,6 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
-  - link: https://www.all3sports.com
-    logo: /img/a3s_logo_newflat_crop_com_removed.jpg
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
   - link: https://cobaltatl.com
@@ -46,6 +44,8 @@ sponsors:
     link: https://www.sbrsportsinc.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
+  - link: https://www.tyr.com
+    logo: /img/unknown.png
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
   - link: https://teamzealios.com
