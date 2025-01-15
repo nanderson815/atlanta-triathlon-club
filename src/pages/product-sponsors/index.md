@@ -5,10 +5,10 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
-  - link: https://cobaltatl.com
-    logo: /img/cobaltpm-logo.png
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
+  - link: https://cobaltatl.com
+    logo: /img/cobaltpm-logo.png
   - link: https://www.coreacupunctureatlanta.com
     logo: /img/core_onecolor_logo.jpg
   - link: https://www.georgiasportschiropractic.com
