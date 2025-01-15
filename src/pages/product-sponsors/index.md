@@ -5,6 +5,8 @@ subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 sponsors:
+  - logo: /img/a3s_logo_newflat_crop_com_removed.jpg
+    link: https://www.all3sports.com
   - link: https://www.bigpeachrunningco.com
     logo: /img/bprc-r-r-vertical.png
   - link: https://cobaltatl.com
