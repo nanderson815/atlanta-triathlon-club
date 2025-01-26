@@ -43,12 +43,10 @@ tiers:
       Target race finish line tents
 
       Mock triathlons
-  - title: Remote Member
+  - title: Social Member
     price: $10
     desc: |-
       **Stay engaged from afar**
-
-
 
       Out of town or out of state
 
@@ -59,8 +57,6 @@ tiers:
       Sponsor discounts
 
       Group socials and parties
-
-      Seminars and clinics
 
       Target race finish line tents
 blurbs:
