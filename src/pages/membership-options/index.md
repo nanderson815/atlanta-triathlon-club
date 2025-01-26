@@ -48,7 +48,7 @@ tiers:
     desc: |-
       **Stay engaged from afar**
 
-      Out of town or out of state
+      Out of town or state
 
       Member discussion forum
 
