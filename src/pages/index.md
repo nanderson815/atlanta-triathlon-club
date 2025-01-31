@@ -25,7 +25,7 @@ intro:
   blurbs:
     - image: /img/card1.jpeg
       title: Learn More
-      desc: Choose my memebership
+      desc: Choose my membership
       link: /membership-options/
     - image: /img/card2.jpeg
       title: "#poweredbyenergylab"
