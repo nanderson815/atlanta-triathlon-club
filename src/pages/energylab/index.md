@@ -15,7 +15,7 @@ We offer endurance sports coaching, swim instruction, and group training classes
 
 ## Endurance Sports Coaching
 
-Our certified coaches help athletes of all levels from first time sprint finishers to National Championship Qualifiers and race winners. They work as a team using the latest technology and research to optimize your training while keeping things process oriented and positive.
+Our certified coaches help athletes of all levels from first time sprint finishers to National & World Championship Qualifiers and race winners. They work as a team using the latest technology and research to optimize your training while keeping things process oriented and positive.
 
 We are now accepting applications. Filling out the application is your first step towards coaching. Afterward, a coach will call you to discuss your goals and find the best fit.
 
