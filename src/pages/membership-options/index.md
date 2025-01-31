@@ -12,7 +12,7 @@ tiers:
     desc: |-
       **Most popular membership**
 
-      **Includes** 20 sessions per week!
+      **Includes** 7-9 sessions per week!
 
       **Daily** organized training sessions 
 
@@ -28,7 +28,7 @@ tiers:
     desc: |-
       **All outdoor workouts**
 
-      **Includes ~10 sessions per week**
+      **Includes ~2-6 sessions per week**
 
       Member discussion forum
 
