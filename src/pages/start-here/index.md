@@ -9,12 +9,12 @@ imageTwo: /img/img2.jpeg
 blurbs:
   - title: SWIMMING
     desc: >-
-      We offer three to four, organized coach- led practices during the week
-      with three to five lanes at a practice. Lanes are organized by
-      ability—newbies and former-college-swimmers welcome.
+      We offer two, organized coach- led practices during the week with three to
+      five lanes at a practice. Lanes are organized by ability—newbies and
+      former-college-swimmers welcome.
 
 
-      Just learning to swim? We have a dedicated beginner lane at our Monday night sessions for that. All our practices are beginner friendly. And we offer swim lessons through Energy Lab if you need extra one on one attention. Two to three times per month during summer we offer supported open water sessions at Red Top Mountain in Cartersville.
+      Just learning to swim? We have a dedicated beginner lane at our Monday & Wednesday night sessions for that. All our practices are beginner friendly. Two to three times per month during summer we offer supported open water sessions at Red Top Mountain in Cartersville.
   - title: CYCLING
     desc: >-
       We have plenty of indoor and outdoor riding options. At Energy Lab, our
