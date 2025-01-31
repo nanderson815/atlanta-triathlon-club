@@ -1,13 +1,12 @@
 ---
-title: Triathlon Coaching
 templateKey: energylab
+title: Triathlon Coaching
 backgroundImage: /img/coaching2.jpeg
 accentimage: /img/topography.png
 button:
   link: https://docs.google.com/forms/d/e/1FAIpQLScmwBUGWn57GTL8E9yFfI4br5H7BTPfpTDPfQfO19VJ3h6aDw/viewform?usp=sf_link
   text: Apply Now
 ---
-
 # Should I hire a triathlon coach?
 
 Should you hire a triathlon coach? Contrary to what many believe, a coach is not only for advanced athletes or someone whose primary motivation is performance. The benefit of getting a coach as a beginner is that you can outsource a lot of the things you would need to learn on your own.
@@ -18,7 +17,7 @@ Let’s say you’ve decided to take the plunge and look for a coach. Ideally yo
 
 For example, is the social, in-person aspect important to you, or is coaching more of a logical process? The analytical coach focused on performance may not be the best fit for a newbie athlete aiming to cross their first sprint finish line.
 
----
+- - -
 
 # What should I look for in a triathlon coach?
 
@@ -30,7 +29,7 @@ Here are some of the coaching options you will see:
 
 **Triathlon clubs—**Triathlon clubs are amazing. Social support and having friends who’d rather meet you at a bike ride than happy hour (or at least meet you at happy hour *after* a bike ride) will go a long way toward your enjoyment and longevity in the sport. If you’re not sure about the coaching option, then joining a tri club is also a great way to gain access to local coaches.
 
----
+- - -
 
 # What does coaching include?
 
@@ -44,8 +43,8 @@ Ongoing threshold testing
 
 All Access Membership to Atlanta Tri Club.
 
-$250/month + $100 Initiation
+$250-$300/month + $100 Initiation
 
----
+- - -
 
 # Book A Call Today!
