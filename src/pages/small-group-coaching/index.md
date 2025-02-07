@@ -14,7 +14,7 @@ A coach isn't just for experienced athletes. In fact, beginners are the group mo
 
 Start by applying today so we can learn more about your goals. The price for the membership is a $150/month.
 
-This season we will offer two target races. The GA Peach Women's Sprint & The Tuglaoo Olmpic, Sprint or Aquabike. We will offer traning and a race for both men and women. Women starting triathlon will have the opportunity in racing a women’s only sprint.                                               
+This season we will offer two target races. The GA Peach Women's Sprint & The Tuglaoo Olympic, Sprint or Aquabike. We will offer traning and a race for both men and women. Women starting triathlon will have the opportunity in racing a women’s only sprint.                                               
 
 Our next round of four month coaching starts on March 31st.
 
