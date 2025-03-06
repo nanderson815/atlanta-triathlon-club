@@ -113,6 +113,23 @@ coaches:
       century ride in Tahoe, CA. Krista also enjoys CrossFit and incorporates
       CrossFit Endurance into her training.
     image: /img/1383827_10152344297148378_855082378_n.jpeg
+  - about: >-
+      Karla has been swimming competitively since she was six years old. She has
+      a passion for the sport and the community it brings. Throughout high
+      school and college, her strongest event was always the distance freestyle,
+      so transitioning to triathlon felt like a natural next step. Over the
+      years, Karla has coached swimmers of all ages and skill levels, aiming to
+      pass on her love for technique and disciplined pacing.
+
+
+      In 2014, Karla competed in her first pool triathlon as a student at University of Maryland. She was also President of the Club Swim at Maryland and traveled to Georgia Tech to compete in Club Swim Nationals! 
+
+
+      In 2024, Karla moved to Atlanta with her husband Ryan and competed in her first open water triathlon with ATC. She is excited to continue building her experience in races while helping other athletes achieve their triathlon goals.
+    name: |-
+      Krista Glasscock
+      Swim Coach
+    image: /img/karla-luetzow.jpeg
   - name: |-
       Sheryl Shectman
       Swim Coach
