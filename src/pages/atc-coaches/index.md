@@ -127,7 +127,7 @@ coaches:
 
       In 2024, Karla moved to Atlanta with her husband Ryan and competed in her first open water triathlon with ATC. She is excited to continue building her experience in races while helping other athletes achieve their triathlon goals.
     name: |-
-      Krista Glasscock
+      Karla Luetzow
       Swim Coach
     image: /img/karla-luetzow.jpeg
   - name: |-
