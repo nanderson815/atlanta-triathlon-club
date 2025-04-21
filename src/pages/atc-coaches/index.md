@@ -388,4 +388,7 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
+  - name: Urbano Hernandez Assistant Bike Coach
+    about: Coming Soon!
+    image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
 ---
