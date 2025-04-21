@@ -374,6 +374,9 @@ coaches:
       Jennifer Myers
       Assistant Bike Coach
     image: /img/img_8783-2.jpeg
+  - name: Urbano Hernandez Assistant Bike Coach
+    about: Coming Soon!
+    image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
@@ -388,7 +391,4 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
-  - name: Urbano Hernandez Assistant Bike Coach
-    about: Coming Soon!
-    image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
 ---
