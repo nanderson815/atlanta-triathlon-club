@@ -342,6 +342,24 @@ coaches:
 
 
       As soon as she finished her first sprint race, she knew she needed community to learn from and joined ATC in 2018. Over the ensuing years she’s completed sprint, Olympic and 70.3 distance races as well as 1 marathon. Her preferred race is Olympic distance. Although finding her on the roll call for races these days is challenging since she mostly prefers cheering and encouraging others.
+  - name: Urbano Hernandez Assistant Bike Coach
+    about: >-
+      Urbano is an Assistant Coach of the Atlanta Triathlon Club. He has raced
+      SPRINT, OLYMPIC and HALF- IRONMAN distances, several times. He also
+      participates in other races like running 5k, 10k, Half Marathons, Gravel
+      cycling and Endurance Obstacles Events like Tough Mudder.
+
+
+      He has been an active member of ATC since 2022 and he is also part of ENVE RACING TEAM SINCE 2023. He is currently Black Belt 1rst Dan in Ki-Zen-Ryu Karate International and Shotokan Karate International. He participated and won the Black Belt Championship Heavy Weight in one of the most prestigious tournaments in Puerto Rico and was inducted into the AMERICAN FEDERATION MARTIAL ART HALL OF FAME.
+
+
+      He currently lives in Canton, GA, has worked in Cardiovascular Medicine for the past 16 years and he is Certified Spanish Medical Interpreter. Other hobbies he enjoys are swimming and paddle boarding.
+    image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
+  - about: More info coming soon!
+    name: |-
+      George Cone
+      Assistant Bike Coach
+    image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
   - name: |-
       Chuck Chittick
       Assistant Bike Coach
@@ -354,11 +372,6 @@ coaches:
 
       Favorite Tri distance: Half Iron
     image: /img/270257757_4695855790462837_4918749746309742137_n.jpeg
-  - about: More info coming soon!
-    name: |-
-      George Cone
-      Assistant Bike Coach
-    image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
   - about: >-
       Jennifer Myers is a coach for the ATC Group Long Bikes.  
 
@@ -374,19 +387,6 @@ coaches:
       Jennifer Myers
       Assistant Bike Coach
     image: /img/img_8783-2.jpeg
-  - name: Urbano Hernandez Assistant Bike Coach
-    about: >-
-      Urbano is an Assistant Coach of the Atlanta Triathlon Club. He has raced
-      SPRINT, OLYMPIC and HALF- IRONMAN distances, several times. He also
-      participates in other races like running 5k, 10k, Half Marathons, Gravel
-      cycling and Endurance Obstacles Events like Tough Mudder.
-
-
-      He has been an active member of ATC since 2022 and he is also part of ENVE RACING TEAM SINCE 2023. He is currently Black Belt 1rst Dan in Ki-Zen-Ryu Karate International and Shotokan Karate International. He participated and won the Black Belt Championship Heavy Weight in one of the most prestigious tournaments in Puerto Rico and was inducted into the AMERICAN FEDERATION MARTIAL ART HALL OF FAME.
-
-
-      He currently lives in Canton, GA, has worked in Cardiovascular Medicine for the past 16 years and he is Certified Spanish Medical Interpreter. Other hobbies he enjoys are swimming and paddle boarding.
-    image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
       in physical education.  He is a USA Triathlon Level 1 certified coach. 
