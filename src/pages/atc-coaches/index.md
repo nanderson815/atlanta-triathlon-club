@@ -374,9 +374,7 @@ coaches:
       Jennifer Myers
       Assistant Bike Coach
     image: /img/img_8783-2.jpeg
-  - name: |-
-      Urbano Hernandez 
-      Assistant Bike Coach
+  - name: Urbano Hernandez Assistant Bike Coach
     about: >-
       Urbano is an Assistant Coach of the Atlanta Triathlon Club. He has raced
       SPRINT, OLYMPIC and HALF- IRONMAN distances, several times. He also
