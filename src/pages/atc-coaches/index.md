@@ -374,8 +374,20 @@ coaches:
       Jennifer Myers
       Assistant Bike Coach
     image: /img/img_8783-2.jpeg
-  - name: Urbano Hernandez Assistant Bike Coach
-    about: Coming Soon!
+  - name: |-
+      Urbano Hernandez 
+      Assistant Bike Coach
+    about: >-
+      Urbano is an Assistant Coach of the Atlanta Triathlon Club. He has raced
+      SPRINT, OLYMPIC and HALF- IRONMAN distances, several times. He also
+      participates in other races like running 5k, 10k, Half Marathons, Gravel
+      cycling and Endurance Obstacles Events like Tough Mudder.
+
+
+      He has been an active member of ATC since 2022 and he is also part of ENVE RACING TEAM SINCE 2023. He is currently Black Belt 1rst Dan in Ki-Zen-Ryu Karate International and Shotokan Karate International. He participated and won the Black Belt Championship Heavy Weight in one of the most prestigious tournaments in Puerto Rico and was inducted into the AMERICAN FEDERATION MARTIAL ART HALL OF FAME.
+
+
+      He currently lives in Canton, GA, has worked in Cardiovascular Medicine for the past 16 years and he is Certified Spanish Medical Interpreter. Other hobbies he enjoys are swimming and paddle boarding.
     image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
