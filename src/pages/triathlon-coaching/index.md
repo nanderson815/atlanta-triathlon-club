@@ -43,7 +43,7 @@ Ongoing threshold testing
 
 All Access Membership to Atlanta Tri Club.
 
-$250-$300/month + $100 Initiation
+$300/month + $100 Initiation
 
 - - -
 
