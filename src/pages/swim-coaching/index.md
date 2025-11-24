@@ -28,7 +28,7 @@ During the season, April thru September, we offer two to three coached group swi
 
 ## How swim coaching works:
 
-***WE ARE CURRENTLY NOT ACCEPTING APPLICATIONS!***
+***Returning in 2026!***
 
 Fill out our [online application](https://goo.gl/forms/NrTJmnJyUMrmSgJq1) so we schedule you with our swim coach. 
 
