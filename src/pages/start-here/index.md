@@ -4,7 +4,7 @@ title: Start Here
 subtitle: Welcome! Read below for a taste of ATC club life.
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
-imageOne: /img/img1.jpeg
+imageOne: /img/augusta-2.jpg
 imageTwo: /img/img_3037.jpg
 blurbs:
   - title: SWIMMING
