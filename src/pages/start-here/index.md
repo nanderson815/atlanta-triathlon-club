@@ -5,7 +5,7 @@ subtitle: Welcome! Read below for a taste of ATC club life.
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 imageOne: /img/img1.jpeg
-imageTwo: /img/img2.jpeg
+imageTwo: /img/img_3037.jpg
 blurbs:
   - title: SWIMMING
     desc: >-
