@@ -23,11 +23,11 @@ mainpitch:
     while having fun, you’re in the right place!
 intro:
   blurbs:
-    - image: /img/card1.jpeg
+    - image: /img/img_5904.jpg
       title: Learn More
       desc: Choose my membership
       link: /membership-options/
-    - image: /img/card2.jpeg
+    - image: /img/img_5056.jpg
       title: "#poweredbyenergylab"
       desc: Get personal coaching
       link: /triathlon-coaching
