@@ -23,7 +23,7 @@ mainpitch:
     while having fun, you’re in the right place!
 intro:
   blurbs:
-    - image: /img/im-70.3-lou.jpg
+    - image: /img/augusta-2.jpg
       title: Learn More
       desc: Choose my membership
       link: /membership-options/
