@@ -31,7 +31,7 @@ intro:
       title: "#poweredbyenergylab"
       desc: Get personal coaching
       link: /triathlon-coaching
-    - image: /img/card3.jpeg
+    - image: /img/img_2850.png
       title: "#poweredbyenergylab"
       desc: Swim lessons
       link: swim-coaching
