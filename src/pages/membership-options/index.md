@@ -5,7 +5,7 @@ subtitle: "All memberships include #atclove"
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
 imageOne: /img/image1.jpeg
-imageTwo: /img/image2.jpeg
+imageTwo: /img/img_8193.jpg
 tiers:
   - title: All Access Member
     price: $75
