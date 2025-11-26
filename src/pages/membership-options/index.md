@@ -4,7 +4,7 @@ title: Membership Options
 subtitle: "All memberships include #atclove"
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
-imageOne: /img/image1.jpeg
+imageOne: /img/522722460_2748961398640838_7026084756429118464_n.jpg
 imageTwo: /img/img_8193.jpg
 tiers:
   - title: All Access Member
