@@ -123,7 +123,7 @@ coaches:
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
   - name: |-
       Rosie Belden
-      Co-Head OWS Coach
+      Co-Head OWS & Pool Coach
     about: >-
       Rosemary 'Rosie' Belden has been a water enthusiast since she was young.
       She grew up water skiing with her grandparents on Lake Austin and swimming
