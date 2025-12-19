@@ -23,27 +23,6 @@ coaches:
 
       Tim has competed in endurance sports since 2006. He brings his 16 years of experience in coaching to inspire, motivate and help others achieve their goals.
     image: /img/tim.jpeg
-  - about: >-
-      Nicole is an assistant Coach of the Atlanta Triathlon Club. She is also a
-      One on One Coach with EnergyLab and holds USAT Level 1 Certification, USMS
-      Level 1 and Level 2 Certification and RRCA Level 1 Certification. She
-      enjoys her positions wherever needed in all three sport disciplines. 
-
-
-      She has participated in and trained for all triathlon distances, including the newer sport of SwimRun. She has been involved in triathlon and Atlanta Tri Club since 2014. Her favorite distance so far is the Half Ironman distance. She loves the intense training schedule of long course racing and filling every free moment with triathlon related events.
-
-
-      Nicole is especially adept at lending her coaching approach to adult beginner triathletes. As an adult onset athlete herself, she has a unique and effective vision of the adult learning process and the ability to help the coached athlete break down past performance barriers and enjoy the triathlon experience.
-
-
-      She has also participated in all distances of road and trail running since 2011, including many half and full marathons and most recently the UltraMarathon distance of 50k. SpaceCoast Marathon, the Atlanta Marathon, the Disney Dopey Challenge (a multi day, multi race event), the Rock and Roll Savannah Marathon, Warrior Dash, Firebreather, Publix Half Marathon, Hotlanta Half Marathon, Alien Half Marathon, JG Half Marathon, Thrill in the Hills Half Marathon and Red Top Rumble 11.5 mile are just a few of her favorites.
-
-
-      Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
-    name: |
-      Nicole Chittick
-      OWS, Bike, Run Assistant Coach
-    image: /img/71848045_2412308822150878_8986353691099398144_n.jpeg
   - name: |-
       Jamal Lacour
       Energy Lab Indoor Cycling Instructor
@@ -52,7 +31,7 @@ coaches:
   - name: |-
       Tim Newberg
       Energy Lab Indoor Cycling Instructor
-      Head Track Coach
+      Co-Head Track Coach
     about: >-
       Tim is a current member of Team USA for USAT Triathlon recently competing
       in 2016 ITU World Championships for both the Sprint and Olympic distance
@@ -66,7 +45,7 @@ coaches:
     image: /img/1044731_559981280707745_482795150_n.jpeg
   - name: |-
       Sara Scott
-      Energy Lab Indoor Cycling Instructor 
+      Bike Coach
     about: >-
       Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
       helping individuals of all experience levels achieve their goals. Sara
@@ -130,10 +109,9 @@ coaches:
       Karla Luetzow
       Swim Coach
     image: /img/karla-luetzow.jpeg
-  - name: |-
+  - name: |
       Sheryl Shectman
-      Swim Coach
-      Co-Head OWS Coach
+      OWS Coach
     about: >-
       I’m an assistant swim coach for the last several years. I grew up
       swimming; learned to swim before i could walk. I am an Ironman finisher, 4
@@ -165,7 +143,7 @@ coaches:
     image: /img/img_9534.jpg
   - name: |-
       Emily Saugstad
-      Co-Head OWS Coach
+      Co-Head OWS & Pool Coach
     image: /img/emily-saugstad.jpg
     about: >-
       Emily is an assistant coach for the ATC Open Water Swims.  
@@ -189,30 +167,13 @@ coaches:
       motto in swimming is, “Work smarter not harder”.
     name: |-
       Debbie James
-      OWS Assistant Coach
+      OWS & Pool Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
   - about: More info coming soon!
     name: |-
       Jaime O'Keeffe
-      OWS Assistant Coach
+      OWS & Bike Coach
     image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
-  - name: |-
-      Stephanie Walker
-      OWS Assistant Coach
-    about: >-
-      Stephanie Walker has always loved swimming, running and cycling. She grew
-      up swimming in Girl Scout camps, riding miles through her home town, and
-      running with many of her track and field friends.
-
-
-      In 2011, she met her husband Scott while he was training for the Chicago Marathon and it inspired her to start long distance running. She went on compete in several half and full marathons, two full Ironman distance races, along with many Olympic distance races.
-
-
-      Since then, her love has grown from training to coaching. Stephanie became a USAT Level 1 Coach, Certified Personal Trainer, and has studied Nutrition Coaching.
-
-
-      Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
-    image: /img/steph-walker-1.jpeg
   - about: More info coming soon!
     name: |-
       Joedy Price
@@ -249,11 +210,11 @@ coaches:
       Triathlon club in all her endeavors.
     name: |-
       Ilana Katz
-      Assistant Run Coach
+      Run Coach
     image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
   - name: |-
       Allison Leppke
-      Assistant Run Coach
+      Run Coach
     about: >-
       Allison has been with ATC since 2012 and coached with ATC over 5 years.
       Allison competed in swimming from age 6 through college. After moving to
@@ -269,8 +230,8 @@ coaches:
     image: /img/fullsizerender.jpg
   - name: |-
       Jerome Feuiltault
-      Head Tuesday Night Run Coach
-      Head Thursday Night Bike Hill Repeats Coach
+      Co-Head Tuesday Night Run Coach
+      Co-Head Thursday Night Bike Hill Repeats Coach
     about: An endurance athlete for over 20 years, Jerome is passionate about the
       triathlon community and the sport and is dedicated to enhancing the
       experiences of all who participate. A Canuck by birth, Jerome has been in
@@ -293,13 +254,11 @@ coaches:
       As someone who took up running as an adult, Lucy takes pride in helping others who are also starting from scratch. She loves witnessing athletes discover their competitive spirit and push themselves to achieve their full potential. Lucy believes that while crossing the finish line is an individual accomplishment, the journey to get there is a collective effort. She enjoys running along the Chattahoochee in her free time and is always eager to share her journey from a non-runner to an endurance athlete with others!
     name: |-
       Lucy Olliff
-      Co-Head Tuesday Night Run Coach
       Co-Head Track Coach
     image: /img/lucy-atc-pic-.jpeg
   - name: |
       Steve Simonsen
-      Co-Head Thursday Night Bike Hill Repeats Coach
-      Assistant Bike Coach
+      Bike Coach
     image: /img/2017-02-01-green-gobbler-race-pic.jpg
     about: >-
       Steve has been competing in triathlons and bicycling races for over 10
@@ -312,7 +271,7 @@ coaches:
       Steve has been part of ATC for five years, and is steadfast in believing Thursday Night Hill Repeats are the best workout out there. Outside of ATC Steve is a dad to two teens, husband, and a helluva engineer.
   - name: |-
       Rogue Hale
-      Co-Head Bike Coach
+      Co-Head Thursday Night Bike Hill Repeats Coach
     about: >-
       Rogue has been a member of the Atlanta Triathlon Coaching staff since
       2017.  He is a USAT Level 1 Certified coach and attended Training Peaks
@@ -342,7 +301,9 @@ coaches:
 
 
       As soon as she finished her first sprint race, she knew she needed community to learn from and joined ATC in 2018. Over the ensuing years she’s completed sprint, Olympic and 70.3 distance races as well as 1 marathon. Her preferred race is Olympic distance. Although finding her on the roll call for races these days is challenging since she mostly prefers cheering and encouraging others.
-  - name: Urbano Hernandez Assistant Bike Coach
+  - name: |-
+      Urbano Hernandez 
+      Co-Head Bike Coach
     about: >-
       Urbano is an Assistant Coach of the Atlanta Triathlon Club. He has raced
       SPRINT, OLYMPIC and HALF- IRONMAN distances, several times. He also
@@ -358,20 +319,8 @@ coaches:
   - about: More info coming soon!
     name: |-
       George Cone
-      Assistant Bike Coach
+      Bike Coach
     image: /img/67281428_10217366357704134_8930371584124780544_n.jpeg
-  - name: |-
-      Chuck Chittick
-      Assistant Bike Coach
-    about: >-
-      After joining a gym to get fit, Chuck became interested in Mountain Biking
-      . He quickly progressed to road cycling and then eventually to triathlon.
-       After joining ATC, Chuck completed many century rides and recently
-      finished Ironman Chattanooga. 
-
-
-      Favorite Tri distance: Half Iron
-    image: /img/270257757_4695855790462837_4918749746309742137_n.jpeg
   - about: >-
       Jennifer Myers is a coach for the ATC Group Long Bikes.  
 
@@ -385,7 +334,7 @@ coaches:
       Enjoys good food, traveling, SUP-ing and spending time with favorite pup, Capone
     name: |-
       Jennifer Myers
-      Assistant Bike Coach
+      Bike Coach
     image: /img/img_8783-2.jpeg
   - about: >-
       Brad has a Bachelor’s Degree in exercise physiology and a Master’s Degree
