@@ -195,19 +195,6 @@ coaches:
       \
 
       When not running (or occasionally swimming and cycling), Garrett enjoys spending quality time with his wife, Amanda, exploring new destinations—whether for marathons or relaxing getaways—and hosting game nights with friends.
-  - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
-      Level I triathlon Coach, and has accomplished multiple endurance events
-      herself. Her portfolio enables her to understand the athletes she works
-      with at all levels.  She is dedicated to train athletes in their
-      individual  raining and nutrition goals such as  optimal health, fitness
-      and performance through balanced nutrition, proper sport fueling and
-      hydration, and personalized training plans with ongoing support, within a
-      maintainable healthy lifestyle. Ilana supports  Energy Lab and the Atlanta
-      Triathlon club in all her endeavors.
-    name: |-
-      Ilana Katz
-      Run Coach
-    image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
   - name: |-
       Allison Leppke
       Run Coach
@@ -224,6 +211,19 @@ coaches:
 
       In 2023 Allison transitioned to run coaching and has enjoyed the move from the pool deck to sharing run miles and connecting with her ATC teammates.
     image: /img/fullsizerender.jpg
+  - about: Ilana is a Sports Certified Registered Dietitian, USA Triathlon Certified
+      Level I triathlon Coach, and has accomplished multiple endurance events
+      herself. Her portfolio enables her to understand the athletes she works
+      with at all levels.  She is dedicated to train athletes in their
+      individual  raining and nutrition goals such as  optimal health, fitness
+      and performance through balanced nutrition, proper sport fueling and
+      hydration, and personalized training plans with ongoing support, within a
+      maintainable healthy lifestyle. Ilana supports  Energy Lab and the Atlanta
+      Triathlon club in all her endeavors.
+    name: |-
+      Ilana Katz
+      Run Coach
+    image: /img/12046745_10153667750909314_1264246671803246703_n.jpeg
   - name: |-
       Jerome Feuiltault
       Co-Head Tuesday Night Run & Co-Head Thursday Night Bike Hill Repeats Coach
