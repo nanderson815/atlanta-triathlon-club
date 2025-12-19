@@ -350,4 +350,9 @@ coaches:
       Brad Smith
       Para-Tri Coach
     image: /img/11227648_10155716158885389_1163296090381381703_n.jpeg
+  - name: |-
+      Patrick Zinn
+      Co-Head Tuesday Night Run Coach
+    about: Coming Soon!
+    image: /img/42906147_10109144142332310_2154654280584265728_n.jpg
 ---
