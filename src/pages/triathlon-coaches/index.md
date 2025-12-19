@@ -22,38 +22,4 @@ coaches:
 
 
       Tim has competed in endurance sports since 2006. He brings his 16 years of experience in coaching to inspire, motivate and help others achieve their goals.
-  - name: Nicole Chittick
-    image: /img/nicole-chittick.jpg
-    about: >-
-      Nicole is an assistant Coach of the Atlanta Triathlon Club. She is also a
-      One on One Coach with EnergyLab and holds USAT Level 1 Certification, USMS
-      Level 1 and Level 2 Certification and RRCA Level 1 Certification. She
-      enjoys her positions wherever needed in all three sport disciplines. 
-
-
-      She has participated in and trained for all triathlon distances, including the newer sport of SwimRun. She has been involved in triathlon and Atlanta Tri Club since 2014. Her favorite distance so far is the Half Ironman distance. She loves the intense training schedule of long course racing and filling every free moment with triathlon related events.
-
-
-      Nicole is especially adept at lending her coaching approach to adult beginner triathletes. As an adult onset athlete herself, she has a unique and effective vision of the adult learning process and the ability to help the coached athlete break down past performance barriers and enjoy the triathlon experience.
-
-
-      She has also participated in all distances of road and trail running since 2011, including many half and full marathons and most recently the UltraMarathon distance of 50k. SpaceCoast Marathon, the Atlanta Marathon, the Disney Dopey Challenge (a multi day, multi race event), the Rock and Roll Savannah Marathon, Warrior Dash, Firebreather, Publix Half Marathon, Hotlanta Half Marathon, Alien Half Marathon,JG Half Marathon, Thrill in the Hills Half Marathon and Red Top Rumble 11.5 mile are just a few of her favorites.
-
-
-      Nicole is excited to bring her experience, enthusiasm and commitment to assist you in achieving a successful, productive and enjoyable triathlon season.
-  - about: >-
-      Stephanie Walker has always loved swimming, running and cycling. She grew
-      up swimming in Girl Scout camps, riding miles through her home town, and
-      running with many of her track and field friends.
-
-
-      In 2011, she met her husband Scott while he was training for the Chicago Marathon and it inspired her to start long distance running. She went on compete in several half and full marathons, two full Ironman distance races, along with many Olympic distance races.
-
-
-      Since then, her love has grown from training to coaching. Stephanie became a USAT Level 1 Coach, Certified Personal Trainer, and has studied Nutrition Coaching.
-
-
-      Stephanie has a passion for fitness and sharing her experience with others. She is dedicated to helping others achieve their goals and making training a fun and social experience!
-    name: Stephanie Walker
-    image: /img/steph-walker-2.jpeg
 ---
