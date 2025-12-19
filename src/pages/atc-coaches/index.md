@@ -43,28 +43,24 @@ coaches:
 
       Tim has been leading spin classes at Energy Lab since 2012 and savors the opportunity to get the most out of each workout. He also thoroughly enjoys coaching cross country and track-and-field at the Atlanta Girls’ School, helping each girl embrace the AGS motto of ‘be your best self’.
     image: /img/1044731_559981280707745_482795150_n.jpeg
-  - name: |-
-      Sara Scott
-      Bike Coach
-    about: >-
-      Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
-      helping individuals of all experience levels achieve their goals. Sara
-      grew up playing soccer, tennis and golf, and started running as a way to
-      socialize outside of work when she moved to Fort Worth, Texas after
-      college. It was while on vacation in St Croix, she happened to witness the
-      famous 70.3 race held there, and somehow found the audacity to register
-      for the Chattanooga Olympic triathlon, though not owning a bike or having
-      any idea how to actually train (or even swim). It was a delightful and
-      harrowing experience, which she immediately decided that she would do it
-      again the following year, and soon found herself at an Atlanta Triathlon
-      Club Info Session. 
+  - about: >-
+      Lucy has been a member of ATC since 2021 and will embark on her first year
+      of coaching in 2025. Growing up in an active family, Lucy has been
+      involved in sports from a young age. Her journey into running began in
+      2018 after graduating college, when she couldn’t afford a gym membership.
+      What started as a cheap way to stay fit quickly turned into a passion.
+      Despite initially struggling to run for more than 10 minutes, she signed
+      up for her first 5k and never looked back!
 
 
-      Sara has completed five Ironman Distance races, including Challenge Roth, and dozens of Half, Olympic and Sprint distance events, and she did return to tackle that St Croix race. As an active member of the Atlanta Triathlon Club, she joined the coaching staff as a leader for outdoor long rides, managed club social events for a couple seasons, and also leads indoor cycling as an instructor at Energy Lab. 
+      Joining the club in 2021, Lucy was immediately captivated by the challenging and exhilarating nature of triathlons. Since then, she has completed two 70.3 Ironman races and numerous road races, ranging from 5k to full marathons.
 
 
-      In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
-    image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
+      As someone who took up running as an adult, Lucy takes pride in helping others who are also starting from scratch. She loves witnessing athletes discover their competitive spirit and push themselves to achieve their full potential. Lucy believes that while crossing the finish line is an individual accomplishment, the journey to get there is a collective effort. She enjoys running along the Chattahoochee in her free time and is always eager to share her journey from a non-runner to an endurance athlete with others!
+    name: |-
+      Lucy Olliff
+      Co-Head Track Coach
+    image: /img/lucy-atc-pic-.jpeg
   - name: |-
       Mary Mudge
       Head Swim Coach
@@ -109,18 +105,6 @@ coaches:
       Karla Luetzow
       Swim Coach
     image: /img/karla-luetzow.jpeg
-  - name: |
-      Sheryl Shectman
-      OWS Coach
-    about: >-
-      I’m an assistant swim coach for the last several years. I grew up
-      swimming; learned to swim before i could walk. I am an Ironman finisher, 4
-      time HIM finisher and 1 time marathon finisher. I’m training for New York
-      Marathon in 2017.
-
-
-      I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
-    image: /img/27459059_743530569183941_605898255142205801_n.jpeg
   - name: |-
       Rosie Belden
       Co-Head OWS & Pool Coach
@@ -169,6 +153,18 @@ coaches:
       Debbie James
       OWS & Pool Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
+  - name: |
+      Sheryl Shectman
+      OWS Coach
+    about: >-
+      I’m an assistant swim coach for the last several years. I grew up
+      swimming; learned to swim before i could walk. I am an Ironman finisher, 4
+      time HIM finisher and 1 time marathon finisher. I’m training for New York
+      Marathon in 2017.
+
+
+      I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
+    image: /img/27459059_743530569183941_605898255142205801_n.jpeg
   - about: More info coming soon!
     name: |-
       Jaime O'Keeffe
@@ -238,37 +234,6 @@ coaches:
       Atlanta for over 15 years and giving back to this community since joining
       ATC in 2010.
     image: /img/13775901_506617006208633_4879532389543617675_n.jpeg
-  - about: >-
-      Lucy has been a member of ATC since 2021 and will embark on her first year
-      of coaching in 2025. Growing up in an active family, Lucy has been
-      involved in sports from a young age. Her journey into running began in
-      2018 after graduating college, when she couldn’t afford a gym membership.
-      What started as a cheap way to stay fit quickly turned into a passion.
-      Despite initially struggling to run for more than 10 minutes, she signed
-      up for her first 5k and never looked back!
-
-
-      Joining the club in 2021, Lucy was immediately captivated by the challenging and exhilarating nature of triathlons. Since then, she has completed two 70.3 Ironman races and numerous road races, ranging from 5k to full marathons.
-
-
-      As someone who took up running as an adult, Lucy takes pride in helping others who are also starting from scratch. She loves witnessing athletes discover their competitive spirit and push themselves to achieve their full potential. Lucy believes that while crossing the finish line is an individual accomplishment, the journey to get there is a collective effort. She enjoys running along the Chattahoochee in her free time and is always eager to share her journey from a non-runner to an endurance athlete with others!
-    name: |-
-      Lucy Olliff
-      Co-Head Track Coach
-    image: /img/lucy-atc-pic-.jpeg
-  - name: |
-      Steve Simonsen
-      Bike Coach
-    image: /img/2017-02-01-green-gobbler-race-pic.jpg
-    about: >-
-      Steve has been competing in triathlons and bicycling races for over 10
-      years. He's raced on- and off-road triathlons up to the 70.3 distance, and
-      in bike events including road, TT, gravel, and mountain bike races. Steve
-      is fascinated by the technological side of cycling and is forever
-      tinkering with his bikes to eke out any additional advantage.
-
-
-      Steve has been part of ATC for five years, and is steadfast in believing Thursday Night Hill Repeats are the best workout out there. Outside of ATC Steve is a dad to two teens, husband, and a helluva engineer.
   - name: |-
       Rogue Hale
       Co-Head Thursday Night Bike Hill Repeats Coach
@@ -316,6 +281,41 @@ coaches:
 
       He currently lives in Canton, GA, has worked in Cardiovascular Medicine for the past 16 years and he is Certified Spanish Medical Interpreter. Other hobbies he enjoys are swimming and paddle boarding.
     image: /img/459744517_10159783067775755_5688533836209265303_n.jpg
+  - name: |
+      Steve Simonsen
+      Bike Coach
+    image: /img/2017-02-01-green-gobbler-race-pic.jpg
+    about: >-
+      Steve has been competing in triathlons and bicycling races for over 10
+      years. He's raced on- and off-road triathlons up to the 70.3 distance, and
+      in bike events including road, TT, gravel, and mountain bike races. Steve
+      is fascinated by the technological side of cycling and is forever
+      tinkering with his bikes to eke out any additional advantage.
+
+
+      Steve has been part of ATC for five years, and is steadfast in believing Thursday Night Hill Repeats are the best workout out there. Outside of ATC Steve is a dad to two teens, husband, and a helluva engineer.
+  - name: |-
+      Sara Scott
+      Bike Coach
+    about: >-
+      Sara Scott is a USA Triathlon Level 1 Certified Coach, with a passion for
+      helping individuals of all experience levels achieve their goals. Sara
+      grew up playing soccer, tennis and golf, and started running as a way to
+      socialize outside of work when she moved to Fort Worth, Texas after
+      college. It was while on vacation in St Croix, she happened to witness the
+      famous 70.3 race held there, and somehow found the audacity to register
+      for the Chattanooga Olympic triathlon, though not owning a bike or having
+      any idea how to actually train (or even swim). It was a delightful and
+      harrowing experience, which she immediately decided that she would do it
+      again the following year, and soon found herself at an Atlanta Triathlon
+      Club Info Session. 
+
+
+      Sara has completed five Ironman Distance races, including Challenge Roth, and dozens of Half, Olympic and Sprint distance events, and she did return to tackle that St Croix race. As an active member of the Atlanta Triathlon Club, she joined the coaching staff as a leader for outdoor long rides, managed club social events for a couple seasons, and also leads indoor cycling as an instructor at Energy Lab. 
+
+
+      In addition to Level 1 USAT Coach, she also holds a 200-hour Yoga Teacher Training Certification. After 20+ years of innovation experience within the food & beverage industry, Sara has evolved from the corporate world and into her passion of coaching and lifelong learning. She is currently enrolled in Athlete-Specific Yoga Teacher Training, as is looking forward to completing her Health and Wellness Coaching certification training in 2021. Sara lives on the south side of Atlanta and also escapes to the North GA mountains as often as possible with her bikes, her husband Dusty & their hounds, Cooper & Banjo.
+    image: /img/37971821_10156387806949566_6490083205054464000_n.jpeg
   - about: More info coming soon!
     name: |-
       George Cone
