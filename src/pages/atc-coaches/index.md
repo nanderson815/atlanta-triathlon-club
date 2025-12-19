@@ -153,6 +153,11 @@ coaches:
       Debbie James
       OWS & Pool Coach
     image: /img/18557383_10155296251629547_3592520646099720223_n.jpeg
+  - about: More info coming soon!
+    name: |-
+      Jaime O'Keeffe
+      OWS & Bike Coach
+    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
   - name: |
       Sheryl Shectman
       OWS Coach
@@ -165,11 +170,6 @@ coaches:
 
       I enjoy hanging out with my dogs, photography, traveling the world, and being a super Sherpa.
     image: /img/27459059_743530569183941_605898255142205801_n.jpeg
-  - about: More info coming soon!
-    name: |-
-      Jaime O'Keeffe
-      OWS & Bike Coach
-    image: /img/50606682_967744466762549_6876289533348937728_n.jpeg
   - about: More info coming soon!
     name: |-
       Joedy Price
