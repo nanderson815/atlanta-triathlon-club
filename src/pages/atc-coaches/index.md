@@ -226,8 +226,7 @@ coaches:
     image: /img/fullsizerender.jpg
   - name: |-
       Jerome Feuiltault
-      Co-Head Tuesday Night Run Coach
-      Co-Head Thursday Night Bike Hill Repeats Coach
+      Co-Head Tuesday Night Run & Co-Head Thursday Night Bike Hill Repeats Coach
     about: An endurance athlete for over 20 years, Jerome is passionate about the
       triathlon community and the sport and is dedicated to enhancing the
       experiences of all who participate. A Canuck by birth, Jerome has been in
