@@ -15,6 +15,8 @@ sponsors:
     logo: /img/core_onecolor_logo.jpg
   - link: https://www.georgiasportschiropractic.com
     logo: /img/gsc_color_3stack.png
+  - link: https://hyperice.com
+    logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
     logo: /img/cidtfho1_400x400.jpg
   - link: https://www.intrepidperformance.com/
