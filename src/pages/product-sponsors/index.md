@@ -15,10 +15,6 @@ sponsors:
     logo: /img/core_onecolor_logo.jpg
   - link: https://www.georgiasportschiropractic.com
     logo: /img/gsc_color_3stack.png
-  - link: https://www.highland-yoga.com
-    logo: /img/highland-yoga-logo_edited.jpg.webp
-  - link: https://hyperice.com
-    logo: /img/hyperice_stacked_black.png
   - link: https://www.infinitnutrition.us
     logo: /img/cidtfho1_400x400.jpg
   - link: https://www.intrepidperformance.com/
@@ -28,16 +24,12 @@ sponsors:
     logo: /img/michelob_logo_trimmed.png
   - logo: /img/ee2f785a1d4c77e5bbf6446b9ae855d0.png
     link: https://millermorrishomes.kw.com
-  - logo: /img/copy-of-motionstabilty-3-1-1-.jpg
-    link: https://motionstability.com
   - link: http://onforlife.com/welcome-to-on-for-life/
     logo: /img/on_for_life_logo.jpg
   - link: https://www.orangemud.com/
     logo: /img/om.png
   - link: https://www.podiumms.com
     logo: /img/podiumlogo_large_jpg.jpg
-  - link: https://www.precisionhydration.com/us/en/
-    logo: /img/pfh-sig.png
   - logo: /img/2023-precision-logo.jpg
     link: https://www.precisionpt.org
   - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
@@ -46,8 +38,6 @@ sponsors:
     link: https://www.sbrsportsinc.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
-  - link: https://www.tyr.com
-    logo: /img/unknown.png
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
   - link: https://teamzealios.com
