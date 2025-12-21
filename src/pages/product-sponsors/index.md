@@ -36,10 +36,10 @@ sponsors:
     link: https://www.precisionpt.org
   - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
     link: https://www.roadrunnersports.com
-  - logo: /img/triswim_logo.jpg
-    link: https://www.sbrsportsinc.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
+  - logo: /img/triswim_logo.jpg
+    link: https://www.sbrsportsinc.com
   - link: https://www.xterrawetsuits.com/
     logo: /img/xterra-logo.jpeg
   - link: https://teamzealios.com
