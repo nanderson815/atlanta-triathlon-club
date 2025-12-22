@@ -166,7 +166,7 @@ const Footer = class extends React.Component {
                 >
                   Our Studio
                 </h3>
-                <p className="mb-0">1167A Zonolite Place NE Atlanta, GA 3036</p>
+                <p className="mb-0">1167A Zonolite Place NE Atlanta, GA 30306</p>
               </div>
             </div>
           </div>
