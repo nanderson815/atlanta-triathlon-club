@@ -113,16 +113,11 @@ export const EnergyLabQuery = graphql`
         backgroundImage {
           childImageSharp {
             gatsbyImageData(quality: 100, width: 3000)
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
           }
         }
         accentimage {
           childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(quality: 100, width: 1200)
           }
         }
       }

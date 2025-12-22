@@ -8,8 +8,11 @@ export default function BackgroundImage(props) {
 
   let translatedImage;
 
+  // Handle gatsbyImageData format (new API)
   if (img?.images) {
     translatedImage = convertToBgImage(img);
+  } else if (img?.childImageSharp?.gatsbyImageData) {
+    translatedImage = convertToBgImage(img.childImageSharp.gatsbyImageData);
   }
 
   const pageStyle = {
@@ -32,22 +35,18 @@ export default function BackgroundImage(props) {
           <div style={{ backgroundImage: `url(${img})`, minHeight: height }}>
             {children}
           </div>
-        ) : img?.childImageSharp ? (
+        ) : translatedImage ? (
           <BGImage
             height={height}
             style={pageStyle}
-            fluid={img?.childImageSharp?.fluid}
-          >
-            {children}
-          </BGImage>
-        ) : (
-          <BGImage
-            height={height}
-            style={{ minHeight: height, objectFit: "contain" }}
             {...translatedImage}
           >
             {children}
           </BGImage>
+        ) : (
+          <div style={{ minHeight: height }}>
+            {children}
+          </div>
         )}
         <div
           style={{

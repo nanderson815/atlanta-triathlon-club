@@ -238,16 +238,11 @@ export const pageQuery = graphql`
         image {
           childImageSharp {
             gatsbyImageData(quality: 90, width: 1800)
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
           }
         }
         accentimage {
           childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(quality: 100, width: 1200)
           }
         }
         heroimage {
