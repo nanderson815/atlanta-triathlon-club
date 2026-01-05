@@ -236,7 +236,14 @@ coaches:
   - name: |-
       Patrick Zinn
       Co-Head Tuesday Night Run Coach
-    about: Coming Soon!
+    about: >-
+      Patrick grew up in Maryland swimming competitively from an early age.  He
+      gave it up in high school to play Lacrosse before an absence from sports
+      through his 20's.  In his early 30s he took up running, and after a couple
+      of years sought a new challenge in Triathlon.  
+
+
+      In 2014 Patrick bought a road bike and competed in his first Sprint Triathlon.  Hooked ever since, he has competed in several Sprint, Olympic, half and full Ironmans. As a returning addition to the coaching team, he is eager to help other athletes reach their goals at the Tuesday Night Run.
     image: /img/42906147_10109144142332310_2154654280584265728_n.jpg
   - name: |-
       Rogue Hale
