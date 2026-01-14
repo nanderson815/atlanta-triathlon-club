@@ -2,7 +2,7 @@
 templateKey: small-group-coaching
 title: Small Group Coaching Program
 subtitle: Let us help you train for your first or next race!
-backgroundImage: /img/img_4102.jpg
+backgroundImage: /img/screenshot-2026-01-14-at-6.33.53 pm.jpg
 accentimage: /img/topography.png
 button:
   text: Apply Now
@@ -14,9 +14,9 @@ A coach isn't just for experienced athletes. In fact, beginners are the group mo
 
 Start by applying today so we can learn more about your goals. The price for the membership is a $150/month.
 
-This season we will offer two target races. The GA Peach Women's Sprint & TBD 2nd race. We will offer traning and a race for both men and women. Women starting triathlon will have the opportunity in racing a women’s only sprint.                                               
+This season we will offer two target races. The GA Peach Women's Sprint & The Don Carter State Park Sprint Triathlons. We will offer traning and a race for both men and women. Women starting triathlon will have the opportunity in racing a women’s only sprint.                                               
 
-Our next round of four month coaching starts on TBD.
+Our next round of four month coaching starts on Monday, March 23, 2026.
 
 * ### Cost Effective Coaching Solution
 * ### Workout designed by your coach
