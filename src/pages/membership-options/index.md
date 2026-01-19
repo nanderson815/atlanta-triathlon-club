@@ -8,7 +8,7 @@ imageOne: /img/522722460_2748961398640838_7026084756429118464_n.jpg
 imageTwo: /img/img_8193.jpg
 tiers:
   - title: All Access Member
-    price: $75
+    price: $80
     desc: |-
       **Most popular membership**
 
@@ -24,7 +24,7 @@ tiers:
 
       **Set and update your power and pace zones**
   - title: Outdoor Member
-    price: $35
+    price: $50
     desc: |-
       **All outdoor workouts**
 
@@ -44,7 +44,7 @@ tiers:
 
       Mock triathlons
   - title: Social Member
-    price: $10
+    price: $15
     desc: |-
       **Stay engaged from afar**
 
