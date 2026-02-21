@@ -17,7 +17,4 @@ coaches:
   - name: John Rutledge
     about: More info coming soon!
     image: /img/img_6256-2.jpg
-  - name: Ron Teed
-    about: More info coming soon!
-    image: /img/img_6257-2.jpg
 ---
