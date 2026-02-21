@@ -24,6 +24,12 @@ To promote health and fitness in Atlanta through the sport of triathlon, provide
 * 2019 ATC added to ATC Partners, LLC
 
   * Tim Myers
+* 2020 ATC removed to ATC Partners, LLC
+
+  * Bethany Rutledge
+* 2026 ATC removed to ATC Partners, LLC
+
+  * Ron Teed
 
 ### Energy Lab Partners
 
@@ -36,3 +42,6 @@ To promote health and fitness in Atlanta through the sport of triathlon, provide
 * 2019 EL added to Energy Lab Partners, LLC
 
   * Tim Myers
+* 2020 EL removed to Energy Lab Partners, LLC
+
+  * Bethany Rutledge
