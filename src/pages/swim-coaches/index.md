@@ -16,5 +16,5 @@ coaches:
 
 
       Mary has coached all ages and abilities from true beginners to college athletes and will bring her years of experience in the pool to each practice by helping with form, pacing and triathlon specific swim tips and tricks. She hopes to create fun, motivating and productive sessions and is excited to bring her love for the sport of swimming to her fellow triathletes in ATC in her role as one of the head swim coaches at Washington Park.
-    image: /img/img_0188.jpeg
+    image: /img/img_2795.jpg
 ---
