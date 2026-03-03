@@ -4,5 +4,8 @@ title: Energy Lab 1:1 Swim Coaches
 subtitle: ""
 backgroundImage: /img/ATC-repeating-background_Artboard-2.png
 accentimage: /img/topography.png
-coaches: []
+coaches:
+  - name: Mary Mudge
+    about: Coming Soon!
+    image: /img/img_0188.jpeg
 ---
