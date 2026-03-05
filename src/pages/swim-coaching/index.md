@@ -38,7 +38,7 @@ Together, you’ll coordinate a best date/time for your lesson. Typically weekda
 
 Sessions are 60' long and include:
 
-Above water and underwater video taping,
+Above water video taping,
 
 • Immediate on-site stroke analysis and video review,
 
@@ -48,9 +48,9 @@ Above water and underwater video taping,
 
 • Video review and custom swim drills e-mailed within 1-week.
 
-Location: N/A
+Location: Washington Park Natatorium
 
-Cost: $165/person/1st session. $125/person/Follow-up sessions   
+Cost: $165/person. $200/group, 2-3 swimmers.  
 
 - - -
 
