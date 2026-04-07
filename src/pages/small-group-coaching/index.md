@@ -2,7 +2,7 @@
 templateKey: small-group-coaching
 title: Small Group Coaching Program
 subtitle: Let us help you train for your first or next race!
-backgroundImage: /img/screenshot-2026-01-14-at-6.33.53 pm.jpg
+backgroundImage: /img/img_8538.jpg
 accentimage: /img/topography.png
 button:
   text: Apply Now
