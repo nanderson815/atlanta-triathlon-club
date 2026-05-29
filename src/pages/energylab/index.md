@@ -11,6 +11,36 @@ Energy Lab helps athletes of all levels learn, train, and perform their best. Ou
 
 We offer endurance sports coaching, swim instruction, and group training classes. If you want to improve yourself while having fun, you’re in the right place!
 
+
+
+- - -
+
+## Sweat Testing
+
+
+
+
+
+Sweat testing helps you understand how much sodium you lose when you sweat so you can replace what your body needs and perform at your best. It's a simple test with powerful results for athletes of all levels.
+
+<h2>
+  <a href="mailto:info@energylabatl.com?subject=EnergyLab Inquiry">
+    <center>Email Now</center>
+  </a>
+</h2>
+
+- - -
+
+## VO2 and RMR Testing
+
+VO2 and RMR testing give you valuable insights into your aerobic fitness and how many calories your body burns at rest. These results help us create a training and nutrition plan tailored to your goals.
+
+<h2>
+  <a href="mailto:info@energylabatl.com?subject=EnergyLab Inquiry">
+    <center>Email Now</center>
+  </a>
+</h2>
+
 - - -
 
 ## Endurance Sports Coaching
@@ -20,9 +50,9 @@ Our certified coaches help athletes of all levels from first time sprint finishe
 We are now accepting applications. Filling out the application is your first step towards coaching. Afterward, a coach will call you to discuss your goals and find the best fit.
 
 <h2>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScmwBUGWn57GTL8E9yFfI4br5H7BTPfpTDPfQfO19VJ3h6aDw/viewform">
-<center>Apply Now</center>
-</a>
+  <a href="mailto:info@energylabatl.com?subject=EnergyLab Inquiry">
+    <center>Email Now</center>
+  </a>
 </h2>
 
 - - -
@@ -32,9 +62,9 @@ We are now accepting applications. Filling out the application is your first st
 Let us help you make the next step in your swimming! Our coaches work with brand new swimmers and experienced swimmers who want to take their swim to the next level.
 
 <h2>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTiqjb6UxYxHCOE-4P5jo7IvrjfV_5k9UJQdfWW5JdXrwwnw/closedform">
-<center>Apply Now</center>
-</a>
+  <a href="mailto:info@energylabatl.com?subject=EnergyLab Inquiry">
+    <center>Email Now</center>
+  </a>
 </h2>
 
 - - -
