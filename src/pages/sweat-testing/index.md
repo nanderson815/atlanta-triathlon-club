@@ -1,7 +1,7 @@
 ---
 templateKey: energylab
 title: Sweat Testing
-backgroundImage: /img/swimcoaching.jpeg
+backgroundImage: /img/sweattesting.png
 accentimage: /img/topography.png
 ---
 ### Sweat Testing
