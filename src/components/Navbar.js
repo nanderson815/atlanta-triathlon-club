@@ -147,7 +147,7 @@ const Navbar = class extends React.Component {
                   <Link to="/sweat-testing" className="navbar-item">
                     Sweat Testing
                   </Link>
-                  <Link to="vo2-rmr-testing" className="navbar-item">
+                  <Link to="/vo2-rmr-testing" className="navbar-item">
                     VO2 & RMR Testing
                   </Link>
                   <Link to="/swim-coaching" className="navbar-item">
