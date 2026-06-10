@@ -685,3 +685,18 @@ collections:
                 { label: "Text", name: "text", widget: "string", required: false },
                 { label: "Link", name: "link", widget: "string", required: false }
               ]}
+      - file: "src/pages/vo2-rmr-testing/index.md"
+        label: "VO2 & RMR Testing"
+        name: "vo2-rmr-testing"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "energylab" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
+          - { label: "Background Image", name: "backgroundImage", widget: "image" }
+          - { label: "Accent Image", name: "accentimage", widget: image }
+          - { label: "Body", name: "body", widget: markdown }
+          - { label: "Button", name: "button", widget: object, required: false,
+              fields: [
+                { label: "Text", name: "text", widget: "string", required: false },
+                { label: "Link", name: "link", widget: "string", required: false }
+              ]}
