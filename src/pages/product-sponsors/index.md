@@ -34,7 +34,7 @@ sponsors:
     logo: /img/podiumlogo_large_jpg.jpg
   - logo: /img/2023-precision-logo.jpg
     link: https://www.precisionpt.org
-  - logo: /img/ad8af1a74c6ddd50e56af2f6a607926d.png
+  - logo: /img/rrs-logos-all-2026_03_rrs-performance-logo-01_he.png
     link: https://www.roadrunnersports.com
   - link: https://www.roka.com/
     logo: /img/roka.jpeg
